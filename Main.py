@@ -17,8 +17,27 @@ class Person(object):
         self.name = name
 
 
+def populate_messages():
+    message_id = 0
+    cnt = 0
+    current = ""
+    for line in CHAT_FILE:
+        # Don't refactor line.strip() into one call, breaks when there are only newline characters.
+        if line[0] != '[':
+            current += '\n' + line.strip()
+            continue
+        if cnt == 0:
+            current = line.strip()
+            cnt += 1
+            continue
+        else:
+            messages.append(parse_message(current, message_id))
+            message_id += 1
+            current = line.strip()
+
+
 def parse_message(message_string, num):
-    # print(message_string)
+    # TODO check for images
     date = message_string[1:11]
     time = message_string[13:21]
     start_content = message_string.index(':', 22)
@@ -26,7 +45,6 @@ def parse_message(message_string, num):
     content = message_string[message_string.index(':', 22) + 2:]
     dt = datetime.datetime(int(date[:4]), int(date[5:7]), int(date[8:10]), int(time[:2]), int(time[3:5]),
                            int(time[6:8]))
-    # print(Message)
     return Message(dt, name, content, num)
 
 
@@ -36,25 +54,6 @@ CHAT_FILE = open(CHAT_FILE_URL, encoding='utf-8')
 
 # Fill messages list
 messages = []
-message_id = 0
-cnt = 0
-current = ""
-for line in CHAT_FILE:
-    # Don't refactor line.strip() into one call, breaks when there are only newline characters.
-    if line[0] != '[':
-        current += '\n' + line.strip()
-        continue
-    if cnt == 0:
-        current = line.strip()
-        cnt += 1
-        continue
-    else:
-        messages.append(parse_message(current, message_id))
-        message_id += 1
-        current = line.strip()
-
-for m in messages:
-    if m.sender == 'Stuart Mesham':
-        print(m)
+populate_messages()
 
 print('fin')
