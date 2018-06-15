@@ -47,6 +47,36 @@ def parse_message(message_string, num):
                            int(time[6:8]))
     return Message(dt, name, content, num)
 
+def get_timespan():
+    pass
+
+def create_timeline():
+    pass
+
+def get_totals():
+    #days
+    #images
+    #messages
+    #words
+    #letters
+    pass
+
+def get_activity_times():
+    pass
+
+def get_most_active_day():
+    pass
+
+def get_averages():
+    # days
+    #images
+    # messages
+    # words
+    # letters
+    pass
+
+def get_ratios():
+    pass
 
 print('WhatsApp Chat Analyser')
 CHAT_FILE_URL = '_chat.txt'
@@ -55,5 +85,12 @@ CHAT_FILE = open(CHAT_FILE_URL, encoding='utf-8')
 # Fill messages list
 messages = []
 populate_messages()
+get_timespan()
+create_timeline()
+get_totals()
+get_activity_times()
+get_most_active_day()
+get_averages()
+get_ratios()
 
 print('fin')
