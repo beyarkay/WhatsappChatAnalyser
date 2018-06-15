@@ -7,6 +7,7 @@ class Message(object):
         self.time = time
         self.sender = sender
         self.content = content
+        self.isImage = content == '<image omitted>'
 
     def __repr__(self):
         return self.ID.__str__() + ' ' + self.time.__str__() + ' ' + self.sender + ': ' + self.content
@@ -47,36 +48,57 @@ def parse_message(message_string, num):
                            int(time[6:8]))
     return Message(dt, name, content, num)
 
+
 def get_timespan():
-    pass
+    return messages[len(messages) - 1].time - messages[0].time
+
 
 def create_timeline():
     pass
 
+
 def get_totals():
-    #days
-    #images
-    #messages
-    #words
-    #letters
-    pass
+    totals = {'days': get_timespan().days, 'images': 0,
+              'messages': len(messages), 'words': 0, 'letters': 0}
+
+    for message in messages:
+        if message.isImage:
+            totals['images'] += 1
+            totals['messages'] -= 1
+        else:
+            # TODO handle emojis correctly
+            for word in message.content.split():
+                totals['words'] += 1
+                totals['letters'] += len(word)
+
+    return totals
+
 
 def get_activity_times():
     pass
 
+
 def get_most_active_day():
     pass
 
+
 def get_averages():
-    # days
-    #images
-    # messages
-    # words
-    # letters
-    pass
+    totals = get_totals()
+    averages = {'lpm': 0, 'wpm': 0, 'mpd': 0, 'lpd': 0}
+
+    averages['wpm'] = totals['words'] / totals['messages']
+    averages['lpm'] = totals['letters'] / totals['messages']
+    averages['mpd'] = totals['messages'] / totals['days']
+    averages['lpd'] = totals['letters'] / totals['days']
+
+    return averages
+
+    # words per message, letters per message, messages per day and letters per day
+
 
 def get_ratios():
     pass
+
 
 print('WhatsApp Chat Analyser')
 CHAT_FILE_URL = '_chat.txt'
@@ -85,12 +107,12 @@ CHAT_FILE = open(CHAT_FILE_URL, encoding='utf-8')
 # Fill messages list
 messages = []
 populate_messages()
-get_timespan()
+print(get_timespan())
 create_timeline()
-get_totals()
+print(get_totals())
 get_activity_times()
 get_most_active_day()
-get_averages()
+print(get_averages())
 get_ratios()
 
 print('fin')
