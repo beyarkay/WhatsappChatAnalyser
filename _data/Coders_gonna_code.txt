@@ -1,0 +1,2248 @@
+05/02/2019, 20:59 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+05/02/2019, 20:59 - Stuart "Stew" Mesham created group "Code"
+05/02/2019, 20:59 - Stuart "Stew" Mesham added +33 6 45 96 26 98
+05/02/2019, 21:00 - Stuart "Stew" Mesham: https://www.news.uct.ac.za/article/-2017-09-21-a-campus-necessity
+05/02/2019, 21:01 - Stuart "Stew" Mesham: What are your guy's thoughts on this?
+05/02/2019, 21:03 - Stuart "Stew" Mesham: I have an idea for a much simplified reincarnation
+05/02/2019, 21:04 - Luc Hayward: Has boyd contacted you with his project idea
+05/02/2019, 21:04 - Stuart "Stew" Mesham: Yeah
+05/02/2019, 21:04 - Luc Hayward: ....
+05/02/2019, 21:04 - Stuart "Stew" Mesham: It's Boyd's idea
+05/02/2019, 21:04 - Luc Hayward: So Boyd has an idea😂
+05/02/2019, 21:04 - Stuart "Stew" Mesham: But a simple interface
+05/02/2019, 21:04 - Luc Hayward: RIP Boyd
+05/02/2019, 21:04 - Stuart "Stew" Mesham: Sorry I should've made that clear 😂
+05/02/2019, 21:04 - Luc Hayward: 😂
+05/02/2019, 21:04 - Luc Hayward: Sneaky
+05/02/2019, 21:04 - Stuart "Stew" Mesham: I assumed he'd already talked to you a lot so you'd already know
+05/02/2019, 21:04 - Luc Hayward: anyway
+05/02/2019, 21:05 - Luc Hayward: yeah so Boyd had an Idea
+05/02/2019, 21:05 - Luc Hayward: no plagiarism please stuart ;)
+05/02/2019, 21:05 - Luc Hayward: anyway
+05/02/2019, 21:05 - Luc Hayward: I know Charles
+05/02/2019, 21:05 - Luc Hayward: I worked with him
+05/02/2019, 21:05 - Stuart "Stew" Mesham: So when I said "I have an idea" I meant I had an idea re this project
+05/02/2019, 21:06 - Luc Hayward: I'm messing with you😂
+05/02/2019, 21:06 - Stuart "Stew" Mesham: Nah I run a clean show 😄
+05/02/2019, 21:06 - Stuart "Stew" Mesham: No black marks against my name 😆
+05/02/2019, 21:06 - Stuart "Stew" Mesham: Ek weet 😂
+05/02/2019, 21:07 - Stuart "Stew" Mesham: Sorry Boyd, in hindsight this looks really rude 😂
+05/02/2019, 21:08 - Luc Hayward: 😂😂 OK so shoot
+05/02/2019, 21:09 - Stuart "Stew" Mesham: Ok let me draw it
+05/02/2019, 21:09 - Luc Hayward: <Media omitted>
+05/02/2019, 21:23 - Luc Hayward: chat
+05/02/2019, 21:24 - Luc Hayward: Boyd and I are friends but not that close
+05/02/2019, 21:24 - Stuart "Stew" Mesham: Oh _that's_ what you meant
+05/02/2019, 21:24 - Stuart "Stew" Mesham: My goodness drawing was difficult
+05/02/2019, 21:24 - Stuart "Stew" Mesham: 😂
+05/02/2019, 21:24 - Stuart "Stew" Mesham: Ok so my idea was
+05/02/2019, 21:25 - Stuart "Stew" Mesham: So those electronic train station/airport boards we all know and love?
+05/02/2019, 21:26 - Stuart "Stew" Mesham: <Media omitted>
+05/02/2019, 21:26 - Stuart "Stew" Mesham: Live updated
+05/02/2019, 21:27 - Stuart "Stew" Mesham: Huh, huuuuh... 😏
+05/02/2019, 21:28 - Stuart "Stew" Mesham: Tell me what you guys think. I'm ready to get roasted if that's the truth 😂
+05/02/2019, 21:29 - Luc Hayward: What did you draw this in
+05/02/2019, 21:29 - Stuart "Stew" Mesham: MS word * takes a bow *
+05/02/2019, 21:29 - Luc Hayward: so you know this exists right?
+05/02/2019, 21:29 - Luc Hayward: Just not online as far as I know
+05/02/2019, 21:29 - Stuart "Stew" Mesham: Exactly
+05/02/2019, 21:29 - Stuart "Stew" Mesham: Not live updated
+05/02/2019, 21:30 - Luc Hayward: So you want to just put it online?
+05/02/2019, 21:30 - Luc Hayward: Well the boards by the food court and other areas are aren't they?
+05/02/2019, 21:30 - Luc Hayward: Cool
+05/02/2019, 21:30 - Stuart "Stew" Mesham: Well that's the thing. We have to get our Jammy tracking system up and running and feed our predictions into it.
+05/02/2019, 21:32 - Stuart "Stew" Mesham: So we're basically having to technically achieve most of what those other guys did but instead of the fancy please-download-me app + user accounts etc. the users just hit this webpage and they see everything they really care about when they're on their way to the jammie stop, right?
+05/02/2019, 21:35 - Stuart "Stew" Mesham: Yeah, apart from our real-time predictions I think this is actually a lot easier to read and access the official schedule. Also html5 we can request their location (if they allow once it becomes a saved automatic preference I think) and show the stop they're closest to straight away.
+05/02/2019, 21:36 - Stuart "Stew" Mesham: *than the official...
+05/02/2019, 21:41 - Stuart "Stew" Mesham: Also I know Boyd has a much more ambitious project in mind. I think the train-station board is a pretty good MVP though. It also doesn't prevent us from carrying on once we've got it running and eventually do Boyd's whole idea. This is basically just a very simple interface but the backend is the same as what we would do with Boyd's.
+05/02/2019, 21:47 - Luc Hayward: es
+05/02/2019, 21:47 - Luc Hayward: In theory the system should be extensible to any data
+05/02/2019, 21:47 - Luc Hayward: Exactly
+05/02/2019, 21:47 - Luc Hayward: Yep exactly
+05/02/2019, 21:48 - Luc Hayward: Yeah true.
+05/02/2019, 21:48 - Luc Hayward: Yeah we must just make sure that it's layed out nicely
+05/02/2019, 21:48 - Luc Hayward: All on ratchet studios github page?
+05/02/2019, 21:52 - Stuart "Stew" Mesham: Yeah sounds good 👌🏻
+05/02/2019, 22:04 - Luc Hayward: Name for Repo?
+05/02/2019, 22:07 - Stuart "Stew" Mesham: That's a scary question
+05/02/2019, 22:08 - Luc Hayward: It can be renamed
+05/02/2019, 22:08 - Stuart "Stew" Mesham: Oh cool
+05/02/2019, 22:09 - Luc Hayward: soooo
+05/02/2019, 22:10 - Stuart "Stew" Mesham: https://satellitehigh.bandcamp.com/track/the-bus-is-late
+05/02/2019, 22:23 - Boyd Kane: Shoh
+05/02/2019, 22:23 - Luc Hayward: Done
+05/02/2019, 22:26 - Luc Hayward: Has to be public cause it's made under Ratchet studio's instead of one of our private accounts
+05/02/2019, 22:27 - Boyd Kane: Good chat guys👍🏼 do you all want to meet tomorrow afternoon to get some details down irl?
+05/02/2019, 22:38 - Luc Hayward: You can view this as essential required reading before contributing to any repos anytime in order of usefulness and importance 😂 Number 2 maybe easier if you want your hand held more :)
+
+https://www.atlassian.com/git/tutorials/using-branches
+
+https://guides.github.com/introduction/flow/
+
+https://gist.github.com/blackfalcon/8428401
+05/02/2019, 22:40 - Luc Hayward: Please
+05/02/2019, 22:40 - Luc Hayward: For the love of god
+05/02/2019, 22:40 - Luc Hayward: Don't commit directly to master unless it is the most asine of changes once things actually start
+05/02/2019, 22:41 - Luc Hayward: Actually number 2 is perhaps more quickstart and a better place to start
+05/02/2019, 22:43 - Luc Hayward: And yes I know I just repeatedly committed to master xD but nobody is devving yet
+05/02/2019, 22:46 - Luc Hayward: 💙
+05/02/2019, 22:51 - Boyd Kane: Nah I definitely need this Luc👌🏼💙
+05/02/2019, 22:52 - Luc Hayward: 😂 I still have this stuff saved on my pc just to be able to check it
+05/02/2019, 22:52 - Luc Hayward: Git is a beast that I'm not even close to defeating
+05/02/2019, 22:59 - Stuart "Stew" Mesham: Yeah, imma go running with Danny Bodi at 6:30 in Newlands though so it'll have to be before that
+05/02/2019, 23:00 - Stuart "Stew" Mesham: I also want to get a parking disc so if we're at UCT please can we make it a time when the parking fines office is open 🙏🏻
+05/02/2019, 23:00 - Luc Hayward: You can't
+05/02/2019, 23:00 - Luc Hayward: read your emails bru
+05/02/2019, 23:00 - Stuart "Stew" Mesham: What?
+05/02/2019, 23:00 - Luc Hayward: Parking discs remain valid until further notice
+05/02/2019, 23:00 - Stuart "Stew" Mesham: Oh awesome thanks
+05/02/2019, 23:01 - Luc Hayward: They aren't ready to sell this year's discs and new staff/students are getting temp discs
+05/02/2019, 23:01 - Stuart "Stew" Mesham: That's fantastic
+05/02/2019, 23:01 - Stuart "Stew" Mesham: Ok then any time before 6:30 works for me 👍🏻
+05/02/2019, 23:02 - Luc Hayward: Staff and students are advised that the 2018 parking discs remain valid until further notice. The Traffic Office will advise at a later stage when the 2019 discs are ready to be issued. New staff and eligible new students are being issued with temporary discs.
+05/02/2019, 23:02 - Boyd Kane: I have some errands to run at UCT, so I'll probably finish those around 1500
+05/02/2019, 23:03 - Boyd Kane: Maybe 1400 at a push
+05/02/2019, 23:03 - Luc Hayward: ? What do you have that takes so long this week xD
+05/02/2019, 23:03 - Stuart "Stew" Mesham: Naas 15:00 is against the traffic for us so we love it
+05/02/2019, 23:03 - Boyd Kane: Meeting up with some first years @ the creamery
+05/02/2019, 23:04 - Luc Hayward: Oh fun
+05/02/2019, 23:04 - Luc Hayward: 😂
+05/02/2019, 23:04 - Stuart "Stew" Mesham: Heckers
+05/02/2019, 23:04 - Boyd Kane: 🍨🍧🍡🍦
+05/02/2019, 23:04 - Boyd Kane: #representation
+05/02/2019, 23:05 - Luc Hayward: <Media omitted>
+05/02/2019, 23:05 - Stuart "Stew" Mesham: You're already getting the hang of UCT 👌🏻
+05/02/2019, 23:05 - Luc Hayward: 😂
+05/02/2019, 23:06 - +33 6 45 96 26 98 changed this group's icon
+05/02/2019, 23:06 - Luc Hayward changed the subject from "Code" to "The Bus is Late"
+05/02/2019, 23:06 - Boyd Kane: Lovely, so 1500 at upper campus somewhere?
+05/02/2019, 23:07 - Stuart "Stew" Mesham: Splendid
+05/02/2019, 23:09 - Luc Hayward: I mean sure
+05/02/2019, 23:10 - Luc Hayward: I want to learn front end web dev but I'm also busy learning C++ (and refreshing my knowledge on C#)
+05/02/2019, 23:11 - Stuart "Stew" Mesham: We're gonna make a great team
+05/02/2019, 23:11 - Stuart "Stew" Mesham: I don't want to front end web dev 😂
+05/02/2019, 23:12 - Stuart "Stew" Mesham: But we can discuss more tomorrow I guess
+05/02/2019, 23:15 - Luc Hayward: Also if we're just using one of our UCT accounts to host the website, it only supports HTML and PHP5 (and client side things like Javascript). It also says that it should only be used for CS projects and not for things not relating to your degree or promoting a business so.....technically we're all good?
+05/02/2019, 23:16 - Stuart "Stew" Mesham: I think it's best we discuss this stuff tomorrow but I think this depends on whether we expect to make money out of this
+05/02/2019, 23:16 - Boyd Kane: Yeah, I'm off to bed👌🏼
+05/02/2019, 23:17 - Luc Hayward: I dont
+05/02/2019, 23:17 - Stuart "Stew" Mesham: Me neither 😂
+05/02/2019, 23:17 - Luc Hayward: Well, in the sense that it's good for interviewing topics.
+05/02/2019, 23:18 - Stuart "Stew" Mesham: But UCT gives us a whole Linux instance! We're not limited to anything! The world is our oyster! 🌅
+05/02/2019, 23:18 - Luc Hayward: Nope
+05/02/2019, 23:18 - Luc Hayward: Your linux instance is only online while you
+05/02/2019, 23:18 - Luc Hayward: while you actually force it to stay open
+05/02/2019, 23:18 - Stuart "Stew" Mesham: Naaah surely not
+05/02/2019, 23:18 - Luc Hayward: So you have to be logged in or maintaining a shell session via ssh
+05/02/2019, 23:20 - Stuart "Stew" Mesham: No you just open a tmux session, start your code, detach from the tmux session and then you can close your ssh session and carry on with your life. When you ssh in the following week you should be able to re-attach to your tmux session as if you never left
+05/02/2019, 23:20 - Luc Hayward: You'll see if you go into the honours lab sometimes, people will sticky note over screens with notes to not touch because they have simulations running
+05/02/2019, 23:20 - Stuart "Stew" Mesham: I'll try leave some code running overnight and see if they kill my tmux sesh
+05/02/2019, 23:20 - Luc Hayward: As far as I know you'll get timed out by the server
+05/02/2019, 23:22 - Luc Hayward: I think when I was in there getting my research data from them they said if you have really long running things you need to warn the sys admin so that it doesn't kill your thread
+05/02/2019, 23:23 - Stuart "Stew" Mesham: Oh 😂
+05/02/2019, 23:23 - Luc Hayward: But maybe if you don't have a high load runnning?
+05/02/2019, 23:23 - Stuart "Stew" Mesham: Well they'd probably be chilled with our project so we can just ask them to let us run stuff
+05/02/2019, 23:25 - Luc Hayward: But yeah also like don't know how that would work
+05/02/2019, 23:26 - Luc Hayward: Cause really only your public_html directory is open to the internet I think so maybe if you devved in there it would work?
+05/02/2019, 23:27 - Luc Hayward: I mean if necessary just leave a server running it's doable for like $5/month I think or less
+05/02/2019, 23:27 - Stuart "Stew" Mesham: Yeah
+05/02/2019, 23:38 - Stuart "Stew" Mesham: This will probably be the easiest option even if it means we have to pay $5 per month between us
+05/02/2019, 23:39 - Luc Hayward: Super cheap and probably helpful
+05/02/2019, 23:39 - Stuart "Stew" Mesham: The other option is to try convince whoever the admin at UCT is to unblock firewall ports ect for us
+05/02/2019, 23:40 - Luc Hayward: Also I'm fairly certain (if I understand it all correctly) most things will let you point multiple domains to a single server instance ? Or do they usually only open one port for you. Stu, you would know this?
+05/02/2019, 23:40 - Luc Hayward: It's either Stephaan or that other guy (greg?)
+05/02/2019, 23:42 - Stuart "Stew" Mesham: 😂 yeah no they can 100% just have a specific url that goes to some port on our users only it's just a matter of whether they're feeling energetic or lazy
+05/02/2019, 23:42 - Luc Hayward: ???
+05/02/2019, 23:42 - Luc Hayward: Try that again stu haha
+05/02/2019, 23:42 - Luc Hayward: oh no I don't mean for direct connections via IP
+05/02/2019, 23:43 - Luc Hayward: I mean if you had domain names for things
+05/02/2019, 23:43 - Luc Hayward: It's the same concept really though
+05/02/2019, 23:43 - Stuart "Stew" Mesham: Yeah
+05/02/2019, 23:43 - Luc Hayward: So it's essentially an arbitrary amount of connections you can register to your server?
+05/02/2019, 23:44 - Stuart "Stew" Mesham: Not 100% sure how it works
+05/02/2019, 23:45 - Luc Hayward: same xD
+05/02/2019, 23:46 - Stuart "Stew" Mesham: https://www.scaleway.com I see these guys offer a fully-fledged instance for 2 eur (currently R30) per month so I guess it's not a huge deal if we have to pay for our own
+05/02/2019, 23:46 - Luc Hayward: yeah not a huge deal at all
+05/02/2019, 23:48 - Luc Hayward: https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA
+
+This guy is great just fyi
+05/02/2019, 23:49 - Luc Hayward: https://www.youtube.com/user/shiffman
+
+Also Daniel
+06/02/2019, 14:16 - Stuart "Stew" Mesham: All clear for 15:00?
+06/02/2019, 14:16 - Boyd Kane: Oll Korrect
+06/02/2019, 14:24 - Luc Hayward: Sure
+06/02/2019, 14:25 - Luc Hayward: Stu I'm running a little late will you fetch Boyd if he needs haha
+06/02/2019, 14:32 - Boyd Kane: @27722193705 If you can pick me up that would be amazing
+06/02/2019, 14:32 - Boyd Kane: location: https://maps.google.com/?q=-33.9511035,18.4694756
+06/02/2019, 14:32 - Boyd Kane: Otherwise the jammies are my best friend
+06/02/2019, 14:36 - Stuart "Stew" Mesham: If only you knew what time the Jammies would arrive 🤔
+06/02/2019, 14:36 - Stuart "Stew" Mesham: I'm also running a bit late soz, I'll message when I'm leaving 😂
+06/02/2019, 14:36 - Boyd Kane: Someone should make an app for that
+06/02/2019, 14:36 - Boyd Kane: No worries
+06/02/2019, 14:39 - Luc Hayward: I'm fetch you
+06/02/2019, 14:39 - Luc Hayward: From creamery?
+06/02/2019, 14:40 - Stuart "Stew" Mesham: No Cecil road
+06/02/2019, 14:40 - Stuart "Stew" Mesham: Basically drive to Kopano
+06/02/2019, 14:41 - Stuart "Stew" Mesham: Here he is
+06/02/2019, 14:43 - Luc Hayward: She
+06/02/2019, 14:43 - Luc Hayward: Sure
+06/02/2019, 14:43 - Luc Hayward: 20 min
+06/02/2019, 14:44 - Boyd Kane: Cheers Luc👌🏼
+06/02/2019, 14:51 - Stuart "Stew" Mesham: Soz I'm v late so you guys can talk behind my back for a while as punishment
+06/02/2019, 14:53 - Luc Hayward: Shall do
+06/02/2019, 15:02 - Luc Hayward: Here
+06/02/2019, 15:02 - Boyd Kane: 👌🏼
+06/02/2019, 15:08 - Stuart "Stew" Mesham: Leaving now
+06/02/2019, 15:17 - Luc Hayward: Lots
+06/02/2019, 15:19 - Stuart "Stew" Mesham: Ugh I'm stuck in traffic what's going on
+06/02/2019, 15:24 - Luc Hayward: Go up to the honours lab
+06/02/2019, 15:24 - Luc Hayward: Ours is closed
+06/02/2019, 15:28 - Luc Hayward: Actually
+06/02/2019, 15:28 - Luc Hayward: Go to CS302
+06/02/2019, 15:31 - Stuart "Stew" Mesham: Ek is gepark
+06/02/2019, 16:48 - Stuart "Stew" Mesham: #include <iostream>
+#include <chrono>
+#include <thread>
+
+using namespace std;
+using namespace std::this_thread;
+using namespace std::chrono;
+
+int main() {
+	cout << "Welcome to interpol" << endl;
+	for (int i = 0; i < 400; i++) {
+		cout << "\r" << i << flush;
+		sleep_for(milliseconds(10));
+	}
+	for (int i = 0; i < 400; i++) {
+		cout << "\r" << 399 << rand() << flush;
+		sleep_for(milliseconds(10));
+	}
+	cout << endl;
+	sleep_for(milliseconds(3000));
+	cout << "You have been terminated" << endl;
+	return 0;
+}
+06/02/2019, 17:34 - Luc Hayward: https://github.com/AchoArnold/discount-for-student-dev
+06/02/2019, 17:34 - Luc Hayward: https://github.com/ripienaar/free-for-dev
+06/02/2019, 17:38 - Stuart "Stew" Mesham: 2019GITHUB50-14a32f0f
+06/02/2019, 17:54 - Luc Hayward: https://hashcodejudge.withgoogle.com/#join-team/4536352662093824/M5RHZTzpfkSVBE6z9vxHSKrcU4eQwLq9niVaAMq_Cik
+06/02/2019, 18:11 - Stuart "Stew" Mesham: https://people.cs.uct.ac.za/~mshstu001/gps_update.php
+06/02/2019, 18:11 - Stuart "Stew" Mesham: <Media omitted>
+06/02/2019, 22:43 - Stuart "Stew" Mesham: Hey guys, thanks for today. Good sesh 👌🏻. Really made me want to join you in the academic year.
+06/02/2019, 22:44 - Stuart "Stew" Mesham: I just realised that I was being dumb trying to setup a mysql database. We could literally just save to a sqlite db or even just append to a csv file and have a download link to the csv/sqlite file for convenience. Much simpler.
+06/02/2019, 22:50 - Luc Hayward: lol gg
+06/02/2019, 23:01 - Boyd Kane: <Media omitted>
+06/02/2019, 23:02 - Stuart "Stew" Mesham: 😂
+06/02/2019, 23:04 - Stuart "Stew" Mesham: I imagine if you annoy the email admin guys too much they wipe, encrypt and password your phone and then disable the cameras and make the incorrect password timeout 6 years.🤷🏻‍♂
+06/02/2019, 23:05 - Stuart "Stew" Mesham: I mean it's understandable. That's what I would do.
+06/02/2019, 23:06 - Luc Hayward: It's alsoi not something you or I have to deal with because we used outlook
+06/02/2019, 23:06 - Boyd Kane: The outlook app?
+06/02/2019, 23:06 - Luc Hayward: ye
+06/02/2019, 23:06 - Luc Hayward: just for the uct email
+06/02/2019, 23:07 - Stuart "Stew" Mesham: I seem to remember having to agree to some similarly dodgy permissions at some point. Not sure if that was at Bishops though.
+06/02/2019, 23:08 - Boyd Kane: but ewwwwww
+06/02/2019, 23:09 - Boyd Kane: What are the odds of me getting the permissions changed?
+06/02/2019, 23:09 - Luc Hayward: I definitely didnt
+06/02/2019, 23:09 - Luc Hayward: and the odds are exactly 0
+06/02/2019, 23:10 - Stuart "Stew" Mesham: Oh yeah you setup your new phone like 3 months ago
+06/02/2019, 23:10 - Boyd Kane: Well goodbye push notifications then😒
+06/02/2019, 23:10 - Stuart "Stew" Mesham: Maybe outlook app doesn't require it
+06/02/2019, 23:10 - Luc Hayward: Guys
+06/02/2019, 23:10 - Luc Hayward: There's no need if you have outlook haha
+06/02/2019, 23:11 - Stuart "Stew" Mesham: Yeah Luc and I are such normies, we just use the outlook app
+06/02/2019, 23:12 - Stuart "Stew" Mesham: Boyd doesn't like the inefficiency of having two email apps, I'm guessing 😂
+06/02/2019, 23:21 - Stuart "Stew" Mesham: Ignore this message if you don't care:
+curl -d "lat=56&lng=45" -X POST https://people.cs.uct.ac.za/~mshstu001/gps_update.php
+06/02/2019, 23:21 - Stuart "Stew" Mesham: So you don't have to install postman ^^ 🙃
+06/02/2019, 23:22 - Stuart "Stew" Mesham: Or just this if you want to see the rejection message:
+curl https://people.cs.uct.ac.za/~mshstu001/gps_update.php
+06/02/2019, 23:30 - Luc Hayward: Or just postman
+06/02/2019, 23:51 - Stuart "Stew" Mesham: Whatever floats ya boat 🛶
+07/02/2019, 17:12 - Stuart "Stew" Mesham: https://www.whereismytransport.com
+07/02/2019, 17:12 - Luc Hayward: 😂
+07/02/2019, 17:34 - Luc Hayward: Rip
+07/02/2019, 17:35 - Luc Hayward: That's cool though
+07/02/2019, 17:41 - Stuart "Stew" Mesham: 😂
+07/02/2019, 17:41 - Stuart "Stew" Mesham: Yeah
+07/02/2019, 18:58 - Boyd Kane: Wrecked
+07/02/2019, 18:59 - Boyd Kane: Interesting that they had to go to businesses for money, and couldn't get any other profit models going
+07/02/2019, 19:05 - Luc Hayward: I suppose you're looking for people who largely don't have disposable income and/or are not from America and Europe (where Google maps is more than enough and can do trains and busses and all). So there's only really ads
+07/02/2019, 22:37 - Stuart "Stew" Mesham: Even though these guys ripped off Boyd's idea, I'm still keen to build our own just for the experience 👌🏻🤷🏻‍♂
+08/02/2019, 14:35 - Luc Hayward: Hey Luc. I'm not personally involved with project anymore, but my friend is. You can contact him via whatsapp, his name is Takunda Chirema and his number is 062 572 0767
+08/02/2019, 14:44 - Boyd Kane: I'll not sure actually. I'd rather come up with a unique idea before committing my time to it
+08/02/2019, 15:23 - Luc Hayward: Have either of you taken a look at those yt channels?
+11/02/2019, 15:39 - +33 6 45 96 26 98 changed the subject from "The Bus is Late" to "Coders gonna code"
+11/02/2019, 15:39 - Boyd Kane: *Inverted Lectures*
+
+This year, we're experimenting with inverted lectures: most material is covered in video lectures recorded in 2012 (already watched by over 100,000 people), which you can conveniently play at faster speed than real time. In-class time will be divided between answers to questions, new material presented by the professor and/or guest lecturers, and in-class problem solving, with a focus on problem solving.
+11/02/2019, 15:39 - Boyd Kane: What MIT is up to
+11/02/2019, 15:48 - Luc Hayward: cool
+11/02/2019, 15:48 - Luc Hayward: we had that
+11/02/2019, 15:48 - Luc Hayward: for one class
+11/02/2019, 15:48 - Luc Hayward: was eh
+11/02/2019, 16:27 - Luc Hayward: How was day one?
+11/02/2019, 17:13 - Stuart "Stew" Mesham: (Luc missed his)
+11/02/2019, 17:13 - Luc Hayward: stfu 😂
+11/02/2019, 17:37 - Boyd Kane: Oh it was good, got an AWS hoodie in CompSci
+11/02/2019, 17:37 - Luc Hayward: What from who>>?>
+11/02/2019, 17:38 - Boyd Kane: Some Amazon guys came through and had a couple extra when I went to chat to them
+11/02/2019, 17:38 - Luc Hayward: What were they speaking to you about?
+11/02/2019, 17:41 - Boyd Kane: Apparently they've got a paper coming out on an efficient TSP. Basically they're just trying to hype up the people and get them all to summon Cthulu with the silicon of a million hello works programs
+11/02/2019, 17:42 - Luc Hayward: TSP?
+11/02/2019, 17:42 - Luc Hayward: Stu wherre was our hype talk
+11/02/2019, 17:44 - Boyd Kane: 💩 travelling💩 salesman💩 problem💩
+11/02/2019, 17:44 - Luc Hayward: Ah ok
+11/02/2019, 17:44 - Boyd Kane: (I've got no super cool hoodie)
+11/02/2019, 17:44 - Luc Hayward: you don't have a hoodie?
+11/02/2019, 17:56 - Boyd Kane: Nah I'm pulling a bad joke
+11/02/2019, 18:01 - Luc Hayward: Oh....ok I did not get that at the start I thought you were serious 😂
+11/02/2019, 18:35 - Stuart "Stew" Mesham: That took me a while 😂
+11/02/2019, 20:25 - Luc Hayward: Did you actually realise...
+11/02/2019, 20:27 - Stuart "Stew" Mesham: I read the explanation a few times 😶
+11/02/2019, 20:30 - Luc Hayward: I still don't see how I was meant to recognise the joke 😂
+11/02/2019, 21:32 - Luc Hayward: https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge?utm_source=twitter&utm_medium=social&utm_campaign=other_global_announcement_2019-02-11_obstacle-tower-challenge&utm_content=now-live_landing-page
+11/02/2019, 21:32 - Luc Hayward: Anybody interested
+11/02/2019, 21:51 - Luc Hayward: Alternatively
+https://itch.io/jam/brackeys-2
+11/02/2019, 23:07 - Boyd Kane: Both look cool, I'll have a better look tomorrow but in general I'm keen for coding competitions
+12/02/2019, 07:55 - Stuart "Stew" Mesham: <Media omitted>
+12/02/2019, 13:03 - Boyd Kane: ☺
+13/02/2019, 11:58 - Luc Hayward: Protest in the library. Fire alarm pulled 👍
+13/02/2019, 11:59 - Boyd Kane: Cheers
+13/02/2019, 12:16 - Stuart "Stew" Mesham: And... we're back
+13/02/2019, 12:27 - Luc Hayward: Oh nice
+15/02/2019, 10:26 - Stuart "Stew" Mesham: https://thispersondoesnotexist.com/
+15/02/2019, 10:53 - Boyd Kane: <Media omitted>
+15/02/2019, 10:55 - Boyd Kane: <Media omitted>
+15/02/2019, 10:55 - Boyd Kane: You deleted this message
+15/02/2019, 10:56 - Boyd Kane: The ones from the website are really good
+15/02/2019, 11:00 - Stuart "Stew" Mesham: Woah
+15/02/2019, 11:01 - Stuart "Stew" Mesham: He has facepaint 😂
+15/02/2019, 11:01 - Stuart "Stew" Mesham: What incredible intelligence this AI must have
+15/02/2019, 11:23 - Boyd Kane: You know this is probably entirely accurate😂
+15/02/2019, 13:25 - Luc Hayward: Have seen even better examples but cool
+16/02/2019, 09:54 - Luc Hayward: so Google (well deep mind) say they won't release this because it would be too easy to use in a malicious way
+
+https://www.bloomberg.com/opinion/articles/2019-02-15/artificial-intelligence-is-getting-good-at-fake-news
+16/02/2019, 14:06 - Luc Hayward: Check out @Elicit_Thought’s Tweet: https://twitter.com/Elicit_Thought/status/1096733813261111301?s=08
+
+
+The fuck?
+16/02/2019, 14:07 - Luc Hayward: Check out @ProgressRSA’s Tweet: https://twitter.com/ProgressRSA/status/1096712015027097600?s=08
+18/02/2019, 06:38 - Luc Hayward: Check out @MKBHD’s Tweet: https://twitter.com/MKBHD/status/1097277448243286016?s=08
+
+Probably the best examples I've seen
+18/02/2019, 07:22 - Boyd Kane: Isn't it the same as Stu's?
+18/02/2019, 07:23 - Luc Hayward: Same link, just meant these particular face examples
+18/02/2019, 07:23 - Luc Hayward: As in the fewest errors
+18/02/2019, 07:24 - Luc Hayward: Oh nvm
+18/02/2019, 07:24 - Luc Hayward: There's just as many of you open them fully
+18/02/2019, 07:24 - Luc Hayward: Weird that it always seems to chunk out the top of the head in the middle
+18/02/2019, 07:56 - Boyd Kane: I feel this is one ~small step~ team of Turks from automatic meme generation
+18/02/2019, 07:58 - Stuart "Stew" Mesham: Oh yeah the ~interns~ team of Turks will have to get busy
+18/02/2019, 07:59 - Boyd Kane: Interns: _furiously labelling engine pixels_
+18/02/2019, 08:00 - Stuart "Stew" Mesham: 😂
+18/02/2019, 08:01 - Stuart "Stew" Mesham: <Media omitted>
+18/02/2019, 08:36 - Stuart "Stew" Mesham: Guys! I'm gonna get a CS major!
+18/02/2019, 08:42 - Boyd Kane: 🤣🤣😂
+18/02/2019, 08:48 - Luc Hayward: .... I'm very confused
+18/02/2019, 08:48 - Luc Hayward: Nice!
+18/02/2019, 09:31 - Luc Hayward: yeah so stuart didnt know that "tier is pronounced "teer" and not "tire"
+18/02/2019, 09:34 - Boyd Kane: Just making a jab at Stuart's intern leaders getting the lot of them to label engines for 2 weeks🤷🏼‍♂
+18/02/2019, 09:34 - Luc Hayward: 🤷‍♂
+18/02/2019, 09:34 - Boyd Kane: 🤷🏻‍♂
+18/02/2019, 09:35 - Stuart "Stew" Mesham: What Boyd said
+18/02/2019, 09:35 - Luc Hayward: youre sitting next to me
+18/02/2019, 09:35 - Stuart "Stew" Mesham: What Luc said
+24/02/2019, 12:31 - Luc Hayward: If you too are still after new phones sometime this year, look at the S10E from samsung imo
+25/02/2019, 20:51 - Luc Hayward: Check out @crschmidt’s Tweet: https://twitter.com/crschmidt/status/1099562911960350720?s=08
+25/02/2019, 20:57 - Boyd Kane: This algorithm has better design sense than I do
+25/02/2019, 20:59 - Luc Hayward: 😂😂
+25/02/2019, 21:01 - Stuart "Stew" Mesham: Couldn't have said it better myself 😂
+25/02/2019, 21:03 - Luc Hayward: It can't be that bad?
+25/02/2019, 21:05 - Stuart "Stew" Mesham: These interior designs are top notch
+25/02/2019, 21:25 - Luc Hayward: Today's Bill Gates AMA
+
+https://www.reddit.com/r/IAmA/comments/aunv58/im_bill_gates_cochair_of_the_bill_melinda_gates/?utm_source=reddit-android
+05/03/2019, 14:42 - Luc Hayward: https://www.iol.co.za/capeargus/motoring/app-seeks-to-put-an-end-to-parking-misery-in-cape-town-cbd-19640555
+
+@27673227353  how is this not something we thought to exolore
+05/03/2019, 14:48 - Boyd Kane: Some Americans tried to do a similar thing I think, but it was illegal to sub-lease a parking bay that was owned by your landlord/the city
+05/03/2019, 14:49 - Boyd Kane: So brilliant idea, but you need a really high adoption in order for it to work
+05/03/2019, 15:05 - Luc Hayward: Oh lol ok 😂
+05/03/2019, 15:22 - Luc Hayward: https://youtu.be/98V6PnwVXCc
+Good techincal overview
+05/03/2019, 15:24 - Luc Hayward: Nice easter egg at 4:28
+07/03/2019, 16:13 - Luc Hayward: https://github.com/Microsoft/calculator
+
+Microsoft opensourced their calculator😂
+07/03/2019, 17:10 - Stuart "Stew" Mesham: At last! 😂
+07/03/2019, 18:37 - Luc Hayward: Is alfred really so good to download
+07/03/2019, 20:14 - Boyd Kane: <Media omitted>
+07/03/2019, 20:18 - Boyd Kane: Hundred percent. Just get the free version, have a look into the basics and then see if you like it. Fair warning though, it's like any keyboard shortcuts, you have to put in the effort to remember the basics so that they can become muscle memory
+07/03/2019, 20:20 - Boyd Kane: <Media omitted>
+07/03/2019, 20:20 - Boyd Kane: site
+07/03/2019, 20:25 - Luc Hayward: ....I don't even know what most of those websites are
+07/03/2019, 20:25 - Boyd Kane: It's the vula sites for my courses
+07/03/2019, 20:26 - Luc Hayward: Right 😂
+09/03/2019, 21:55 - Boyd Kane: https://youtu.be/gfHcnig8Lo4
+10/03/2019, 07:06 - Luc Hayward: Hey man, meant to wish you luck for the first maths test 👎 hope it went ok though
+11/03/2019, 10:31 - Boyd Kane: Cheers Luc
+11/03/2019, 10:31 - Boyd Kane: Anyone keen to make a real good paper plane for red bull?
+11/03/2019, 10:32 - Luc Hayward: I saw that, actually thought about mentioning it 😂
+11/03/2019, 10:32 - Boyd Kane: I'm going to go, even if it's just too spectate☺
+11/03/2019, 10:35 - Luc Hayward: Let's enter 😂 is it single or team entry?
+11/03/2019, 10:38 - Stuart "Stew" Mesham: I am so down 😂
+11/03/2019, 10:40 - Boyd Kane: Literally doesn't say
+11/03/2019, 10:41 - Boyd Kane: Not even if you're allowed motors or not
+11/03/2019, 10:46 - Boyd Kane: https://paperwings.redbull.com/global-en/rules
+Okay I found the rules
+12/03/2019, 12:09 - Luc Hayward: <Media omitted>
+12/03/2019, 22:37 - Boyd Kane: http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
+13/03/2019, 12:28 - Luc Hayward: whats this?
+13/03/2019, 12:33 - Luc Hayward: Thats super cool
+13/03/2019, 14:17 - Stuart "Stew" Mesham: That is really really cool
+13/03/2019, 14:19 - Boyd Kane: <Media omitted>
+13/03/2019, 14:19 - Boyd Kane: Super cool
+13/03/2019, 14:21 - Luc Hayward: Betty White represent
+13/03/2019, 20:25 - Boyd Kane: Luke, I think I've got a project for us
+13/03/2019, 20:25 - Boyd Kane: <Media omitted>
+13/03/2019, 21:10 - Luc Hayward: Shoot
+13/03/2019, 21:11 - Boyd Kane: Sorry trying to get a voice note to upload
+13/03/2019, 21:12 - Luc Hayward: It's being weird today, pictures aren't sending properly to some people too
+13/03/2019, 21:13 - Boyd Kane: Yeah it's really not enjoying the voice note. I'll keep trying
+13/03/2019, 21:14 - Boyd Kane: https://itunes.apple.com/za/app/cube-ar/id1269336347?mt=8
+13/03/2019, 21:14 - Boyd Kane: Like that, but better and for Android
+13/03/2019, 21:14 - Boyd Kane: The voice note explains it
+13/03/2019, 21:15 - Stuart "Stew" Mesham: https://github.com/AndroidSteve/Rubik-Cube-Wizard
+13/03/2019, 21:16 - Stuart "Stew" Mesham: This guy has some source code for us
+13/03/2019, 21:24 - Luc Hayward: Send it via WhatsApp web
+13/03/2019, 21:24 - Luc Hayward: The app seems to be a bit broken
+13/03/2019, 21:25 - Luc Hayward: Is it an AR Rubik's cube game?
+13/03/2019, 21:25 - Stuart "Stew" Mesham: https://youtu.be/ek0tgfNh_nU
+13/03/2019, 21:25 - Stuart "Stew" Mesham: That's a video of it
+13/03/2019, 21:27 - Stuart "Stew" Mesham: This guy has a video of his with a pretentious tower of textbooks behind it to scare us away 😂
+13/03/2019, 21:31 - Luc Hayward: Must I watch ?
+13/03/2019, 21:31 - Boyd Kane: It's an impressive display
+13/03/2019, 21:32 - Luc Hayward: That's long af but very cool. Seems complex as shit
+13/03/2019, 22:44 - Boyd Kane: I was actually talking about the video from Stu's GitHub link🙈:
+13/03/2019, 22:45 - Boyd Kane: http://youtu.be/4yRuhoLrG7s
+14/03/2019, 19:04 - Luc Hayward: Only issue around having the camera seeing the bottom is that we interact with the cube from the top?
+14/03/2019, 19:04 - Luc Hayward: Unless I'm missing something
+15/03/2019, 10:33 - Boyd Kane: Are you guys free?
+15/03/2019, 10:34 - Stuart "Stew" Mesham: Not today sorry
+15/03/2019, 10:36 - Boyd Kane: 😂it's awake
+15/03/2019, 10:37 - Stuart "Stew" Mesham: It is... 😅
+15/03/2019, 10:40 - Luc Hayward: It?
+15/03/2019, 10:40 - Luc Hayward: Oh
+15/03/2019, 10:40 - Luc Hayward: Stuart is it
+15/03/2019, 10:40 - Luc Hayward: I am
+15/03/2019, 10:40 - Luc Hayward: My lunch got moved so actually am free today 😂
+15/03/2019, 10:44 - Stuart "Stew" Mesham: Who moves your lunch?
+15/03/2019, 10:45 - Luc Hayward: Moved it to yesterday
+15/03/2019, 10:45 - Stuart "Stew" Mesham: Shame today's gonna be a long day
+15/03/2019, 10:45 - Luc Hayward: ? For you?
+15/03/2019, 10:46 - Stuart "Stew" Mesham: Well you don't have lunch today 🤷🏻‍♂
+15/03/2019, 10:58 - Luc Hayward: right... haha
+15/03/2019, 10:59 - Stuart "Stew" Mesham: * makes a joke *
+15/03/2019, 11:58 - Stuart "Stew" Mesham: Ok new news
+15/03/2019, 11:58 - Stuart "Stew" Mesham: I'm free until 2
+15/03/2019, 12:00 - Luc Hayward: I should be back before 1?
+15/03/2019, 12:20 - Luc Hayward: I'll be around from 12:45-1
+15/03/2019, 12:20 - Luc Hayward: Till 2*
+15/03/2019, 13:01 - Boyd Kane: I'm free, but did you guys here about the talk by Google about AMP?
+15/03/2019, 13:01 - Boyd Kane: In CS 2A
+15/03/2019, 13:02 - Stuart "Stew" Mesham: Ah yeah, I'm not gonna go though
+15/03/2019, 13:02 - Boyd Kane: You deleted this message
+15/03/2019, 13:03 - Boyd Kane: Hoekom nie?
+15/03/2019, 13:06 - Luc Hayward: Also probably not going
+15/03/2019, 13:06 - Luc Hayward: Purely out of protest for how awful amp is
+15/03/2019, 13:06 - Luc Hayward: makes me cry at least once a week
+15/03/2019, 13:07 - Luc Hayward: but what time is it, I cuold be convinced
+15/03/2019, 13:07 - Stuart "Stew" Mesham: Why so awful? 😂
+15/03/2019, 13:07 - Luc Hayward: It just really annoys me
+15/03/2019, 13:08 - Luc Hayward: the web pages don't actually work half the time
+15/03/2019, 13:08 - Luc Hayward: sometimes I don't want to open something in the reddit app, stop making me do that to see the rest of the content
+15/03/2019, 13:09 - Luc Hayward: stop making me have to manually edit the url, I should be able to just change to non-amp in one click or even better, just specify never serve me amp pages...
+15/03/2019, 13:09 - Stuart "Stew" Mesham: Oh yeah this annoys me to no end 😂
+15/03/2019, 13:10 - Luc Hayward: Also at least for me, half the time if I scroll down in a amp page and then I want to close the tab I have to scroll ALLL THE WAY UP to actually be able to open my tabs view and swipe the tab away. Why???
+15/03/2019, 13:11 - Stuart "Stew" Mesham: I didn't realise all of this things were associated with AMP, but I hate those too 😂
+15/03/2019, 13:11 - Luc Hayward: yeah
+15/03/2019, 13:11 - Luc Hayward: its all amp
+15/03/2019, 13:11 - Stuart "Stew" Mesham: And when I try copy the page URL to send to someone it's a huge mission
+15/03/2019, 13:12 - Luc Hayward: and whats worse is that everywhere is going to start using it because google (at least thats what I read, might not be true now) incentivises you providing an amp page and ranks them higher
+15/03/2019, 13:12 - Luc Hayward: its such a pain
+15/03/2019, 13:12 - Luc Hayward: Yes! you have to drage the cursor all the way to the start every time and its also the only way to load the non-amp page
+15/03/2019, 13:13 - Stuart "Stew" Mesham: This is what I call a dystopian future
+15/03/2019, 14:05 - Boyd Kane: Guys you know it's open source right?
+15/03/2019, 14:05 - Boyd Kane: And the talk was largely on getting started with OS
+15/03/2019, 14:07 - Boyd Kane: Also, if anything works well, then you'll never notice it
+15/03/2019, 14:11 - Luc Hayward: 😂 I know, the open source isn't making it any better yet
+15/03/2019, 14:14 - Boyd Kane: I mean that you can fix the problems that irk you so
+15/03/2019, 14:43 - Luc Hayward: True I guess
+18/03/2019, 12:31 - Luc Hayward: <Media omitted>
+18/03/2019, 12:32 - Stuart "Stew" Mesham: I also saw that, but it turns out it's on a Saturday 👎🏻😆
+18/03/2019, 17:15 - Boyd Kane: Living a sensible distance from UCT😉I might pop in and save myself having to make lunch😂
+18/03/2019, 17:54 - Luc Hayward: 😂 You say that like it would be hard to pop home for extra food
+18/03/2019, 17:54 - Luc Hayward: Also stu you're right thats too far
+18/03/2019, 17:55 - Luc Hayward: I used to drive that distance but no more
+18/03/2019, 17:55 - Stuart "Stew" Mesham: lol 😂
+18/03/2019, 18:52 - Boyd Kane: 😂Guess I'm just not used to sponging off of the folks after 2 years🤷🏻‍♂
+20/03/2019, 14:09 - Boyd Kane: https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/
+20/03/2019, 14:12 - Luc Hayward: Thats sick
+20/03/2019, 16:31 - Stuart "Stew" Mesham: Very cool
+22/03/2019, 15:39 - Luc Hayward: https://uctfacebook.splashthat.com/
+24/03/2019, 09:19 - Luc Hayward: https://youtu.be/90oG7uyZT-4
+
+For your procrastination incase you haven't stumbled upon this yet (Stu you have I sent his shit to you)
+25/03/2019, 11:35 - Luc Hayward: Boyd you'll have to tell us if this was interesting if you end up watching, Stu and I are hiding in our textbooks before Test1 ruins our lives
+25/03/2019, 11:57 - Stuart "Stew" Mesham: Mmhmm
+25/03/2019, 14:44 - Boyd Kane: 🔥 my finance test is going to burn me alive🔥
+25/03/2019, 14:44 - Boyd Kane: We'll have to watch the ~lecture video~ seminar summary
+25/03/2019, 14:51 - Luc Hayward: 😂😂
+25/03/2019, 15:05 - Stuart "Stew" Mesham: 😂
+25/03/2019, 21:20 - Luc Hayward: Apple event Earlier btw
+25/03/2019, 21:22 - Boyd Kane: https://www.apple.com/lae/apple-events/
+Apple Events - Apple Special Events - Apple
+25/03/2019, 21:22 - Luc Hayward: Check out @danny_lange’s Tweet: https://twitter.com/danny_lange/status/1110204176531779590?s=08
+25/03/2019, 21:22 - Luc Hayward: Is the stream up already?
+25/03/2019, 21:23 - Luc Hayward: Nice
+25/03/2019, 21:23 - Luc Hayward: Some interesting stuff
+27/03/2019, 08:53 - Luc Hayward: <Media omitted>
+27/03/2019, 12:06 - Luc Hayward: Friends tattoo
+27/03/2019, 14:43 - Boyd Kane: 😂 with the flowers and alles?
+27/03/2019, 14:53 - Luc Hayward: I think those are to tie it in with the piece on the front of the nice
+27/03/2019, 17:00 - Luc Hayward: https://youtu.be/277611ExU9A
+27/03/2019, 17:52 - Luc Hayward: https://youtu.be/8J00rfZE17Y
+28/03/2019, 18:34 - Boyd Kane: https://youtu.be/97t7Xj_iBv0
+1. Explanation on compliant mechanisms
+28/03/2019, 18:35 - Boyd Kane: https://youtu.be/IUe3mGkngs4
+2. Why on earth is Disney working with compliant mechanisms?
+28/03/2019, 18:35 - Luc Hayward: This was great
+28/03/2019, 18:35 - Luc Hayward: This is Disney? It's in my watch later still
+28/03/2019, 19:58 - Boyd Kane: Disney has a research division apparently🤷🏻‍♂
+28/03/2019, 20:01 - Boyd Kane: Disney Research is a network of research labs supporting The Walt Disney Company. Its purpose is to pursue scientific and technological innovation to advance the company's broad media and entertainment efforts.
+
+It has facilities in Los Angeles, Zurich and Edinburgh. Research topics include *computer graphics, video processing, computer vision, robotics, radio and antennas, wireless communications, human-computer interaction, displays, data mining, machine learning, and behavioral sciences.* The lab in Cambridge, Massachusetts was closed in January 2016.
+
+Disney Research is managed by an internal Disney Research Council co-chaired by Disney-Pixar's Ed Catmull and including the directors of the individual labs.
+
+Notable works
+BB-8 was a physical prop developed by Disney Research, created by special effects artist Neal Scanlan.
+28/03/2019, 21:17 - Luc Hayward: Their research into humanoid robotic acrobatics is super cool
+28/03/2019, 22:38 - Boyd Kane: Ahh I remember seeing this but not that it was Didney. Do you have a link?
+28/03/2019, 22:47 - Luc Hayward: I'll find for you tomorrow, was on YouTube. Something like Disney robot stuntmen
+01/04/2019, 11:40 - Boyd Kane: <Media omitted>
+01/04/2019, 11:43 - Luc Hayward: Been that way since yesterday 😂
+01/04/2019, 11:47 - Boyd Kane: Since American April fools?
+01/04/2019, 11:48 - Luc Hayward: Hmm no America are behind us
+01/04/2019, 11:48 - Luc Hayward: Was that way at 10am yesterday when I first went on
+02/04/2019, 10:40 - Luc Hayward: https://www.itnews.com.au/news/aws-drops-cloud-storage-price-to-2-terabyte-month-523086
+02/04/2019, 10:53 - Boyd Kane: Jeepers
+02/04/2019, 10:54 - Boyd Kane: Although they'll take 'less than 12 hours' to get your data
+02/04/2019, 10:56 - Luc Hayward: Yeah it's for deep storage so they also charge you to retrieve it
+02/04/2019, 11:00 - Boyd Kane: What exactly do they do that takes 12 hours to get the data back though?
+02/04/2019, 13:16 - Luc Hayward: I assume there's either HEAVY compression done, or else the data is either stored on HDD that are not always connected or maybe even stored on tape?
+03/04/2019, 22:08 - Luc Hayward: The second is just stupid
+03/04/2019, 22:10 - Boyd Kane: And the first I was just stupid
+03/04/2019, 22:14 - Luc Hayward: That's weird...your security code just changed did you get a new phone?
+03/04/2019, 22:14 - Boyd Kane: WhatsApp had an episode, had to be purged
+03/04/2019, 22:15 - Boyd Kane: <Media omitted>
+03/04/2019, 22:15 - Luc Hayward: 😂 right
+09/04/2019, 21:29 - Boyd Kane: https://youtu.be/ywWBy6J5gz8
+This group is called the AlgoRithmics
+09/04/2019, 21:30 - Boyd Kane: All they do is visualisations of algorithms, but using dancers😂. I think I love them
+09/04/2019, 21:36 - Luc Hayward: Will check tomorrow
+11/04/2019, 09:11 - Luc Hayward: <Media omitted>
+11/04/2019, 09:14 - Stuart "Stew" Mesham: 😂
+11/04/2019, 09:20 - Luc Hayward: Wasmn;t even trying to find that,
+11/04/2019, 09:20 - Luc Hayward: just came up on reddit
+11/04/2019, 09:59 - Luc Hayward: So much for having Dan pn the SRC being useful... Still have Malema as the guest speaker at events xD
+11/04/2019, 10:28 - Boyd Kane: Semafor?
+11/04/2019, 10:29 - Boyd Kane: <Media omitted>
+11/04/2019, 10:30 - Luc Hayward: that's the one xD
+11/04/2019, 10:45 - Stuart "Stew" Mesham: Wot is that?
+11/04/2019, 10:45 - Luc Hayward: It's semaphores
+11/04/2019, 10:46 - Stuart "Stew" Mesham: Ok whatever 😂
+11/04/2019, 10:46 - Boyd Kane: The Monty python semaphore version of wuthering heights, to be precise
+11/04/2019, 10:46 - Stuart "Stew" Mesham: I won’t question any further
+13/04/2019, 08:40 - Luc Hayward: https://gcemetery.co/
+13/04/2019, 11:54 - Stuart "Stew" Mesham: That’s a lot of dead products
+14/04/2019, 17:56 - Luc Hayward: https://youtu.be/hLjht9uJWgw
+
+Yo Google wtf 😂 I knew that link sharing wasn't linked to google accounts (Eg link sharing is open to anybody with the link even if you did it via their google account, still sends just a regular link. still lame but k)....but all links are public tf?
+19/04/2019, 00:08 - Luc Hayward: https://www.androidpolice.com/2019/04/16/amp-pages-will-now-show-original-url-in-chromes-address-bar/
+
+Every party of me hates this
+19/04/2019, 00:57 - Stuart "Stew" Mesham: Hah I’m using safari now
+19/04/2019, 00:57 - Stuart "Stew" Mesham: iOS is so good
+19/04/2019, 00:58 - Luc Hayward: Lol that doesn't make a difference you know
+19/04/2019, 01:00 - Stuart "Stew" Mesham: <Media omitted>
+19/04/2019, 01:00 - Luc Hayward: Link
+19/04/2019, 01:01 - Stuart "Stew" Mesham: I googled “duck sized bear”
+19/04/2019, 01:02 - Luc Hayward: Bet you if you open that utero it's an amp page
+19/04/2019, 01:02 - Luc Hayward: URL**
+19/04/2019, 01:03 - Stuart "Stew" Mesham: No that’s the point, it doesn’t say digitaltrends.com in the url bar, it shows the google url
+19/04/2019, 01:04 - Luc Hayward: ...
+19/04/2019, 01:04 - Stuart "Stew" Mesham: https://www.google.co.za/amp/s/www.digitaltrends.com/web/1-duck-sized-horse-vs-100-horse-sized-ducks-the-final-showdown/%3famp
+19/04/2019, 01:04 - Luc Hayward: The change isn't through automatically....
+19/04/2019, 01:04 - Luc Hayward: You didn't read the full article 😂
+19/04/2019, 01:04 - Luc Hayward: It's just an optional thing which needs to be sorted by your cdn
+19/04/2019, 01:05 - Stuart "Stew" Mesham: Ok nvm I thought you meant they were making amp hijack the URL bar in chrome and show digitaltrends.com instead of the amp address even when you’re on an amp page
+19/04/2019, 01:05 - Stuart "Stew" Mesham: No I didn’t 😂
+19/04/2019, 01:05 - Luc Hayward: Oh no it will happen everywhere eventually
+19/04/2019, 01:06 - Stuart "Stew" Mesham: Maybe not on safari though 😂
+19/04/2019, 01:06 - Luc Hayward: Read the article Stu 😂
+19/04/2019, 01:06 - Luc Hayward: It isn't a chrome thing
+19/04/2019, 01:07 - Stuart "Stew" Mesham: Fine 😂
+19/04/2019, 01:07 - Stuart "Stew" Mesham: Oh
+19/04/2019, 01:07 - Luc Hayward: It's literally how the page is hosted and delivered
+19/04/2019, 01:07 - Stuart "Stew" Mesham: Ah no 🙈😂
+21/04/2019, 20:41 - Luc Hayward: <Media omitted>
+25/04/2019, 18:25 - Boyd Kane: https://youtu.be/bn1uzAJk-6o
+25/04/2019, 18:26 - Luc Hayward: if only
+25/04/2019, 18:30 - Stuart "Stew" Mesham: 😂😂👏🏻
+25/04/2019, 18:31 - Luc Hayward: Unfortunately twas april fools
+25/04/2019, 19:43 - Boyd Kane: <Media omitted>
+26/04/2019, 13:48 - Luc Hayward: https://youtu.be/34detVy-Hiw
+
+Matt Parker is always good but at 15:20 there's a comment about how all coders must have this real propensity for self inflicted pain trying to find that one bloody semi-colon
+26/04/2019, 14:31 - Luc Hayward: https://youtu.be/5jD0mELZPD8
+26/04/2019, 14:32 - Luc Hayward: A nice talk through
+26/04/2019, 14:34 - Luc Hayward: [14:33, 4/26/2019] Luc Hayward: I saw the original runthrough that has no sounds
+[14:34, 4/26/2019] Luc Hayward: these guys walkthough with commentary on the more technical aspects of how it was done
+26/04/2019, 20:17 - Stuart "Stew" Mesham: https://www.reddit.com/r/ProgrammerHumor/comments/bhgygx/theyre_not_wrong/?utm_source=share&utm_medium=ios_app
+27/04/2019, 11:09 - Boyd Kane: <Media omitted>
+27/04/2019, 11:10 - Stuart "Stew" Mesham: 😂
+27/04/2019, 21:00 - Luc Hayward: https://www.reddit.com/r/funny/comments/bhwyyc/the_more_you_know/?utm_medium=android_app&utm_source=share
+
+Top comment
+28/04/2019, 10:37 - Luc Hayward: https://youtu.be/PNtKXWNKGN8
+
+Recommendations from 3b1b
+28/04/2019, 15:28 - Boyd Kane: Soo, this is 3Blobs1Blue?😂Studying at the moment but the after the first 15 seconds and a peek at their other video I was like _I'm definitely about to get sucked down a rabbit hole right here_
+28/04/2019, 15:28 - Luc Hayward: 😂😂 Exactly! totally different guy
+28/04/2019, 15:28 - Luc Hayward: but yeah
+28/04/2019, 15:28 - Luc Hayward: rabit whole
+28/04/2019, 15:29 - Luc Hayward: Stu is enjoying laughing at how much work I have at the moment xD
+28/04/2019, 15:30 - Luc Hayward: what test?
+28/04/2019, 15:30 - Boyd Kane: Also very addictive is this guys channel ishttps://m.youtube.com/watch?v=1Nt2I--ey84
+🎥 More on the Selfish Gene and Evolution - YouTube
+28/04/2019, 15:31 - Boyd Kane: https://youtu.be/REUzqgRh3GU Sorry that link was cancerous, here's a better one
+28/04/2019, 15:32 - Stuart "Stew" Mesham: Oh my goodness
+28/04/2019, 15:32 - Boyd Kane: CSC practical(meh) but then a MAM1000 and finance test _at the same time_ #hermione #yerAWizard #Skilz
+28/04/2019, 15:33 - Boyd Kane: Stu go watch YouTube for us please
+28/04/2019, 15:34 - Stuart "Stew" Mesham: Oh my goodness re this
+28/04/2019, 15:35 - Luc Hayward: wait what? how?
+28/04/2019, 15:36 - Luc Hayward: I thought this guy was the same as the one I sent you because of this
+
+
+https://youtu.be/2mTVtToioLg
+28/04/2019, 15:43 - Boyd Kane: Apparently I'm the only one taking those two courses. Doc Shock has just said deal with it, and there's been no reply from finance so....
+28/04/2019, 15:44 - Boyd Kane: Wow. Seems suspicious
+28/04/2019, 15:45 - Boyd Kane: @27722193705 I think we need proof of life for Rosie's replacement? (that adorable puppy)
+28/04/2019, 15:49 - Luc Hayward: <Media omitted>
+28/04/2019, 15:49 - Luc Hayward: <Media omitted>
+28/04/2019, 15:49 - Luc Hayward: <Media omitted>
+28/04/2019, 15:49 - Luc Hayward: <Media omitted>
+28/04/2019, 15:49 - Luc Hayward: Assorted animal
+28/04/2019, 15:49 - Luc Hayward: wait really? That doesn't sound like shock. Are they literally at the same time?
+28/04/2019, 15:54 - Stuart "Stew" Mesham: <Media omitted>
+28/04/2019, 15:55 - Stuart "Stew" Mesham: <Media omitted>
+28/04/2019, 15:56 - Luc Hayward: 😂😂😂
+28/04/2019, 15:56 - Boyd Kane: <Media omitted>
+28/04/2019, 15:57 - Boyd Kane: He didn't say it, but the finance course only has about 80 students, so I'm going to get an early write for that one
+28/04/2019, 15:57 - Luc Hayward: right'
+29/04/2019, 07:48 - Luc Hayward: <Media omitted>
+29/04/2019, 08:49 - Boyd Kane: I feel like every git commit needs to have a URL to a coding meme
+29/04/2019, 08:50 - Boyd Kane: Also, https://github.com/ansman/git-praise
+GitHub - ansman/git-praise: Use git-praise to find out who to ...
+29/04/2019, 09:16 - Luc Hayward: Is this just a nice version of git blame?
+29/04/2019, 09:16 - Boyd Kane: Yup☺
+29/04/2019, 09:17 - Luc Hayward: 😂😁😂
+29/04/2019, 09:29 - Luc Hayward: How Serious do you think I need to be about security for that web app for the university 😂 can I just hand wave away good practice 😂👍
+29/04/2019, 10:03 - Boyd Kane: If you start handwaving I'm 💯 gonna take that as a challenge to find the Easter eggs you've definitely left in there
+29/04/2019, 10:50 - Luc Hayward: 😂😂 I don't think you can
+29/04/2019, 10:51 - Luc Hayward: You'd need some way to find out the specific URL of the files
+29/04/2019, 10:51 - Luc Hayward: But yeah
+29/04/2019, 10:51 - Luc Hayward: All the files are just publicly read writeable which is definitely not intended
+29/04/2019, 10:52 - Luc Hayward: But I don't have Sudo permission on the server so I can't change the file ownership (it should be setup that the web app owns the files and is the only one with read write access I think(
+29/04/2019, 14:25 - Boyd Kane: ~Well Safla is just begging for it~ Oh what a pity that the permissions are all messed up.
+29/04/2019, 15:00 - Luc Hayward: 😂 but if you feel like trying I'll give you the server name 😂
+29/04/2019, 15:02 - Boyd Kane: You deleted this message
+29/04/2019, 15:02 - Boyd Kane: You deleted this message
+29/04/2019, 15:02 - Luc Hayward: i saw that
+29/04/2019, 15:03 - Boyd Kane: <Media omitted>
+29/04/2019, 15:03 - Stuart "Stew" Mesham: It was anonymous
+29/04/2019, 15:03 - Luc Hayward: 😂😂😂 so muich better
+29/04/2019, 15:04 - Boyd Kane: <Media omitted>
+29/04/2019, 15:05 - Stuart "Stew" Mesham: 😂
+29/04/2019, 15:11 - Luc Hayward: I give I give
+29/04/2019, 15:12 - Luc Hayward: http://app2.cs.uct.ac.za/
+29/04/2019, 15:13 - Stuart "Stew" Mesham: _Vula stops working_
+29/04/2019, 15:13 - Boyd Kane: <Media omitted>
+29/04/2019, 15:13 - Boyd Kane: <Media omitted>
+29/04/2019, 15:14 - Luc Hayward: Goodluck
+29/04/2019, 15:14 - Stuart "Stew" Mesham: 😂
+29/04/2019, 21:37 - Luc Hayward: STUDY BREAK]
+29/04/2019, 21:38 - Luc Hayward: Stu I didn't realise how MUCH WORK you'd put into the github for not a vegetable
+29/04/2019, 21:39 - Luc Hayward: and by stu I mean Boyd
+29/04/2019, 21:39 - Stuart "Stew" Mesham: Rude
+29/04/2019, 21:39 - Luc Hayward: commit history is not on your side man
+29/04/2019, 21:40 - Stuart "Stew" Mesham: My commit was amazing though
+29/04/2019, 21:51 - Boyd Kane: 😂 nah Stu did the lord's work with data capture
+29/04/2019, 21:53 - Stuart "Stew" Mesham: <Media omitted>
+29/04/2019, 21:55 - Boyd Kane: Also @27722193705 you can go ahead and redo the project tree print out👌🏼
+29/04/2019, 21:56 - Luc Hayward: why include the project tree
+29/04/2019, 21:56 - Boyd Kane: So newbs know where all our stuff is without having to go through the entire tree
+29/04/2019, 21:57 - Luc Hayward: fair
+29/04/2019, 22:00 - Stuart "Stew" Mesham: I’ll be back in the real world on the 10th of May at 11:55 am... stay tuned
+29/04/2019, 22:00 - Boyd Kane: Wait where are you going?
+29/04/2019, 22:00 - Stuart "Stew" Mesham: I’m away in cram-land 😂
+29/04/2019, 22:02 - Boyd Kane: But that's like, one weekend and a whole public holiday away
+29/04/2019, 22:03 - Boyd Kane: Andy nothing _really_ happens on Tuesdays anyway
+29/04/2019, 22:03 - Boyd Kane: And*
+29/04/2019, 22:03 - Stuart "Stew" Mesham: It's a long trip
+29/04/2019, 22:04 - Stuart "Stew" Mesham: 😂
+02/05/2019, 09:11 - Luc Hayward: https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e
+02/05/2019, 09:39 - Luc Hayward: not a fuck would I do this
+
+https://www.reddit.com/r/interestingasfuck/comments/bjqxuq/astronaut_bruce_mccandless_ii_floats_untethered/?utm_medium=android_app&utm_source=share
+02/05/2019, 09:47 - Boyd Kane: Well, you'd have to already be the type of person to fling themselves off, in a bucket, controlled by sand, that was previously zapped with lightning. If there's such a high chance of death anyway, I'd do it.
+02/05/2019, 09:48 - Boyd Kane: Definitely only about a meter away though😂
+02/05/2019, 09:49 - Boyd Kane: <Media omitted>
+02/05/2019, 11:42 - Luc Hayward: Yeah
+02/05/2019, 11:42 - Luc Hayward: Like that's far af
+02/05/2019, 11:42 - Luc Hayward: Also actually no
+02/05/2019, 11:42 - Luc Hayward: I want to be tethered
+02/05/2019, 12:07 - Stuart "Stew" Mesham: Woah holy shit 😂
+02/05/2019, 12:08 - Boyd Kane: No Stu, it's a person
+02/05/2019, 12:08 - Stuart "Stew" Mesham: Most people pay for thrills
+02/05/2019, 12:08 - Stuart "Stew" Mesham: This guy gets his for free
+06/05/2019, 20:54 - Luc Hayward: https://techcrunch.com/2019/05/06/microsoft-launches-visual-studio-online-an-online-code-editor/amp/
+07/05/2019, 18:13 - Luc Hayward: https://www.androidpolice.com/2017/12/13/google-backup-sync-desktop-gets-big-update-ignored-file-types-photo-video-sync/
+
+This is great, you can blacklist file extensions
+07/05/2019, 18:14 - Stuart "Stew" Mesham: Finally
+08/05/2019, 15:30 - Luc Hayward: Did you know you can bookmark an entire chrome session? Like all the open tabs as a single session bookmark?
+08/05/2019, 15:30 - Stuart "Stew" Mesham: Hm
+09/05/2019, 09:34 - Boyd Kane: Hey all, so what's happening about this impact challenge?
+09/05/2019, 09:39 - Luc Hayward: Well nobody replied on the other group so we never registered 😂 again @27722193705  our third year in a row missing this
+09/05/2019, 09:40 - Boyd Kane: True😂
+09/05/2019, 09:55 - Stuart "Stew" Mesham: Yeah oh dear 😂
+10/05/2019, 12:33 - Stuart "Stew" Mesham: I’m back
+10/05/2019, 13:25 - Luc Hayward: welcome
+10/05/2019, 13:25 - Luc Hayward: I'm basically gone till tuesday
+10/05/2019, 13:31 - Stuart "Stew" Mesham: Ah can’t wait to see you (on Tuesday) 😆
+10/05/2019, 13:31 - Luc Hayward: 👍
+10/05/2019, 13:31 - Luc Hayward: bloody c++
+10/05/2019, 14:59 - Boyd Kane: If either of you are still using Python, Kite is a pretty interesting concept. Think code completion but it scrubs GitHub in order to find the common completions. And it works with most IDEs
+
+ https://kite.com/
+Kite - AI Autocomplete for Python
+10/05/2019, 15:49 - Luc Hayward: Not using python but that looks really cool
+10/05/2019, 15:50 - Luc Hayward: is it only python? I assume its extendable to anything ?
+10/05/2019, 16:00 - Boyd Kane: Yeah, I'm not sure why, but it's only python
+10/05/2019, 17:40 - Luc Hayward: Is it open source at all?
+10/05/2019, 18:40 - Boyd Kane: <Media omitted>
+10/05/2019, 18:40 - Luc Hayward: Right 😂😂
+10/05/2019, 21:53 - Luc Hayward: https://youtu.be/_4WrKeoeZhk
+
+This is stunning
+10/05/2019, 21:55 - Luc Hayward: So
+10/05/2019, 21:55 - Luc Hayward: I have an issue
+10/05/2019, 21:55 - Luc Hayward: I'm struggling to view all my damn repos
+10/05/2019, 22:04 - Boyd Kane: <Media omitted>
+10/05/2019, 22:04 - Boyd Kane: Just rotate 90 degrees and you'll be good to go
+10/05/2019, 22:04 - Luc Hayward: <Media omitted>
+10/05/2019, 22:06 - Luc Hayward: Oh sick I wonder if thats cheaper than the samsung one
+10/05/2019, 22:06 - Boyd Kane: <Media omitted>
+10/05/2019, 22:07 - Boyd Kane: That's how😎
+10/05/2019, 22:25 - Luc Hayward: https://github.com/AngusTheMack/cookiecutter-reproducible-science
+
+Possibly interesting if you're still messing around with file directories
+12/05/2019, 13:14 - Luc Hayward: <Media omitted>
+12/05/2019, 13:15 - Stuart "Stew" Mesham: 😂
+12/05/2019, 13:16 - Luc Hayward: from someone on my c++ group]
+12/05/2019, 13:17 - Stuart "Stew" Mesham: <Media omitted>
+12/05/2019, 14:02 - Luc Hayward: <Media omitted>
+12/05/2019, 14:59 - Stuart "Stew" Mesham: I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+12/05/2019, 15:00 - Boyd Kane: I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+
+I’m no expert here, but this looks like an ideal use case for templates 🧐😂
+12/05/2019, 15:00 - Boyd Kane: Templates?
+12/05/2019, 15:01 - Stuart "Stew" Mesham: I attended one of Luc’s C++ lectures a week or two ago
+12/05/2019, 15:01 - Stuart "Stew" Mesham: It was about templates 😂
+12/05/2019, 15:02 - Boyd Kane: I attended ~one of Luc’s C++~ lectures ~a week or two ago~
+12/05/2019, 15:02 - Boyd Kane: Lies
+12/05/2019, 15:02 - Boyd Kane: You deleted this message
+12/05/2019, 15:03 - Boyd Kane: _😉_
+12/05/2019, 15:03 - Stuart "Stew" Mesham: You’re not far wrong, this weekend has basically been lecture-videos-and-chill for me 🙈😆
+12/05/2019, 15:03 - Boyd Kane: Oh Stu
+12/05/2019, 15:03 - Stuart "Stew" Mesham: How did you make it so small?
+12/05/2019, 15:03 - Stuart "Stew" Mesham: 😦
+12/05/2019, 15:04 - Stuart "Stew" Mesham: 😦
+12/05/2019, 15:04 - Boyd Kane: ~that's not what she said~ 🤷🏻‍♂
+12/05/2019, 15:04 - Stuart "Stew" Mesham: *😦*
+12/05/2019, 15:04 - Boyd Kane: ~🤫~
+12/05/2019, 15:04 - Stuart "Stew" Mesham: Oh 😂
+12/05/2019, 15:05 - Stuart "Stew" Mesham: Luc please remove Boyd from this group
+12/05/2019, 15:05 - Boyd Kane: ᴰᵒⁿ'ᵗ ᵗᵉˡˡ ʰᶦᵐ
+12/05/2019, 15:05 - Boyd Kane: @groupAdmin please make us all admin
+12/05/2019, 15:06 - Stuart "Stew" Mesham: Oh I see
+12/05/2019, 15:06 - Boyd Kane: Shush now, gotta study
+12/05/2019, 15:06 - Stuart "Stew" Mesham: How did you do this now?
+12/05/2019, 15:12 - Luc Hayward: oh it is, that is tempalting, if you guys have a stunningly better way to do it I Pray.
+12/05/2019, 15:14 - Luc Hayward: Basically I have an Audio class which holds a vector (of either int8, int16, pair<int8,int8> or pair<int16,int16>)
+12/05/2019, 15:14 - Luc Hayward: And I only know what that will be at runtime (based on commandline args)
+12/05/2019, 15:15 - Luc Hayward: So I don't know how to do it, because the ones with pair<> require specialised methods.
+12/05/2019, 15:17 - Luc Hayward: This message was deleted
+12/05/2019, 15:17 - Luc Hayward: So please for the love of god help if I'm just retarded
+12/05/2019, 15:18 - Luc Hayward: <Media omitted>
+12/05/2019, 15:18 - Stuart "Stew" Mesham: Invalid syntax: ) expected
+12/05/2019, 15:19 - Luc Hayward: I don't understand
+12/05/2019, 15:19 - Luc Hayward: I can't, he has girlfriend family protection
+12/05/2019, 15:19 - Stuart "Stew" Mesham: Message does not compile
+12/05/2019, 15:20 - Luc Hayward: oh
+12/05/2019, 15:21 - Luc Hayward: So either I do this way (where its massive amounts of duplicate code but for effectively its  all exactly the same.)
+
+Or I can change the templating but then I'm essentially reimplementing the entire Audio class for stereo (pair<>) and then there's less repeated code (probably in terms of LoC) *but* then I have more complex code repetition. At least the way I have it any changes can literally be done in one go using multiple cursors in your editor
+
+ I legit write all the code the same I just need to instantiate the objects differently.
+12/05/2019, 15:26 - Stuart "Stew" Mesham: I guess you could make templates for 1 and 2 channels and then make a template of those templates for 8 and 16 bits
+12/05/2019, 15:26 - Stuart "Stew" Mesham: Could get freaky
+12/05/2019, 15:27 - Luc Hayward: yeah so thats option B
+12/05/2019, 15:27 - Luc Hayward: but it means that you duplicate complex functionality right?
+12/05/2019, 15:28 - Luc Hayward: Cause I would much rather duplicate extremely simplistic code that can literally be edited just by using multiple cursors
+12/05/2019, 15:28 - Stuart "Stew" Mesham: Is the A1 + A2 the complex functionality?
+12/05/2019, 15:28 - Luc Hayward: instead of duplicating Audio functionality when things are potentially more complex to remember to change you know
+12/05/2019, 15:29 - Luc Hayward: no thats piss thats what I'm saying
+12/05/2019, 15:29 - Luc Hayward: I would rather write 4 sets of A1 + A2
+12/05/2019, 15:29 - Luc Hayward: instead of 2 copies of this
+12/05/2019, 15:29 - Luc Hayward: <Media omitted>
+12/05/2019, 15:31 - Stuart "Stew" Mesham: Yeah 2 copies of this is definitely worse
+12/05/2019, 15:31 - Luc Hayward: <Media omitted>
+12/05/2019, 15:32 - Luc Hayward: Cause actually some operators will need to change anyway
+12/05/2019, 15:37 - Luc Hayward: Actually you know the other way may have been better but now I'm committed
+12/05/2019, 15:37 - Stuart "Stew" Mesham: Oh
+12/05/2019, 16:25 - Boyd Kane: ```>>> import this```
+12/05/2019, 16:26 - Boyd Kane: ```Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!```
+12/05/2019, 16:28 - Stuart "Stew" Mesham: Did you get this off an inspirational picture on Pinterest with a sunset in the background?
+12/05/2019, 16:31 - Luc Hayward: Have actually seen it posted before but why the font
+12/05/2019, 16:37 - Stuart "Stew" Mesham: Makes it look wiser
+12/05/2019, 16:37 - Stuart "Stew" Mesham: People who use typewriters are wiser than the rest of us
+12/05/2019, 16:38 - Luc Hayward: True
+12/05/2019, 19:45 - Boyd Kane: 😂 no it what comes up if you ```import this``` in python
+12/05/2019, 19:51 - Stuart "Stew" Mesham: <Media omitted>
+12/05/2019, 20:17 - Boyd Kane: The Zen is stored as a Ceasar-shift cipher for some reason, which is what the dictionary does. I'm not sure about the test but isn't 97 the Unicode value for 'a'?
+12/05/2019, 20:18 - Boyd Kane: But the source code should be available if you go looking
+12/05/2019, 20:19 - Boyd Kane: While you're at it, ```>>>import antigravity```
+12/05/2019, 20:19 - Stuart "Stew" Mesham: Oh no...
+12/05/2019, 20:20 - Stuart "Stew" Mesham: 😂
+12/05/2019, 20:21 - Luc Hayward: Wtf
+12/05/2019, 20:22 - Boyd Kane: Can c-- do that?
+12/05/2019, 20:22 - Luc Hayward: Yes
+12/05/2019, 20:23 - Luc Hayward: No it cannot
+12/05/2019, 20:23 - Luc Hayward: You'll just not compile
+12/05/2019, 20:23 - Luc Hayward: You want #include, 😂
+12/05/2019, 20:24 - Boyd Kane: I feel like #include antigravity is an oxymoron😂
+12/05/2019, 20:24 - Boyd Kane: #exclude gravity
+12/05/2019, 20:26 - Luc Hayward: #include <gravity>
+Gravity * earth = new Gravity()*
+earth->setGravity(-1)
+12/05/2019, 20:26 - Luc Hayward: Fuck forgot my semicolons
+12/05/2019, 20:30 - Boyd Kane: I had to do some java for applying to the Amazon internship yesterday (no news yet). This was pretty much every single time I went to compile
+12/05/2019, 20:31 - Luc Hayward: Watch Boyd get this internship on his first try
+12/05/2019, 20:31 - Luc Hayward: If you do I'm gonna be jelly and proud and my only excuse will be that you've had a year more Dev experience 😂
+12/05/2019, 20:31 - Luc Hayward: It's a poor excuse and stu knows it
+12/05/2019, 20:33 - Stuart "Stew" Mesham: 😂
+12/05/2019, 20:34 - Boyd Kane: 😂well I'm currently _under consideration_ so well see. I haven't been told anything about the salary not the dates I'll be working though...
+13/05/2019, 09:36 - Boyd Kane: <Media omitted>
+13/05/2019, 09:37 - Stuart "Stew" Mesham: Oy vey! 👏🏻
+13/05/2019, 09:38 - Stuart "Stew" Mesham: Nvm this was incorrect
+13/05/2019, 09:38 - Luc Hayward: Lol Wu t
+13/05/2019, 09:38 - Stuart "Stew" Mesham: Hurrah! 👏🏻
+13/05/2019, 09:38 - Luc Hayward: That's weird
+13/05/2019, 09:38 - Luc Hayward: I mean yeet
+13/05/2019, 09:40 - Luc Hayward: Either they took out the online interview or (more likely) this is a phone call before the main application stuff?
+13/05/2019, 09:40 - Luc Hayward: That's sick
+13/05/2019, 09:46 - Boyd Kane: This is all I know, it's a 1hr phone call at some point in the next two weeks🤷🏻‍♂. I've let them know when I'm available
+13/05/2019, 10:58 - Luc Hayward: Hmm I've no idea
+13/05/2019, 10:59 - Luc Hayward: If it were the technical interview they would tell you in advance
+13/05/2019, 12:12 - Boyd Kane: They've just sent through an information pack, it's a technical, live coding video interview with one of their engineers
+13/05/2019, 12:39 - Luc Hayward: Oh lol wtf ok that's nice
+13/05/2019, 12:40 - Luc Hayward: I'll chat to you about it this afternoon/tomorrow if you want any advice from when I did it
+13/05/2019, 12:40 - Luc Hayward: Interesting that they're no doing the online prescreening tests for you
+13/05/2019, 12:46 - Boyd Kane: Yeah I'd love to chat about it. Are you two still going to the honours talk?
+13/05/2019, 12:47 - Luc Hayward: Yeah we are
+13/05/2019, 12:47 - Luc Hayward: My time on the calendar is wrong it's at 1:30
+13/05/2019, 12:47 - Luc Hayward: Phone is on 0% rip
+13/05/2019, 12:48 - Luc Hayward: Nvm she changed it my bad. Was looking at the wrong email
+13/05/2019, 12:48 - Boyd Kane: So it is at half past?
+13/05/2019, 12:49 - Luc Hayward: No it is at 1
+13/05/2019, 12:49 - Luc Hayward: In lt302
+13/05/2019, 12:49 - Luc Hayward: CS 302 if course
+13/05/2019, 16:58 - Luc Hayward: <Media omitted>
+13/05/2019, 17:07 - Boyd Kane: 😂 oh my word
+13/05/2019, 18:20 - Stuart "Stew" Mesham: I don’t understand...
+13/05/2019, 18:21 - Luc Hayward: Which part?
+13/05/2019, 18:21 - Luc Hayward: That just says "Wherever you see private, replace it with public"
+13/05/2019, 18:21 - Stuart "Stew" Mesham: Oh that is evil 😂
+13/05/2019, 18:21 - Luc Hayward: so it means in my unit testing file I can just do whatever I want without having to actually expose the inner workings of the class
+13/05/2019, 18:21 - Luc Hayward: It's wrong
+13/05/2019, 18:21 - Luc Hayward: but it works
+13/05/2019, 20:29 - Boyd Kane: 𓂊
+13/05/2019, 20:29 - Boyd Kane: Can either of you see that?
+13/05/2019, 20:33 - Boyd Kane: Because Unicode has Egyptian hieroglyphs and they are _so much better_ than emojis https://en.m.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs
+List of Egyptian hieroglyphs - Wikipedia
+13/05/2019, 20:34 - Boyd Kane: https://en.m.wikipedia.org/wiki/Template%3AUnicode_chart_Egyptian_Hieroglyphs?wprov=sfla1
+Sorry this link is better
+13/05/2019, 20:36 - Luc Hayward: nope
+13/05/2019, 20:37 - Luc Hayward: macOS chrome doesn't render them
+13/05/2019, 20:44 - Boyd Kane: Hrmm. Pity
+13/05/2019, 20:48 - Luc Hayward: you can see it on your phone?
+13/05/2019, 20:48 - Luc Hayward: Actually I can too
+13/05/2019, 20:48 - Luc Hayward: interesting
+13/05/2019, 20:49 - Boyd Kane: No it's just a crossed out box for me
+13/05/2019, 20:49 - Luc Hayward: Ah wonder if stu can
+13/05/2019, 20:49 - Luc Hayward: Mine comes up fine
+13/05/2019, 20:49 - Luc Hayward: it's tiny though
+13/05/2019, 20:50 - Boyd Kane: There's a couple of naughty ones in there actually🙈
+13/05/2019, 20:50 - Boyd Kane: 𓀤
+13/05/2019, 20:51 - Boyd Kane: 𓀬
+13/05/2019, 20:52 - Luc Hayward: camels?
+13/05/2019, 20:52 - Boyd Kane: 𓃰
+13/05/2019, 20:53 - Boyd Kane: They don't look like anything to be
+13/05/2019, 20:53 - Boyd Kane: To me
+13/05/2019, 20:53 - Luc Hayward: that's an elephant
+13/05/2019, 20:53 - Boyd Kane: 𓄚
+13/05/2019, 20:53 - Boyd Kane: One for Lloyd?
+13/05/2019, 20:53 - Luc Hayward: Dog with no head
+13/05/2019, 20:54 - Boyd Kane: 𓅄
+13/05/2019, 20:54 - Luc Hayward: Hawk?
+13/05/2019, 20:55 - Boyd Kane: 𓆢
+13/05/2019, 20:55 - Boyd Kane: 𓈝
+13/05/2019, 20:56 - Luc Hayward: Crown I think
+13/05/2019, 20:56 - Luc Hayward: Walking box (legit its a rectangle on legs
+13/05/2019, 20:57 - Boyd Kane: 𓌮
+13/05/2019, 20:58 - Boyd Kane: 𓁋
+13/05/2019, 20:58 - Boyd Kane: 𓁏
+13/05/2019, 20:58 - Boyd Kane: 𓁐
+13/05/2019, 20:58 - Boyd Kane: 𓁑
+13/05/2019, 20:58 - Boyd Kane: 𓁒
+13/05/2019, 20:59 - Boyd Kane: 𓁖
+13/05/2019, 20:59 - Luc Hayward: This is starting to feel slightly sexual
+13/05/2019, 20:59 - Boyd Kane: 𓁗
+13/05/2019, 20:59 - Boyd Kane: 𓁷
+13/05/2019, 21:00 - Boyd Kane: 𓂸
+13/05/2019, 21:00 - Boyd Kane: I think I found out why these aren't that well supported
+13/05/2019, 21:01 - Luc Hayward: 😂😂😂
+13/05/2019, 21:01 - Boyd Kane: Can you send a screenshot of the chat?
+13/05/2019, 21:02 - Luc Hayward: yeah Can you actually not see these ?
+13/05/2019, 21:02 - Boyd Kane: <Media omitted>
+13/05/2019, 21:02 - Luc Hayward: <Media omitted>
+13/05/2019, 21:02 - Luc Hayward: WhatsApp is going to garble the quality
+13/05/2019, 21:03 - Boyd Kane: Who'd you forward them to😂
+13/05/2019, 21:03 - Luc Hayward: Keegan xD
+13/05/2019, 21:04 - Luc Hayward: Also Holly
+13/05/2019, 21:05 - Boyd Kane: I feel like I'll just send 𓂸 round to everyone and try to guess which phone they've got by their reaction😂
+13/05/2019, 21:06 - Luc Hayward: Works for samsung
+13/05/2019, 21:06 - Luc Hayward: Will find out on iPhone when stu/Hol reply
+13/05/2019, 21:20 - Luc Hayward: Confirmed iPhone can see them
+14/05/2019, 13:16 - Boyd Kane: https://youtu.be/b2F-DItXtZs
+14/05/2019, 13:16 - Luc Hayward: saved
+14/05/2019, 13:28 - Stuart "Stew" Mesham: 😂
+15/05/2019, 23:28 - Stuart "Stew" Mesham: https://www.reddit.com/r/funny/comments/bowfap/best_way_to_use_the_new_snapchat_filter/?utm_source=share&utm_medium=ios_app
+15/05/2019, 23:28 - Stuart "Stew" Mesham: Sound is a must ^^
+15/05/2019, 23:29 - Stuart "Stew" Mesham: So worth it
+16/05/2019, 10:09 - Boyd Kane: 😂 this is actually really creepy
+16/05/2019, 10:09 - Boyd Kane: Also, OnePlus just released a 12 hour video on YouTube of the 7 Pro's front facing camera going up and down and up and down
+16/05/2019, 10:10 - Boyd Kane: https://m.youtube.com/watch?v=y5UTFEDfvWs
+🎥 OnePlus 7 Pro - Front camera 12-hour stress test - YouTube
+16/05/2019, 10:16 - Luc Hayward: Something like 120 movements a day for 5 years that it's validated gor
+16/05/2019, 10:19 - Boyd Kane: Except that they haven't actually tested it for 5 years🤷🏻‍♂. I'm sure it'll stand the test though
+16/05/2019, 10:22 - Luc Hayward: Haven't they?
+16/05/2019, 10:23 - Boyd Kane: It was only released yesterday, how could they have?
+16/05/2019, 10:23 - Luc Hayward: ....
+16/05/2019, 10:23 - Luc Hayward: Because they've been testing the phone for ages before that😂
+16/05/2019, 10:24 - Luc Hayward: Also 120 times a day for 5 years is only 220k opens
+16/05/2019, 10:25 - Luc Hayward: Even if it could only be opened once every 3 seconds that's only 7 days of testing
+16/05/2019, 10:26 - Boyd Kane: Sorry, you're correct🙈
+16/05/2019, 10:27 - Boyd Kane: <Media omitted>
+16/05/2019, 10:36 - Luc Hayward: ,😂😂
+16/05/2019, 10:36 - Luc Hayward: Yeah it's surprisingly small
+16/05/2019, 10:37 - Luc Hayward: And one plus (google a factory tour) has actually a really nice testing facility
+16/05/2019, 12:22 - Luc Hayward: https://youtu.be/k_vYA-xRXyo
+16/05/2019, 15:39 - Boyd Kane: Stu: 'Cancerous'😉
+16/05/2019, 15:46 - Stuart "Stew" Mesham: What? 😂
+16/05/2019, 15:58 - Luc Hayward: I'm confused
+16/05/2019, 22:15 - Boyd Kane: Sorry😂. I'm still laughing at that time when Stu said that working with hardware was cancerous
+16/05/2019, 22:15 - Luc Hayward: I don't remember 😂😂
+16/05/2019, 23:25 - Stuart "Stew" Mesham: I remember saying that about web dev, but I thought I used less extreme language for hardware 🤦🏻‍♂😂
+17/05/2019, 08:30 - Boyd Kane: 😂okay, I think I probably agree with you for the web development side of things
+17/05/2019, 08:32 - Boyd Kane: <Media omitted>
+17/05/2019, 09:00 - Luc Hayward: <Media omitted>
+17/05/2019, 09:16 - Boyd Kane: 😂also, season 5 of black mirror has a trailer now, but only has three episodes
+17/05/2019, 09:57 - Stuart "Stew" Mesham: 😂😂
+17/05/2019, 11:18 - Luc Hayward: https://www.youtube.com/watch?v=utTrqCptxRo
+https://youtu.be/ILxGSDR1fMs
+
+For Mr Mesham
+17/05/2019, 11:21 - Stuart "Stew" Mesham: 😂
+17/05/2019, 13:00 - Stuart "Stew" Mesham: https://youtu.be/_naDg-guomA
+17/05/2019, 13:00 - Stuart "Stew" Mesham: Mostly for Luc
+17/05/2019, 13:00 - Stuart "Stew" Mesham: But I do also really want a Tesla now 😂
+17/05/2019, 13:33 - Boyd Kane: If this is that CGP video, then it was surprisingly entertaining despite being nearly an hour long
+17/05/2019, 13:33 - Luc Hayward: It's cgp
+17/05/2019, 13:33 - Stuart "Stew" Mesham: Yeah 🤓
+20/05/2019, 00:09 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/bqgfj9/feeling_personally_attacked/?utm_medium=android_app&utm_source=share
+
+Stu? Raise any memories?
+20/05/2019, 00:11 - Luc Hayward: <Media omitted>
+20/05/2019, 00:25 - Stuart "Stew" Mesham: 😂
+20/05/2019, 00:33 - Stuart "Stew" Mesham: Yep, felt quite personally attacked after reading this 😆
+20/05/2019, 00:41 - Stuart "Stew" Mesham: <Media omitted>
+20/05/2019, 07:06 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/bqn3tb/ill_fix_it_at_night/?utm_medium=android_app&utm_source=share
+22/05/2019, 19:56 - Luc Hayward: what the fuck Google
+
+https://twitter.com/TheHackersNews/status/1131105531463028736?s=08
+23/05/2019, 18:53 - Luc Hayward: <Media omitted>
+24/05/2019, 14:06 - Luc Hayward: <Media omitted>
+24/05/2019, 14:06 - Luc Hayward: Basically just a way of writing all the python packages requires into a single text file and then when you need to set it up you let pip read them off for you
+24/05/2019, 15:19 - Stuart "Stew" Mesham: Not-vegetable already has one because we’re such pros 😏
+24/05/2019, 15:21 - Luc Hayward: aw yiss
+24/05/2019, 22:45 - Luc Hayward: @27673227353 shameful
+24/05/2019, 22:45 - Luc Hayward: How have you not given us a fully formatted update on the interview
+24/05/2019, 22:46 - Luc Hayward: <Media omitted>
+26/05/2019, 14:30 - Luc Hayward: https://youtu.be/C6nonNRoF7g
+
+A good watch
+27/05/2019, 17:14 - Boyd Kane: 😂fair enough
+27/05/2019, 17:14 - Boyd Kane: I've put in a pull request now. Still waiting to hear back from Amazon😔
+27/05/2019, 18:00 - Luc Hayward: They do take a while
+27/05/2019, 18:01 - Luc Hayward: Oh Stu doesn't have access to that repo he's never actually done a technical interview
+27/05/2019, 18:26 - Stuart "Stew" Mesham: c o n d e s c e n s i o n
+27/05/2019, 18:29 - Boyd Kane: <Media omitted>
+27/05/2019, 18:44 - Luc Hayward: <Media omitted>
+27/05/2019, 18:44 - Luc Hayward: <Media omitted>
+27/05/2019, 18:45 - Stuart "Stew" Mesham: 😂
+29/05/2019, 06:13 - Luc Hayward: https://www.reddit.com/r/artificial/comments/btv4lz/i_wanted_to_know_what_will_happen_to_a_generative/?utm_medium=android_app&utm_source=share
+29/05/2019, 17:01 - Boyd Kane: <Media omitted>
+29/05/2019, 17:02 - Luc Hayward: yeeeeee
+29/05/2019, 17:04 - Boyd Kane: I'm actually really excited about this. Slight side question, do you know if I'm allowed to keep the lecture slides on GitHub?, or does UCT have licensing to them...
+29/05/2019, 17:08 - Luc Hayward: Some lecturers might cry but no we UCT generally don't have exclusive licence
+29/05/2019, 17:08 - Luc Hayward: but just put them in a private repo?
+29/05/2019, 17:08 - Luc Hayward: You have github student pack surely
+29/05/2019, 17:08 - Luc Hayward: https://education.github.com/pack/offers
+
+Incase you don't
+29/05/2019, 17:09 - Boyd Kane: Why put them on GitHub just to hide it from the world? If I'm bothered then I'll just ignore the slides.
+29/05/2019, 17:11 - Luc Hayward: Because you can have the  code up and just only have like a sample of input data
+29/05/2019, 17:11 - Luc Hayward: that's what I did with my stuff (infact I think I didn't even put the data ) for the research shit
+29/05/2019, 17:12 - Boyd Kane: So have the code public but just not add the input data / only add a small sample of the input data?
+29/05/2019, 17:14 - Luc Hayward: yeah
+29/05/2019, 17:15 - Luc Hayward: But obviously in your readme you can also show that it does work
+29/05/2019, 17:16 - Luc Hayward: or just ask that lecturer
+29/05/2019, 17:16 - Luc Hayward: Cause I know there will be some who wouldn't be your best friend if you put all their work online for anybody
+29/05/2019, 17:17 - Boyd Kane: It is a bit of a 🍆 move, I'll take them down
+29/05/2019, 17:18 - Luc Hayward: Like maybe just only have 1 lecture pack?
+29/05/2019, 17:19 - Boyd Kane: Nah, I'm building the program, not the results. I'll make sure to flesh out how to use it though, and maybe I'll find some dummy/open source data to use
+29/05/2019, 17:19 - Boyd Kane: But definitely going to have the results and graphs in the REAME eventually
+29/05/2019, 17:20 - Luc Hayward: Yeah that would be great idea
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:30 - Boyd Kane: <Media omitted>
+29/05/2019, 21:51 - Stuart "Stew" Mesham: Very cool 👏🏻👏🏻👏🏻
+29/05/2019, 22:46 - Luc Hayward: https://wakatime.com/
+
+This is great I think
+29/05/2019, 22:48 - Luc Hayward: This is awesome I can't wait to get a chance to go through this
+29/05/2019, 23:02 - Boyd Kane: This does look very cool
+29/05/2019, 23:21 - Luc Hayward: Gonna install
+29/05/2019, 23:21 - Luc Hayward: Probably not any more useful than manual time tracking
+29/05/2019, 23:22 - Luc Hayward: But maybe interesting?
+30/05/2019, 00:16 - Luc Hayward: Boyd you use ligatures?
+30/05/2019, 00:20 - Luc Hayward: Either of you with pro tips on organising github when there are 30 repos
+30/05/2019, 08:08 - Boyd Kane: Do you mean the things when letters all join together to look pretty?
+30/05/2019, 08:09 - Boyd Kane: <Media omitted>
+30/05/2019, 08:10 - Boyd Kane: https://help.github.com/en/articles/signing-up-for-a-new-github-account
+Signing up for a new GitHub account - GitHub Help
+30/05/2019, 09:29 - Luc Hayward: I mean yes but I actually didn't know that's what those were called. I've only ever heard ligatures used with regards to symbols. 
+
+So stuff like making <= into one symbol
+30/05/2019, 09:30 - Luc Hayward: .... Did you just tell me to make a new account and ignore the old one 😂😂
+30/05/2019, 10:21 - Boyd Kane: <Media omitted>
+30/05/2019, 10:23 - Boyd Kane: I don't. I've definitely looked into it, but it always seems like more hassle for something that I might not even like.
+30/05/2019, 10:50 - Luc Hayward: It's actually really easy it's basically just a font set/extension in your ide
+30/05/2019, 10:50 - Luc Hayward: 😂😂😂
+31/05/2019, 14:10 - Boyd Kane: I'm _pretty_ certain I've got the Amazon internship. They haven't given me some papers to sign just yet but I passed the interview and HR is emailing me about details/after graduation plans😁
+31/05/2019, 14:24 - Stuart "Stew" Mesham: Nice! 🙌🏻
+31/05/2019, 14:39 - Luc Hayward: Oh shit nice
+31/05/2019, 14:46 - Luc Hayward: <Media omitted>
+31/05/2019, 15:35 - Boyd Kane: 😂 nah that pre-interview prep sesh was golden👌🏼
+31/05/2019, 15:37 - Luc Hayward: <Media omitted>
+31/05/2019, 15:38 - Boyd Kane: <Media omitted>
+31/05/2019, 15:39 - Luc Hayward: Oh Stu this sounds super dick, when you need access I'll obviously get my friend to add you
+01/06/2019, 00:17 - Luc Hayward: just FYI microsoft docs are super nice and almost always have example code and shit
+01/06/2019, 00:17 - Luc Hayward: Not sure what you would use it for
+01/06/2019, 00:17 - Luc Hayward: but if you're ever doing something that they have docs for they're nice
+01/06/2019, 09:45 - Boyd Kane: I know right?! I had a look at their web development things and it's really well put together
+01/06/2019, 09:47 - Luc Hayward: Web dev as in networking or programming? Only seen their networking theory docs and C#/C++(which are great)
+01/06/2019, 10:07 - Boyd Kane: It was on the Mozilla page, but about CSS HTML JS
+01/06/2019, 10:29 - Luc Hayward: Oh cool
+01/06/2019, 11:09 - Luc Hayward: Boyd you need a lift tonight?
+01/06/2019, 11:38 - Luc Hayward: Either of your (boyd) want to one sentence explain whether to use single, double or triple quotes in python
+01/06/2019, 11:39 - Luc Hayward: And whether to use apostrophes or quote marksd
+01/06/2019, 11:48 - Luc Hayward: doesn't matter
+01/06/2019, 11:49 - Luc Hayward: no idea, don't think double works but triple means new lines don't need to be escaped
+01/06/2019, 12:47 - Boyd Kane: <Media omitted>
+01/06/2019, 12:50 - Luc Hayward: 👍
+01/06/2019, 14:08 - Boyd Kane: And yes please, thanks Luc
+01/06/2019, 14:08 - Luc Hayward: Sure thing
+01/06/2019, 14:46 - Luc Hayward: <Media omitted>
+01/06/2019, 15:40 - Boyd Kane: Yeah I think they were just extrapolating to say that this thing could become bad
+01/06/2019, 16:09 - Luc Hayward: Right
+01/06/2019, 16:44 - Stuart "Stew" Mesham: How are we lifting?
+01/06/2019, 16:45 - Stuart "Stew" Mesham: Luc would you mind picking us up or do you want to go my car from my house?
+01/06/2019, 16:57 - Luc Hayward: I don't mind lifting, pretty sure I have petrol.....
+01/06/2019, 16:58 - Stuart "Stew" Mesham: Ok what time are you coming? 😂
+01/06/2019, 17:00 - Luc Hayward: Hmm may have buggered up my timing a bit here with fetching tyger
+01/06/2019, 17:01 - Luc Hayward: Told him I'd meet him at Westlake gym at 6:30
+01/06/2019, 17:01 - Luc Hayward: so would get to you @27722193705 at 6:43
+01/06/2019, 17:01 - Luc Hayward: get to boyd at 7
+01/06/2019, 17:01 - Luc Hayward: Get to late by 7:15 (including parking)
+01/06/2019, 17:10 - Boyd Kane: Is it too late to shuffle Tyger forward by 20 minutes (including picking up Tyger)?
+01/06/2019, 17:11 - Luc Hayward: I can try
+01/06/2019, 17:11 - Luc Hayward: Can't reach the man
+01/06/2019, 17:13 - Luc Hayward: Been trying to get hold of him since just before 5
+01/06/2019, 17:16 - Luc Hayward: Moved it 20 Min earlier
+01/06/2019, 17:16 - Luc Hayward: Don't stress👍👍
+01/06/2019, 17:19 - Boyd Kane: Cheers👌🏼
+01/06/2019, 18:03 - Luc Hayward: Wwdc keynote on Monday night, anyone watching?
+02/06/2019, 13:23 - Luc Hayward: https://help.github.com/en/articles/about-project-boards
+
+Nice plannign features
+02/06/2019, 13:43 - Luc Hayward: https://github.com/AngusTheMack/not-wors
+03/06/2019, 08:52 - Luc Hayward: https://youtu.be/QMYfkOtYYlg
+03/06/2019, 09:24 - Boyd Kane: r/riskyclick
+03/06/2019, 09:25 - Luc Hayward: It's YouTube it can't be thaaaat risky 😂
+03/06/2019, 09:29 - Boyd Kane: https://youtu.be/w0DhZtzhaus
+03/06/2019, 12:55 - Luc Hayward: Boyd (because I know stu doesnt) do you use virtual environments for your stuff?
+03/06/2019, 12:55 - Luc Hayward: wtf boyd xD
+03/06/2019, 13:04 - Boyd Kane: You were saying?
+03/06/2019, 13:04 - Luc Hayward: 😂
+03/06/2019, 13:04 - Luc Hayward: Shrek is love Shrek is life
+03/06/2019, 13:04 - Boyd Kane: I do, but I really don't understand them
+03/06/2019, 13:05 - Luc Hayward: do you use virtualenv or pipenv?
+03/06/2019, 13:05 - Boyd Kane: Anaconda+PyCharm just makes it more difficult not to use them
+03/06/2019, 13:05 - Boyd Kane: Conda
+03/06/2019, 13:05 - Luc Hayward: what's Anaconda?
+03/06/2019, 13:06 - Boyd Kane: A package manager that also makes various scientific python packages a lot easier
+03/06/2019, 13:06 - Luc Hayward: oh better than pip/
+03/06/2019, 13:07 - Boyd Kane: 🤷🏻‍♂I didn't really do my due diligence, and now I'm too scared to change over and break everything
+03/06/2019, 13:08 - Luc Hayward: omg😂😂
+03/06/2019, 13:18 - Luc Hayward: you've yet to run into issues where you needed to install via pip?
+03/06/2019, 13:21 - Stuart "Stew" Mesham: I don’t usually use virtual environments, but when I do I use virtualenv because it’s the default thing built into python and I’m a default kind of a guy
+03/06/2019, 13:22 - Stuart "Stew" Mesham: I mean I also use the default email app on my phone so make it that what you will
+03/06/2019, 13:22 - Luc Hayward: except I think pyenv is the new "default" xD
+03/06/2019, 13:22 - Stuart "Stew" Mesham: But also the people at dataprophet used virtualenv _everywhere_ so they definitely biased me
+03/06/2019, 13:23 - Stuart "Stew" Mesham: Oh I have no idea what’s cracking over there
+03/06/2019, 13:25 - Stuart "Stew" Mesham: * make of that
+03/06/2019, 13:27 - Stuart "Stew" Mesham: They’re different things it seems
+https://stackoverflow.com/a/29950604
+03/06/2019, 13:27 - Luc Hayward: think virtual env is the lower level thing that pyenv and pipenv are built on?
+03/06/2019, 13:28 - Luc Hayward: why is it confusing!!!
+03/06/2019, 13:30 - Stuart "Stew" Mesham: This says venv is just python whereas pyenv is bash stuff so I’d still just use venv 😆
+03/06/2019, 13:30 - Luc Hayward: virtualenv seems like a pain though?
+03/06/2019, 13:30 - Stuart "Stew" Mesham: Pyenv sounds fiddly
+03/06/2019, 13:30 - Stuart "Stew" Mesham: No it’s amazingly easy
+03/06/2019, 13:30 - Luc Hayward: From what I can tell it copies the entire python version to that directory surely that makes for massive project folders?
+03/06/2019, 13:32 - Stuart "Stew" Mesham: I don’t remember thinking the files were that big, but it does give you a “clean slate” to pip install stuff on without worrying about messing up versions and stuff for your other projects
+03/06/2019, 13:33 - Luc Hayward: yeah no I know that
+03/06/2019, 13:33 - Luc Hayward: Well how big is a project for you?
+03/06/2019, 13:33 - Luc Hayward: Are you at your laptop can you compare quick with mine?
+03/06/2019, 13:33 - Stuart "Stew" Mesham: I’ll go check
+03/06/2019, 13:33 - Stuart "Stew" Mesham: Actually I’ll just make a new venv now and see how big is
+03/06/2019, 13:33 - Luc Hayward: wait
+03/06/2019, 13:33 - Luc Hayward: go to Networks0Xs
+03/06/2019, 13:33 - Luc Hayward: cause we both have that
+03/06/2019, 13:34 - Stuart "Stew" Mesham: But it’s a nice little one liner to make one
+03/06/2019, 13:34 - Luc Hayward: isn't venv different to virtualenv
+03/06/2019, 13:34 - Luc Hayward: brb
+03/06/2019, 13:34 - Stuart "Stew" Mesham: No pycharm just called the folder venv but you can call it whatever you want
+03/06/2019, 13:35 - Luc Hayward: my networks0Xs is 127KB
+03/06/2019, 13:35 - Luc Hayward: brb
+03/06/2019, 13:42 - Stuart "Stew" Mesham: https://docs.python.org/3/library/venv.html
+03/06/2019, 13:42 - Stuart "Stew" Mesham: It says you can use --symlinks if you don't want it to make a copy
+03/06/2019, 13:47 - Stuart "Stew" Mesham: Oh nvm I googled it actually is
+03/06/2019, 13:47 - Stuart "Stew" Mesham: venv is apparently the lightweight version
+03/06/2019, 13:47 - Stuart "Stew" Mesham: I was using venv
+03/06/2019, 13:52 - Stuart "Stew" Mesham: I always typed:
+python3 -m venv venv
+to make one and then:
+source venv/bin/activate
+to activate it
+03/06/2019, 14:12 - Luc Hayward: Yeah and then when you're done source venv/bin/deactivate right
+03/06/2019, 14:13 - Luc Hayward: And does venv integrate nicely with pycharm? I think it can all be taken care of automatically tight?
+03/06/2019, 14:13 - Stuart "Stew" Mesham: Nah to deactivate you can just type “deactivate”
+03/06/2019, 14:13 - Luc Hayward: Right*
+03/06/2019, 14:13 - Luc Hayward: Ok and then jupyter notebooks. Where and when to use them and why and what for
+03/06/2019, 14:14 - Stuart "Stew" Mesham: I assume pycharm is already trying to make us use venv if it’s making folder called venv
+03/06/2019, 14:15 - Stuart "Stew" Mesham: Jupyter notebooks run a little web server and you open it in your browser and can type notes + little blocks of python code you can run
+03/06/2019, 14:15 - Stuart "Stew" Mesham: Google Colab is a Jupyter notebook so just open one if you want to see what it is
+03/06/2019, 14:15 - Luc Hayward: ah my bad you're right, venv is the recommended method now on the python hmoepage
+03/06/2019, 14:17 - Luc Hayward: venv doesn't copy python binaries
+03/06/2019, 14:17 - Luc Hayward: https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44
+03/06/2019, 14:17 - Stuart "Stew" Mesham: Ah
+03/06/2019, 14:18 - Luc Hayward: my pycharm doesn't do that, you're probably doing this
+03/06/2019, 14:18 - Stuart "Stew" Mesham: Venv does copy something though because I just tried making one and it was 8.6 mb
+03/06/2019, 14:18 - Stuart "Stew" Mesham: Oh
+03/06/2019, 14:18 - Luc Hayward: <Media omitted>
+03/06/2019, 14:18 - Stuart "Stew" Mesham: Oh
+03/06/2019, 14:19 - Stuart "Stew" Mesham: If you make one on your laptop via the command line is it also this big?
+03/06/2019, 14:20 - Luc Hayward: just via commandline or via pycharm?
+03/06/2019, 14:21 - Luc Hayward: yeah I think there are notebooks for a lot of different languages?
+03/06/2019, 14:21 - Stuart "Stew" Mesham: Oh yeah this 8.6 mb is all pip stuff
+03/06/2019, 14:22 - Boyd Kane: Yeah, you can download kernels for Java. I use it for CSC notes
+03/06/2019, 14:23 - Luc Hayward: I woner if that is different to letting pycharm use virtualenv
+03/06/2019, 14:31 - Luc Hayward: ok so testing it with networked0Xs
+03/06/2019, 14:32 - Luc Hayward: curretn size 120KB
+03/06/2019, 14:33 - Luc Hayward: adding virtualenv with inheriting global packages
+03/06/2019, 14:36 - Luc Hayward: letting pycharm handle the virtualenv doesn't increase file size drastically
+03/06/2019, 14:37 - Luc Hayward: also stu remember we were trying to find a way to see and then update all the packages that need updating?
+03/06/2019, 14:37 - Luc Hayward: You can do it in python EASY
+03/06/2019, 14:37 - Luc Hayward: globally and linked to a virtualenv
+03/06/2019, 14:49 - Luc Hayward: Any changes from the inherited ones are added though I think
+03/06/2019, 14:49 - Luc Hayward: this is all via pycharm not commandline
+03/06/2019, 14:54 - Luc Hayward: almost all sometimes there are errors
+03/06/2019, 21:01 - Luc Hayward: <------------------------------------->
+03/06/2019, 21:03 - Luc Hayward: This wwdc brought to you .... Very late
+03/06/2019, 21:04 - Luc Hayward: iOS being separated on iPads into iPadOS
+03/06/2019, 21:08 - Luc Hayward: Apple shows coming this fall. No pricing yet
+03/06/2019, 21:10 - Luc Hayward: TvOS redesign ish
+03/06/2019, 21:12 - Luc Hayward: Apple music to show lyrics in sync on Apple tv
+03/06/2019, 21:12 - Luc Hayward: TV app going on regular smart TVs though I think???
+03/06/2019, 21:13 - Luc Hayward: Now you can have a fucking bird (recorded at Apple park of course) chime every hour (or a haptic tap) ew
+03/06/2019, 21:14 - Luc Hayward: Calculator on watch
+03/06/2019, 21:14 - Luc Hayward: Tips and split bills included
+03/06/2019, 21:14 - Luc Hayward: Apple's books and voice memos.... Apps can run on watch without a pair app on the iphone
+03/06/2019, 21:15 - Luc Hayward: Apps (on watch) can read data for longer and new streaming api for audio (Spotify not shown but surely supported)
+03/06/2019, 21:16 - Luc Hayward: App Store direct on the watch (this is good)
+03/06/2019, 21:16 - Luc Hayward: Added trends to Apple fitness data
+03/06/2019, 21:16 - Luc Hayward: Watch will tell you if audio in the area is dangerously loud
+03/06/2019, 21:17 - Luc Hayward: Can also give realtime dB readout (no recorded audio)
+03/06/2019, 21:18 - Luc Hayward: Cycle (as in female not bike) tracking on watch. Doubt you guys care but anyway interesting
+03/06/2019, 21:20 - Luc Hayward: Android 9 at 10 percent adoption vs 85 for iOS 12. Honestly closer than I expected
+03/06/2019, 21:21 - Luc Hayward: FaceID 30% faster ... K big whoop
+03/06/2019, 21:21 - Boyd Kane: But still not on any MacBooks?
+03/06/2019, 21:21 - Luc Hayward: New app packing to make apps and updates 50 and 60% smaller respectively
+03/06/2019, 21:21 - Luc Hayward: Shhhhh I'm reading!
+03/06/2019, 21:22 - Luc Hayward: Should double app launch speeds allegedly
+03/06/2019, 21:22 - Luc Hayward: TRUE DARK (not grey) MODE ON iOS YESSSSS
+03/06/2019, 21:23 - Luc Hayward: Except notes which is "refined" grey
+03/06/2019, 21:23 - Luc Hayward: Keyboard is dark and now has swipe typing like 10 years later than every other phone
+03/06/2019, 21:23 - Luc Hayward: Still using gboard though
+03/06/2019, 21:24 - Luc Hayward: Also on iphone
+03/06/2019, 21:25 - Luc Hayward: Safari gets per website preferences, mail gets desktop formatting and fonts, notes gets shared folders
+03/06/2019, 21:25 - Luc Hayward: Reminders gets NLP for guessing the date it sounds like
+03/06/2019, 21:26 - Luc Hayward: Hmm sounds better than that, Siri will find actionable words like names and you can tap that to remind you about it in your messages ?
+03/06/2019, 21:27 - Luc Hayward: Apple maps gets essentially Google street view. New maps coming to US this year followed by select other countries
+03/06/2019, 21:27 - Luc Hayward: Smoother movement though than Streetview it seems
+03/06/2019, 21:31 - Luc Hayward: <Media omitted>
+03/06/2019, 21:31 - Luc Hayward: Can be disabled (the emails) whenever
+03/06/2019, 21:31 - Luc Hayward: Works on web (I assume only safari but hopefully anywhere)
+03/06/2019, 21:32 - Luc Hayward: Home kit security video to do processing of video on device, can use your homepod for compute oower
+03/06/2019, 21:32 - Luc Hayward: 10 days worth included with all iCloud accounts, doesn't count against storage cap
+03/06/2019, 21:33 - Luc Hayward: Some routers getting some sort of firewall integration. Not sure.
+03/06/2019, 21:33 - Luc Hayward: It's homekit
+03/06/2019, 21:35 - Luc Hayward: New portrait lighting effects in camera. 
+
+Improvements to photo editing include noise reduction. Interface applied to video too, videos can be rotated.
+03/06/2019, 21:36 - Luc Hayward: Going to use ML to remove duplicate photos and clutter (like receipts, think how Google photos suggests you should archive some stuff)
+03/06/2019, 21:36 - Luc Hayward: Airpods: Siri can read incoming messages and let you resoond
+03/06/2019, 21:37 - Luc Hayward: No need to say hey siri
+03/06/2019, 21:37 - Luc Hayward: Works with any messaging app supporting sirikit
+03/06/2019, 21:37 - Luc Hayward: You can share your audio with another iphone
+03/06/2019, 21:38 - Luc Hayward: Home pod personalised to each person.
+03/06/2019, 21:38 - Luc Hayward: iOS 13 has shortcuts built in
+03/06/2019, 21:39 - Luc Hayward: Multistep shortcuts recommendations based on your phone usage
+03/06/2019, 21:39 - Luc Hayward: Neural text to speech used to synthesise everything (no audio clips from real people). Demo is apparently better on correct emohasis
+03/06/2019, 21:40 - Luc Hayward: Low data mode and able to select WiFi networks from control centre. 
+
+Dolby atmos supoort and iMessage to work with dual SIM somehow??
+03/06/2019, 21:42 - Luc Hayward: iPadOS, so far home screen looks the same but with tighter app grid. Can swipe over to pin widgets on home screen ? 
+
+Changes I didn't really follow to how you swap between apps
+03/06/2019, 21:43 - Luc Hayward: Can now finally have two of the same app open in split screen I think. Something else I didn't follow. 
+
+Seems like multiple instances of a single app can be opened. 
+
+Apparently a lot of this stuff is complex and would need someone to show you rather than just discovering it
+03/06/2019, 21:44 - Luc Hayward: Files to get column view ? Zip/unzip coming too. Couldn't tell if the comment about thumb drives being readable was a joke but it looks like direct import from camera is a thing
+03/06/2019, 21:46 - Luc Hayward: <Media omitted>
+03/06/2019, 21:46 - Luc Hayward: Apple pencil latency halved from 29 to 9 ms
+03/06/2019, 21:47 - Luc Hayward: Can take screenshots with Apple pencil opening directly to markup view
+03/06/2019, 21:47 - Luc Hayward: Lots of gesture shortcuts like double to two fingers to cut
+03/06/2019, 21:47 - Luc Hayward: 3*
+03/06/2019, 21:47 - Luc Hayward: Can still do shake for undo 😂
+03/06/2019, 21:48 - Luc Hayward: Apple pencil tool palette available to any apps using the pencil and draggable on screen
+03/06/2019, 21:48 - Stuart "Stew" Mesham: Thank goodness my eyes were getting scorched
+03/06/2019, 21:49 - Luc Hayward: Some apps to support full page capture (screenshot entire page as in scrolling through a website)
+03/06/2019, 21:49 - Luc Hayward: No release date for iOS or iPadOS. Stu the beta program for iPhone is usually not too bad. Easier than Mac cause not as much of an issue if some features are buggy
+03/06/2019, 21:50 - Luc Hayward: <Media omitted>
+03/06/2019, 21:53 - Luc Hayward: Shipping with a 28 core xeon up to 1.5TB of RAM and up to 8 PCIe expansion slots( 4 double wide, 3 single and last one prefilled with an IO Card from Apple featuring thunderbolt, USB A ports and 2 10gig Ethernet ports). Has headphone jack😂
+03/06/2019, 21:53 - Stuart "Stew" Mesham: Nah I’ve become a stable-only normie over the years 😆
+03/06/2019, 21:54 - Luc Hayward: Graphics card is weird...supports up to 509watts but just a giant heatsink with no fans.  Can be configured with Radeon pro Vega (up to two)
+03/06/2019, 21:54 - Stuart "Stew" Mesham: Is it still happening now?
+03/06/2019, 21:54 - Luc Hayward: Weird it looks like the connector could be custom
+03/06/2019, 21:54 - Luc Hayward: I'm reading the interesting bits of the verges live coverage to you guys, not sure if it's still going I doubt it
+03/06/2019, 21:55 - Luc Hayward: Pro Vega 2*
+03/06/2019, 21:55 - Luc Hayward: Afterburner (name) card is for video editing, it's an FPGA ASIC card capable of 6 billion pixels per second (whatever that means) so 8k editing possible apparently.
+03/06/2019, 21:56 - Luc Hayward: Claims to handle 3x8k prores streams or 12x4k
+03/06/2019, 21:56 - Luc Hayward: 1400 watt psu
+03/06/2019, 21:57 - Luc Hayward: Can put the feet on wheels
+03/06/2019, 21:57 - Luc Hayward: Lots of airflow through the chassis
+03/06/2019, 21:59 - Luc Hayward: Lots of pro programs have announced support (duh but probably means that the mac programs will be tested on the new hardware seeing as before Mac's weren't even remotely capable of some of this stuff. ),Adobe, blackmagic, red, epic, unity, Pixar, Otoys octane programs.
+03/06/2019, 21:59 - Luc Hayward: Managing to run 1000+ audio tracks in logic
+03/06/2019, 22:00 - Luc Hayward: Final cut demo with 8K ProRes Raw and HDR — showing three streams running simultaneously.
+03/06/2019, 22:02 - Luc Hayward: New HDR display with same cheese grater styling (but looks good). 
+
+32-inch LCD, 6016 x 3284, 6K Retina display.
+
+P3 color, 10 bit, reference modes
+
+Purports wider viewing angles and has an anti reflective coating. Separate from the Matt option which apple claims uses a glass etching technology to reduce fuzziness of the image.
+03/06/2019, 22:03 - Luc Hayward: Rear backplate acts as heatsink allowing for indefinite 1000nits peak brightness
+03/06/2019, 22:04 - Luc Hayward: <Media omitted>
+03/06/2019, 22:05 - Luc Hayward: Calling it "extreme dynamic range" as opposed to high. 
+
+Named the pro display XDR
+03/06/2019, 22:05 - Luc Hayward: Thunderbolt 3 to support 2 display setup allowing macpro to power 6 disokays
+03/06/2019, 22:06 - Luc Hayward: Stand is a counterbalance allowing tilt, hight adjust and rotation to portrait. Removable and has VESA mounts
+03/06/2019, 22:06 - Luc Hayward: No price yet
+03/06/2019, 22:06 - Luc Hayward: Default mac pro starts at 6000 dollars. 
+
+8-core Xeon, 32GB memory, Radeon 580x, 256GB SSD
+03/06/2019, 22:07 - Luc Hayward: Coming this fall
+03/06/2019, 22:07 - Luc Hayward: Rack mount version available
+03/06/2019, 22:07 - Luc Hayward: Monitor is 5000 dollars and 1000 extra for the fancy matte one. The stand is an extra 1000 dollars ??????
+03/06/2019, 22:09 - Luc Hayward: MacOS Catalina!
+03/06/2019, 22:09 - Luc Hayward: iTunes is dead. Long live Apple Music, Apple Podcasts, Apple TV.
+03/06/2019, 22:09 - Luc Hayward: Music looks like iTunes without the bloat added. iPhone sync is now in finder sidebar.
+03/06/2019, 22:10 - Luc Hayward: Using ML to index and search podcasts
+03/06/2019, 22:10 - Luc Hayward: Apple TV app supports 4k hdr with hdr 10 and Dolby Atmos and Dolby vision
+03/06/2019, 22:11 - Luc Hayward: Holy fuck yes native support for the iPad as a second display let's gooooo
+03/06/2019, 22:11 - Luc Hayward: AND FREAKING TABLET INPUT VIA IPAD WITH PENCIL DIRECTLY LINKED TO MAC !!!!
+03/06/2019, 22:12 - Luc Hayward: Is this rip Wacom ? Probably not but it's fantastic for people wanting fully fledged use of the desktop stuff.
+03/06/2019, 22:12 - Luc Hayward: MacOS and iOS getting improved voice control accessibility features
+03/06/2019, 22:13 - Luc Hayward: Attention awareness intended to change your voice commands to target the device you focus on dynamically
+03/06/2019, 22:13 - Luc Hayward: Find my friends and find my iPhone combining
+03/06/2019, 22:14 - Luc Hayward: Apple devices send a secure Bluetooth beacon creating a mesh network of Apple devices allowing you to locate even offline device
+03/06/2019, 22:14 - Luc Hayward: Very cool
+03/06/2019, 22:14 - Luc Hayward: Can now lock your Mac just like with iPhone if it's stolen
+03/06/2019, 22:14 - Luc Hayward: SCREENTIME COMING TO MAC YEEE
+03/06/2019, 22:16 - Luc Hayward: Project catalyst (was marzipan) allows to to create mac apps easily based of iPad apps. Available Today in Catalina. 
+
+Just check the mac checkbox in Xcode and it automatically adds cursor and window support. The rest you customise further.   
+
+Twitter has native Mac app again. Took "just days"
+03/06/2019, 22:18 - Luc Hayward: <Media omitted>
+03/06/2019, 22:18 - Luc Hayward: Real time people occlusion (put objects behind people) and realtime mocap in the camera
+03/06/2019, 22:18 - Luc Hayward: Minecraft in AR
+03/06/2019, 22:20 - Luc Hayward: Can make Minecraft world massive and have people walk directly in them
+03/06/2019, 22:20 - Luc Hayward: SwiftUI built from the ground up
+03/06/2019, 22:20 - Luc Hayward: <Media omitted>
+03/06/2019, 22:20 - Luc Hayward: Interactive in Xcode
+03/06/2019, 22:20 - Luc Hayward: <Media omitted>
+03/06/2019, 22:20 - Luc Hayward: <Media omitted>
+03/06/2019, 22:20 - Luc Hayward: <Media omitted>
+03/06/2019, 22:20 - Luc Hayward: Changes in the ui reflect in your code too
+03/06/2019, 22:20 - Luc Hayward: <Media omitted>
+03/06/2019, 22:21 - Luc Hayward: Native framework for some watch too
+03/06/2019, 22:21 - Luc Hayward: Apple watch
+03/06/2019, 22:21 - Luc Hayward: Dev beta today
+03/06/2019, 22:21 - Luc Hayward: Public beta in July
+03/06/2019, 22:21 - Luc Hayward: Release in fall
+03/06/2019, 22:21 - Luc Hayward: The end
+04/06/2019, 01:01 - Luc Hayward: https://twitter.com/MKBHD/status/1135545675507150851?s=08
+04/06/2019, 15:31 - Boyd Kane: <Media omitted>
+04/06/2019, 15:31 - Luc Hayward: Yeah it's not amazing tbh😂
+04/06/2019, 15:32 - Boyd Kane: <Media omitted>
+04/06/2019, 15:39 - Luc Hayward: no widget 👎
+04/06/2019, 15:39 - Luc Hayward: adds are midly annoying
+04/06/2019, 15:39 - Luc Hayward: can't just quickly check it always takes like 2 seconds to startup which bugs me
+04/06/2019, 15:40 - Boyd Kane: All of these are solved in the paid version👌🏼
+04/06/2019, 15:40 - Boyd Kane: They've gotta make money somehow
+04/06/2019, 15:41 - Luc Hayward: which I'm not doing😂 I'm stingy
+04/06/2019, 17:52 - Luc Hayward: <Media omitted>
+04/06/2019, 20:14 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/bwnk3k/start_putting_that_resume_together/?utm_medium=android_app&utm_source=share
+06/06/2019, 15:30 - Luc Hayward: <Media omitted>
+06/06/2019, 15:31 - Stuart "Stew" Mesham: Can’t say I do
+08/06/2019, 16:55 - Luc Hayward: https://youtu.be/goD36hVVl7M
+
+This is super cool
+09/06/2019, 10:23 - Luc Hayward: https://www.reddit.com/r/programming/comments/by9v7c/i_didnt_get_paid_so_i_open_sourced_my_clients/?utm_medium=android_app&utm_source=share
+09/06/2019, 16:19 - Stuart "Stew" Mesham: https://www.reddit.com/r/BreadStapledToTrees/?utm_source=share&utm_medium=ios_app&utm_name=ios_share_flow_optimization&utm_term=control_1
+09/06/2019, 16:19 - Luc Hayward: wtf whyy
+09/06/2019, 16:22 - Boyd Kane: But why
+09/06/2019, 16:23 - Stuart "Stew" Mesham: I’m not sure 🤔
+10/06/2019, 01:06 - Luc Hayward: <Media omitted>
+10/06/2019, 01:06 - Luc Hayward: Lol wrong group soz
+10/06/2019, 14:13 - Luc Hayward: So I think that there is technically a massive issue in the grant applications thing I was maintaining that would let anyone who knew the name, staffID and email for a staffmember access their grant application
+10/06/2019, 14:19 - Luc Hayward: Like the original guy has written that they hide it behind a uuid for each user but....they straight up don't xD
+10/06/2019, 16:04 - Boyd Kane: 😂 lovely. Does it look like the original guy was just too lazy to do it?
+10/06/2019, 16:51 - Luc Hayward: It looks like he wanted to do it right and then never found a food way to do ir
+10/06/2019, 18:36 - Luc Hayward: Like it should all work except for the fact that only the server knows the UUID, and it's just sitting it in a lookup table keyed to the staffID
+10/06/2019, 18:37 - Luc Hayward: It's really bad actually 😂
+10/06/2019, 18:39 - Luc Hayward: I don't see a way to solve it either without massively changing how things are done 😂
+12/06/2019, 12:34 - Boyd Kane: <Media omitted>
+12/06/2019, 13:39 - Stuart "Stew" Mesham: 🙈😄
+12/06/2019, 14:27 - Luc Hayward: How did you even generate that folder structure
+12/06/2019, 15:03 - Stuart "Stew" Mesham: I’m also a bit curious
+12/06/2019, 16:55 - Luc Hayward: I accidentally made a 20GB file by piping out my terminal
+12/06/2019, 17:00 - Luc Hayward: turns out recursive grep is recursive
+12/06/2019, 19:34 - Boyd Kane: I actually have no clue, I only noticed it after I had changed the code🙈😂
+12/06/2019, 19:37 - Boyd Kane: 😂 I guess you found the Mac Pro's use-case 🤷🏻‍♂
+14/06/2019, 15:30 - Luc Hayward: ? Confused 😂
+14/06/2019, 15:30 - Luc Hayward: ^
+15/06/2019, 22:17 - Luc Hayward: https://youtu.be/aJq6ygTWdao
+
+Well thats scary
+15/06/2019, 22:48 - Boyd Kane: And the best part is that there are probably deepfakes out there convincing people, we just haven't been able to spot them
+15/06/2019, 22:49 - Luc Hayward: Nah they're still pretty hard to spot tbh
+15/06/2019, 22:49 - Luc Hayward: pretty easy *
+15/06/2019, 22:49 - Luc Hayward: But yeah some are very convincing but there is still a certain level of suspension of disbelief needed
+15/06/2019, 22:51 - Boyd Kane: Yeah, if the quality is decent, but people will still share a shaky, badly compressed video if they think it's funny, so just take the uncanny valley videos and compress them hectically
+15/06/2019, 22:51 - Luc Hayward: yeah true ture
+15/06/2019, 22:51 - Luc Hayward: You saw the FB deepfake of zuckerberg just shitting on his own company?
+15/06/2019, 22:51 - Luc Hayward: https://theoutline.com/post/7554/we-should-turn-tech-against-people-who-make-it?zd=1&zi=x5w53fo4
+15/06/2019, 22:55 - Boyd Kane: I hadn't actually😂
+16/06/2019, 00:03 - Luc Hayward: From Discover on Google https://www.pcmag.com/news/369013/adobes-new-ai-detects-photoshopped-faces
+
+Starting to fix your problem you mentioned Boyd
+16/06/2019, 11:25 - Luc Hayward: https://youtu.be/dKjCWfuvYxQ
+16/06/2019, 11:25 - Luc Hayward: https://youtu.be/gCuG-KJacp8
+16/06/2019, 11:25 - Luc Hayward: Watch this second
+16/06/2019, 11:25 - Stuart "Stew" Mesham: Oh they fight back now oh dear 😂
+16/06/2019, 11:27 - Luc Hayward: It's great.
+16/06/2019, 22:08 - Boyd Kane: https://youtu.be/Fow7iUaKrq4
+17/06/2019, 09:54 - Boyd Kane: <Media omitted>
+17/06/2019, 11:03 - Luc Hayward: Clearly related
+17/06/2019, 16:16 - Luc Hayward: Did you know mutable default arguments in python are effectively static (ie only one exists for the program)
+17/06/2019, 17:22 - Boyd Kane: No, but I do know that python's pass-by-reference/value is logical but in a very convoluted way which I think causes the static thing
+17/06/2019, 17:25 - Luc Hayward: Yeah so like if you have some function 
+Def append(Val, ls = []):
+    ls.append(val)
+    Print(ls)
+ 
+And you call 
+append(a)
+Append(b)
+
+The output will be 
+A
+Ab 
+
+And not 
+A
+B
+
+As you might expect
+18/06/2019, 03:26 - Stuart "Stew" Mesham: Never would’ve guessed that
+18/06/2019, 08:53 - Luc Hayward: Right? The default variable is created at the default definition.
+18/06/2019, 08:53 - Luc Hayward: Apparently it's intended for storing state for things like Cashing functions
+18/06/2019, 08:53 - Luc Hayward: If you pass in your argument it works as normal
+18/06/2019, 10:42 - Luc Hayward: Another two pros for venv
+18/06/2019, 10:43 - Luc Hayward: A) python and python3 link to the same command (different filepaths but both open a python3 shell)
+18/06/2019, 10:43 - Luc Hayward: and B) Pycharm's terminal window starts with the venv activated
+18/06/2019, 13:53 - Luc Hayward: I have decide ORMs are beautiful constructions, never again should one write sql by hand (even though it feels easier)
+18/06/2019, 13:54 - Luc Hayward: https://docs.djangoproject.com/en/2.2/topics/db/queries/
+
+This incase you are curious.....actually I hope this is the ORM and not something else lol
+18/06/2019, 14:11 - Stuart "Stew" Mesham: I share the sentiment
+18/06/2019, 14:11 - Luc Hayward: You've used?
+18/06/2019, 14:11 - Stuart "Stew" Mesham: The Django one a little bit
+18/06/2019, 14:12 - Luc Hayward: Wait so you used Django and when I was asking about whether to use flask or Django ages ago you just shrugged ! 👎
+18/06/2019, 14:13 - Stuart "Stew" Mesham: I haven’t used flask so how would I know? 😂
+18/06/2019, 14:13 - Luc Hayward: you could have given your opinion on DJango! haha
+18/06/2019, 14:14 - Stuart "Stew" Mesham: And I only used django for 3 days!
+18/06/2019, 14:23 - Luc Hayward: 3 more days than me 😋
+18/06/2019, 14:23 - Stuart "Stew" Mesham: Ok 😂
+18/06/2019, 14:32 - Boyd Kane: ELI5 ORMs?
+18/06/2019, 14:33 - Luc Hayward: Map objects to relational databases, abstract the sql queries away
+18/06/2019, 14:33 - Boyd Kane: I just realised how niche this question is😂
+18/06/2019, 14:54 - Luc Hayward: hhmmmm like you're 5...
+
+Instead of using pencil crayons to make pretty picture, just hand mommy and daddy the colours you like and then ask them to draw for you
+19/06/2019, 20:21 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/c2djnp/software_development_at_its_finest/?utm_medium=android_app&utm_source=share
+19/06/2019, 20:29 - Luc Hayward: <Media omitted>
+19/06/2019, 21:08 - Stuart "Stew" Mesham: I love this 😂😂😂
+19/06/2019, 21:08 - Stuart "Stew" Mesham: Especially the “first try 😏” at the end 👌🏻😂😂
+19/06/2019, 23:08 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/c2jj9s/its_all_related_guys/?utm_medium=android_app&utm_source=share
+
+@27722193705  trying to convince Nick we had a plan
+20/06/2019, 00:03 - Stuart "Stew" Mesham: 😂😂
+21/06/2019, 10:33 - Luc Hayward: <Media omitted>
+21/06/2019, 10:59 - Boyd Kane: The last frame definitely should be in a lower definition😂👌🏼
+24/06/2019, 11:49 - Luc Hayward: <Media omitted>
+24/06/2019, 11:49 - Luc Hayward: <Media omitted>
+24/06/2019, 11:49 - Luc Hayward: <Media omitted>
+24/06/2019, 11:51 - Boyd Kane: 555%😂
+24/06/2019, 11:51 - Boyd Kane: What on earth were you doing?
+24/06/2019, 11:51 - Stuart "Stew" Mesham: Maybe pycharm mines bitcoin in the background
+24/06/2019, 11:53 - Luc Hayward: Nope
+24/06/2019, 11:53 - Luc Hayward: Take a big pycharm project
+24/06/2019, 11:54 - Luc Hayward: something with say 10k unique files
+24/06/2019, 11:54 - Luc Hayward: copy that from one pycharm window (the original project) to a new pycharm window (another project) using pycharm instead of finder
+24/06/2019, 11:55 - Luc Hayward: watch the indexing process grind to a hault (lots of git if you're wondering why there are so many files)
+24/06/2019, 11:56 - Boyd Kane: That actually makes sense🙈😂
+24/06/2019, 12:00 - Luc Hayward: Was horrible 😂
+24/06/2019, 22:40 - Luc Hayward: Go here and let me know your thoughts
+24/06/2019, 22:40 - Luc Hayward: http://postgradapp.herokuapp.com/
+24/06/2019, 22:40 - Luc Hayward: Don't intentionally fuck anything up but just see how it goes
+24/06/2019, 22:40 - Luc Hayward: I want you to do the whole thing
+24/06/2019, 22:40 - Luc Hayward: pretend like you want to come to UCT
+24/06/2019, 22:40 - Luc Hayward: Signup, fill out an application
+24/06/2019, 22:40 - Luc Hayward: the data you put will all be deleted anyway eventually btw
+24/06/2019, 22:40 - Luc Hayward: Will owe you chocolate or something for helping me test
+24/06/2019, 22:40 - Luc Hayward: Also emails aren't required to exist so long as they are unique and correctly formatted
+24/06/2019, 22:40 - Luc Hayward: 💜
+24/06/2019, 22:47 - Luc Hayward: Not a big rush, tomorrow is fine
+25/06/2019, 08:20 - Boyd Kane: I think you need to have the UCT blurb when asking for their race, and then when I clicked save application it seems like it submitted it immediately, but everything's good otherwise👍🏼
+25/06/2019, 08:53 - Luc Hayward: The UCT blurb?
+25/06/2019, 08:54 - Luc Hayward: And yeah saving and submitting are the exact same thing I'm probably going to remove that option and just have Submit (with a note that you can still edit) and then withdraw (this is required just not in yet)
+25/06/2019, 10:44 - Stuart "Stew" Mesham: Hehe
+25/06/2019, 10:44 - Stuart "Stew" Mesham: Mind if I only do it this evening?
+25/06/2019, 10:45 - Luc Hayward: That's cool
+25/06/2019, 14:28 - Boyd Kane: I don't think you can legally ask for someone to give their race, and if you do then it has to be optional and UCT has a blurb about only using it for research/demographics purposes and not for discrimination
+25/06/2019, 14:29 - Boyd Kane: I think the CS department could give you some legalese to copy paste in this regard
+25/06/2019, 14:46 - Luc Hayward: Warn me before you do I'm not pushing changes there at the moment
+25/06/2019, 14:47 - Luc Hayward: 😂 I'll ask Tommie again, the requirements just say "Race, black or white"
+25/06/2019, 15:09 - Luc Hayward: Like no point you looking at it without giving me a heads up I mean 👍
+25/06/2019, 22:45 - Luc Hayward: Boyd did you sign in as fuckin pikachu xD?
+25/06/2019, 23:02 - Boyd Kane: <Media omitted>
+25/06/2019, 23:02 - Luc Hayward: 😂no no it's stunning
+25/06/2019, 23:03 - Luc Hayward: Also movie was relatively goofy and enjoyable given that I haven't followed pokemon in forever
+25/06/2019, 23:03 - Luc Hayward: <Media omitted>
+25/06/2019, 23:03 - Luc Hayward: Was just working out who the different accounts were
+25/06/2019, 23:03 - Luc Hayward: night all
+25/06/2019, 23:09 - Luc Hayward: Oh pushed a whole load of changes onto Heroku
+26/06/2019, 11:12 - Boyd Kane: Admin Adminson😂
+26/06/2019, 11:12 - Luc Hayward: Of the race Adminlord, I think he lives in adminville
+28/06/2019, 11:11 - Boyd Kane: https://youtu.be/pC4kWF_acNI If yo ever wanted to know the pains of calibrating a CNC machine to a cupcake
+28/06/2019, 11:11 - Boyd Kane: if you*
+28/06/2019, 11:12 - Luc Hayward: Is it as bad as the pancake machines are to build?
+28/06/2019, 11:12 - Boyd Kane: pancake machines?
+28/06/2019, 11:12 - Luc Hayward: https://youtu.be/6rEHNGPibb0
+28/06/2019, 11:13 - Luc Hayward: Bon Appetit have a video too
+28/06/2019, 11:15 - Boyd Kane: This guy just kinda swopped out his legitimate 3D printer head with a (3D printed) holder and dispenser for a syringe, so not that difficult assuming you have a painfully well equipped workshop
+28/06/2019, 21:12 - Luc Hayward: Ah that's pretty cool then 👌👍
+29/06/2019, 14:53 - Boyd Kane: Reddit Provides: https://youtu.be/6-1Ue0FFrHY
+30/06/2019, 07:08 - Stuart "Stew" Mesham: 😂😂
+09/07/2019, 20:08 - Luc Hayward: @27673227353 new doctor who worth it or nah
+09/07/2019, 20:50 - Boyd Kane: The writing really started to go south after Capaldi became the doctor, but before that was decent
+10/07/2019, 08:37 - Luc Hayward: Want that when Moffat really started to step back ?
+10/07/2019, 08:37 - Luc Hayward: Yeah I watched up to pay in Capaldi wanted to know whether to pick it back up
+10/07/2019, 08:42 - Boyd Kane: Basically I didn't really like the writing for most of Capaldi, so I haven't watched anything after him🤷🏻‍♂
+10/07/2019, 08:42 - Luc Hayward: Right😂😂 so it's not that they cast the girl
+10/07/2019, 11:20 - Luc Hayward: https://www.reddit.com/r/IAmA/comments/cb95qa/hi_i_am_elonka_dunin_cryptographer_gamedev/?utm_medium=android_app&utm_source=share
+10/07/2019, 11:26 - Luc Hayward: <Media omitted>
+10/07/2019, 11:26 - Luc Hayward: <Media omitted>
+10/07/2019, 11:26 - Luc Hayward: <Media omitted>
+10/07/2019, 11:26 - Luc Hayward: <Media omitted>
+10/07/2019, 11:28 - Luc Hayward: http://www.sit.uct.ac.za/sit/apply
+
+You will note that this site does not operate on HTTPS (like literally everything should these days) and so I kindly(rudely because this was around the time they basically told Stu to fuck off about resetting passwords) emailed them to have it fixed. ..... Yeah no they just told me to piss off basically
+10/07/2019, 18:45 - Luc Hayward: https://www.theregister.co.uk/2019/07/09/github_deepnude_code_discord/
+10/07/2019, 21:08 - Boyd Kane: I mean, most people have no clue about how advanced machine learning is right now. I just hope that  when the first DeepNude is released as a 'leak', enough people will realise that this tech exists so that it won't cause significant harm to whoever was targeted
+11/07/2019, 09:14 - Luc Hayward: It was already released and selling for 50 dollars on Windows Linux and Android I think
+11/07/2019, 09:14 - Luc Hayward: Oh the first fake photo😂
+11/07/2019, 09:15 - Luc Hayward: Well I've no idea how accurate it looked it could have been ultra shit like the original deepfakes
+11/07/2019, 10:29 - Boyd Kane: True, but I think it's important that the public know when this sort of deepfake tech crosses the boundary into believability, which is a lot more believable if they see it slowly get better rather than just announce when they become perfect
+11/07/2019, 10:31 - Boyd Kane: But it's tricky. I definitely wouldn't want to be the guinea pig to have DeepNudes made of me just so everyone can see where the tech is at
+11/07/2019, 10:34 - Luc Hayward: Did you watch corridor crews video on faking Tom cruise?
+11/07/2019, 10:35 - Boyd Kane: Yeah
+11/07/2019, 10:35 - Luc Hayward: 😂 you're safe, only works on girls because there aren't enough naked guys on the internet
+11/07/2019, 10:35 - Luc Hayward: Was impressive but less impressive that I expected
+11/07/2019, 17:50 - Luc Hayward: @27722193705
+11/07/2019, 18:41 - Stuart "Stew" Mesham: We don’t have to use this do we?
+11/07/2019, 20:17 - Luc Hayward: No it's where mine would be hosted but that never went live on time
+11/07/2019, 20:17 - Luc Hayward: But I wanted you to see that they're dumb and also told me to fuckoff about the HTTPS stuff
+11/07/2019, 20:21 - Stuart "Stew" Mesham: Oh good yeah they are dumb 😂 They also gave me useless responses and didn’t fix the issue I told them about
+11/07/2019, 20:25 - Luc Hayward: Especially cause their excuse was "expensive" but there are free SSL providers
+13/07/2019, 21:39 - Boyd Kane: Ben Eater is a mad lad. Just busy watching him make a VGA graphics card with breadboards😂🙈
+13/07/2019, 21:59 - Stuart "Stew" Mesham: I saw that on the YouTube recommender. Looked so cool
+14/07/2019, 00:28 - Luc Hayward: Is this the guy you showed me Stu?
+14/07/2019, 02:15 - Stuart "Stew" Mesham: Yeah the guy I showed you at 1am or something 😆
+14/07/2019, 10:10 - Luc Hayward: 😂 mad lad
+17/07/2019, 10:31 - Luc Hayward: https://twitter.com/imPatrickT/status/1151234265620852741?s=08
+17/07/2019, 21:50 - Boyd Kane: So the shells for the iPhone 11 are out, and literally the only change from the X is that they've now got 3 cameras on the back. What do you guys think the odds are that Apple is going to release some AR glasses this year? (To account for the lacking iPhone)
+17/07/2019, 22:14 - Luc Hayward: Nope
+17/07/2019, 22:15 - Luc Hayward: No chance at all
+17/07/2019, 22:15 - Luc Hayward: Also if they actually go with the sweetie cameras I'll cry because that design is so incredibly ugly
+17/07/2019, 22:19 - Boyd Kane: _laughs in kotlin_
+17/07/2019, 22:19 - Luc Hayward: ?
+17/07/2019, 22:30 - Boyd Kane: The design won't bother me if I don't have to hold it🤷🏻‍♂
+17/07/2019, 22:43 - Luc Hayward: Yes. But also. It's fugly 😂
+18/07/2019, 13:16 - Boyd Kane: https://challenge.entelect.co.za/login
+You guys keen?
+18/07/2019, 13:17 - Luc Hayward: Not if this is the main challenge
+18/07/2019, 13:18 - Luc Hayward: I only want to do the university cup
+18/07/2019, 13:18 - Luc Hayward: The main one is too time consuming I think
+18/07/2019, 13:19 - Boyd Kane: Yeah just the 1-day event
+18/07/2019, 13:20 - Luc Hayward: Yeah we're keen, upsetting that it's only 3 people this year and not 4
+18/07/2019, 13:21 - Luc Hayward: Cause we were meant to go with Keegan again.... Rip
+18/07/2019, 13:22 - Boyd Kane: Is Keegan out of the picture?
+18/07/2019, 13:22 - Luc Hayward: Registered
+18/07/2019, 13:25 - Luc Hayward: I...do not know
+18/07/2019, 13:27 - Boyd Kane: What's this about then?🙈
+18/07/2019, 13:28 - Luc Hayward: He wants to do it again. If Stu is out then Keegan can join us Boyd. And if not then I'll go with Keegan and you two go together
+18/07/2019, 13:28 - Luc Hayward: But we 3 will definitely do ACM together if you're keen
+18/07/2019, 13:31 - Boyd Kane: Is the max team size only 3 people then?
+18/07/2019, 13:31 - Luc Hayward: Yeah
+18/07/2019, 13:31 - Boyd Kane: ACM?
+18/07/2019, 13:32 - Boyd Kane: Also they've got a demo of Worms and it's really fun😂
+18/07/2019, 13:32 - Luc Hayward: <Media omitted>
+18/07/2019, 13:32 - Luc Hayward: ACM is a big international competition
+18/07/2019, 13:32 - Luc Hayward: @27722193705 do you remember when it is ?
+18/07/2019, 14:03 - Boyd Kane: Verbosity++;
+18/07/2019, 15:39 - Luc Hayward: 😂
+18/07/2019, 15:40 - Luc Hayward: Yeah
+18/07/2019, 15:40 - Luc Hayward: So next Thursday (25th) there's a seminar by Dr Shock "A walk through the landscape of reinforcement learning" 1-2pm... I'm going
+18/07/2019, 16:09 - Stuart "Stew" Mesham: See you there 👍🏻
+18/07/2019, 16:10 - Stuart "Stew" Mesham: In 2017 it was near the end of October
+18/07/2019, 16:13 - Luc Hayward: I'm assuming that you guys won't fill a third so if Keegan can't make it (once the date is released), then I'll join you two obviously
+18/07/2019, 16:13 - Luc Hayward: Right right
+18/07/2019, 17:34 - Boyd Kane: Keen. Could you send me the email?
+18/07/2019, 17:56 - Stuart "Stew" Mesham: Me too please
+18/07/2019, 18:08 - Luc Hayward: No email
+18/07/2019, 18:08 - Luc Hayward: Just on the calendar
+19/07/2019, 18:51 - Luc Hayward: https://www.kdnuggets.com/2019/07/deepmind-protein-folding-upset.html
+
+@27722193705
+20/07/2019, 22:03 - Stuart "Stew" Mesham: That is really cool 👌🏻
+20/07/2019, 22:43 - Luc Hayward: Yep
+23/07/2019, 09:03 - Luc Hayward: Should know today whether I'm with you guys or with keegan
+23/07/2019, 09:42 - Luc Hayward: Gonna register with you guys, Keegan has a concert the night before
+23/07/2019, 09:42 - Stuart "Stew" Mesham: Ok
+23/07/2019, 09:50 - Luc Hayward: Who's gonna register the team
+23/07/2019, 10:13 - Luc Hayward: Same practice problem as last year but surely not the same final problem?
+23/07/2019, 10:15 - Stuart "Stew" Mesham: I vote you as team captain and master of administration 📜
+23/07/2019, 10:15 - Luc Hayward: like the practice problems are the same, and last year the actual probem was just a bigger version of the practice one
+23/07/2019, 10:15 - Luc Hayward: ok
+23/07/2019, 10:15 - Luc Hayward: Team name/
+23/07/2019, 10:16 - Stuart "Stew" Mesham: Autocomplete didn’t offer me any good team names sorry
+23/07/2019, 10:17 - Luc Hayward: Titanium Purple Tractors?
+23/07/2019, 10:17 - Stuart "Stew" Mesham: Niiice 😏
+23/07/2019, 10:18 - Luc Hayward: titanium_purple_tractors-6670
+23/07/2019, 10:18 - Luc Hayward: https://challenge.entelect.co.za/portal/university/challenge/team
+23/07/2019, 10:18 - Stuart "Stew" Mesham: 😂
+23/07/2019, 10:18 - Boyd Kane: 😂
+23/07/2019, 10:18 - Luc Hayward: thats the team code to join the team
+23/07/2019, 10:21 - Boyd Kane: Okay I've requested
+23/07/2019, 10:21 - Stuart "Stew" Mesham: I keep clicking log in with google but it takes me back to the same page!
+23/07/2019, 10:22 - Boyd Kane: I had that last night, it's fine for me now on mobile
+23/07/2019, 10:23 - Stuart "Stew" Mesham: I just tried the subscribe thing as well and it turns out I've just subscribed myself to a newsletter!
+23/07/2019, 10:23 - Stuart "Stew" Mesham: Ok I tried it with chrome and now it's working
+23/07/2019, 10:25 - Stuart "Stew" Mesham: Ok I've requested too
+23/07/2019, 10:35 - Luc Hayward: done
+23/07/2019, 10:38 - Luc Hayward: Stu...I rate we setup my PC at home/an google/azure/aws instance so we can just run as many things as we want?
+23/07/2019, 10:38 - Stuart "Stew" Mesham: That’s a solid idea 😂
+23/07/2019, 10:39 - Stuart "Stew" Mesham: Also why didn’t we just run things on nightmare last time 🙈
+23/07/2019, 10:40 - Luc Hayward: Because nightmare is slow as shit
+23/07/2019, 10:40 - Luc Hayward: It's slower than running directly on the lab PC (which is what we did remember we had 4 labs PCs runni things)
+23/07/2019, 10:40 - Stuart "Stew" Mesham: I think it’s a fantastic idea as long as we get it set up and make sure everything is working before the competition starts
+23/07/2019, 10:40 - Stuart "Stew" Mesham: I remember that 😂
+23/07/2019, 10:44 - Luc Hayward: Yes yes absolute 😂
+23/07/2019, 14:33 - Boyd Kane: Speaking of, could we meet up at some point to chat about the competition and format?
+23/07/2019, 17:08 - Luc Hayward: https://www.youtube.com/watch?v=Zt3RXhddYME&list=WL&index=86
+
+Interesting VFX take (rather than a cs view)
+24/07/2019, 11:42 - Boyd Kane: @27832859563 is the talk by Doc Shock the same as the reinforcement learning one this Friday?
+24/07/2019, 11:53 - Luc Hayward: I have no idea, I assume you're seeing that as you walk in the maybe building? I have no clue though I double checked the email and it says Friday, maybe ask him in a lecture
+24/07/2019, 12:00 - Luc Hayward: Also yes sounds good
+24/07/2019, 14:35 - Boyd Kane: Generally I'm only free from 9-11 and then at meridian, what about you guys?
+24/07/2019, 14:56 - Luc Hayward: meridian is the only full overlap unfortunately
+24/07/2019, 14:56 - Luc Hayward: stu is free 10-11
+24/07/2019, 14:58 - Boyd Kane: And you're not, I assume? If no, then how about tomorrow at 13?
+24/07/2019, 15:03 - Luc Hayward: On this friday I am
+24/07/2019, 15:03 - Luc Hayward: else tomorrow worjs
+24/07/2019, 15:05 - Boyd Kane: @STUWART_THE_MESHATRON_MESHAM does 13h tomorrow work?
+24/07/2019, 15:06 - Stuart "Stew" Mesham: Works for me 👍🏻
+24/07/2019, 15:47 - Stuart "Stew" Mesham: Wait so is the Doc Shock thing definitely not tomorrow at 13h?
+24/07/2019, 15:48 - Luc Hayward: No idea 👍
+24/07/2019, 15:48 - Stuart "Stew" Mesham: 😂
+24/07/2019, 15:48 - Luc Hayward: the emails and calendars all say tomorrow
+24/07/2019, 15:48 - Luc Hayward: the tv in the maths building says friday in a totally different venue
+24/07/2019, 15:48 - Luc Hayward: I think it might be two talks
+24/07/2019, 15:49 - Stuart "Stew" Mesham: Is the Friday one also 1pm?
+24/07/2019, 15:49 - Boyd Kane: <Media omitted>
+24/07/2019, 15:49 - Luc Hayward: ok
+24/07/2019, 15:50 - Luc Hayward: so thats a second talk then separate from the thursday one I believe
+24/07/2019, 15:50 - Luc Hayward: probably to prevent the need for a really big venue
+24/07/2019, 15:50 - Luc Hayward: its the same one though
+24/07/2019, 15:50 - Stuart "Stew" Mesham: If there are 2, I can't make the Friday one, because I have a comp sci presentation
+24/07/2019, 15:51 - Luc Hayward: yeah I think thursday is better rather
+24/07/2019, 15:51 - Luc Hayward: can you come boyd?
+25/07/2019, 08:45 - Boyd Kane: I just spoke to the Doc and he said that today's talk is the same as tomorrow's, but probably going to get cancelled since he's not feeling well
+25/07/2019, 08:56 - Stuart "Stew" Mesham: Ah ok
+25/07/2019, 08:56 - Luc Hayward: He better get better, what time is tomorrow like 1?
+25/07/2019, 08:57 - Luc Hayward: Yeah 1, I won't make that 😂
+25/07/2019, 10:01 - Luc Hayward: I've changed plans, I'll make it
+25/07/2019, 10:04 - Luc Hayward: @27673227353 you still going?
+25/07/2019, 10:38 - Boyd Kane: I'm going tomorrow, I've got squash tonight
+25/07/2019, 10:39 - Luc Hayward: You play squash?
+25/07/2019, 10:39 - Luc Hayward: Yes tomorrow. See you there
+25/07/2019, 10:50 - Boyd Kane: That I do
+25/07/2019, 10:55 - Luc Hayward: That's cool, I don't think I even remember how to play squash anymore 👎
+25/07/2019, 11:50 - Boyd Kane: Where should we meet at 13h?
+25/07/2019, 11:50 - Luc Hayward: ??
+25/07/2019, 11:51 - Luc Hayward: I thought we weren't meeting anymore, Stu said he was doing CS work and going home😂
+25/07/2019, 11:51 - Luc Hayward: Lol I totally forgot about this
+25/07/2019, 11:52 - Luc Hayward: I'll come back I'm not far from varsity 😂
+25/07/2019, 11:52 - Luc Hayward: @27722193705 ?
+25/07/2019, 11:53 - Stuart "Stew" Mesham: I can still do 1pm today
+25/07/2019, 11:53 - Luc Hayward: Ok will drive back 😂👌
+25/07/2019, 11:53 - Luc Hayward: Is anyone around now I have nothing to do
+25/07/2019, 11:55 - Boyd Kane: ?
+25/07/2019, 11:55 - Luc Hayward: Literally anywhere
+25/07/2019, 11:56 - Luc Hayward: Where's your lecturers
+25/07/2019, 11:57 - Boyd Kane: JDLT1. But I want to eat somewhere. Do you think we'll find a free room in the CS building?
+25/07/2019, 11:58 - Luc Hayward: Seems hard, are you going to eat now?
+25/07/2019, 11:59 - Boyd Kane: I can eat while we talk to Alexa
+25/07/2019, 11:59 - Boyd Kane: <Media omitted>
+25/07/2019, 12:00 - Luc Hayward: Alexa?
+25/07/2019, 12:00 - Luc Hayward: I'm so confused
+25/07/2019, 12:00 - Luc Hayward: Oh I see it
+25/07/2019, 12:00 - Luc Hayward: Do you have a lecture or are you free now?
+25/07/2019, 12:00 - Luc Hayward: Aka m bored
+25/07/2019, 12:01 - Boyd Kane: You wanna join?😂
+25/07/2019, 12:01 - Boyd Kane: Yeah I've got a lecture, SIPP
+25/07/2019, 12:03 - Luc Hayward: SIPP? I mean I would join but I'm still 5 Min from varsity I think (yay traffic)
+25/07/2019, 12:10 - Stuart "Stew" Mesham: I’m free now
+25/07/2019, 12:10 - Luc Hayward: Same I'm walking from top parking where shall I find you
+25/07/2019, 12:10 - Stuart "Stew" Mesham: I’m in the CS lab
+25/07/2019, 12:11 - Boyd Kane: I'll join you guys there when my lecture's done
+25/07/2019, 12:12 - Luc Hayward: If you're getting food first I'm hungry too
+25/07/2019, 12:12 - Boyd Kane: I've already had my sandwich🤷🏻‍♂
+25/07/2019, 12:12 - Luc Hayward: Lol ok😂
+25/07/2019, 12:12 - Luc Hayward: Chilled then
+25/07/2019, 12:52 - Boyd Kane: Where are you all at?
+26/07/2019, 08:03 - Boyd Kane: Doc Shock hasn't come to the 8am lecture, I think the talk is cancelled
+26/07/2019, 08:38 - Luc Hayward: Hmm let see
+26/07/2019, 12:01 - Luc Hayward: Not gonna bother coming if he didn't make the lecture I think then
+26/07/2019, 12:59 - Boyd Kane: It's happening, just in video form
+26/07/2019, 14:20 - Luc Hayward: Oh cool, recorded?
+26/07/2019, 17:22 - Boyd Kane: https://youtu.be/wI_2QbIrKZA
+26/07/2019, 23:17 - Luc Hayward: Thanks
+30/07/2019, 19:01 - Stuart "Stew" Mesham: I'm gonna be in Stellies on Friday night so if we're gonna be setting things up beforehand we'll need to do it on Thursday
+30/07/2019, 20:12 - Luc Hayward: ?? Stu we start at 8:30 😂
+30/07/2019, 20:14 - Boyd Kane: Stuuuuu.......
+30/07/2019, 20:16 - Stuart "Stew" Mesham: Don’t worry, I’ll make it 👍🏻
+30/07/2019, 20:17 - Luc Hayward: Stu................  You're going to be tired😂 we need all hands on deck
+30/07/2019, 20:17 - Stuart "Stew" Mesham: Yes, but caffeine
+30/07/2019, 20:17 - Stuart "Stew" Mesham: Lots
+30/07/2019, 20:17 - Stuart "Stew" Mesham: Lots of it
+30/07/2019, 20:18 - Luc Hayward: You don't drink coffee! 😂
+30/07/2019, 20:19 - Stuart "Stew" Mesham: I will make an exception 😂
+30/07/2019, 20:21 - Luc Hayward: .... Sigh
+30/07/2019, 20:35 - Stuart "Stew" Mesham: Ek is jammer
+30/07/2019, 20:36 - Stuart "Stew" Mesham: Boyd can replace me I’ll do file I/O 😂
+30/07/2019, 20:41 - Luc Hayward: I.... Stu 😂🙈 ok 🤷‍♂️
+30/07/2019, 22:16 - Boyd Kane: <Media omitted>
+30/07/2019, 22:16 - Stuart "Stew" Mesham: You mean Robot/not-Robot? 😂
+30/07/2019, 22:16 - Boyd Kane: 😂
+30/07/2019, 22:17 - Boyd Kane: <Media omitted>
+30/07/2019, 22:17 - Boyd Kane: It doesn't like your LEDs Stu, for the camera they change colour over distance
+30/07/2019, 22:18 - Stuart "Stew" Mesham: Oh 😂
+30/07/2019, 22:18 - Boyd Kane: <Media omitted>
+30/07/2019, 22:57 - Luc Hayward: Well it's the only thing inside a big unmoving white square....
+30/07/2019, 22:57 - Luc Hayward: Also what app is that 😂
+30/07/2019, 22:59 - Luc Hayward: https://play.google.com/store/apps/details?id=xyz.cruxlab.opencvbot
+
+Inspiration
+30/07/2019, 23:01 - Luc Hayward: https://play.google.com/store/apps/details?id=com.studios.code.gem.ardobjecttracker
+30/07/2019, 23:10 - Stuart "Stew" Mesham: It’s the prototype version of God’s mind
+30/07/2019, 23:11 - Boyd Kane: Well yeah, if I wanted the easy way I'd just buy a robot off of the shelf😂
+30/07/2019, 23:14 - Boyd Kane: Prototype‽ Alpha version at least😂
+02/08/2019, 08:39 - Luc Hayward: Is this tomorrow?
+02/08/2019, 08:54 - Stuart "Stew" Mesham: No, yesterday this was tomorrow
+02/08/2019, 08:54 - Luc Hayward: No sorry I mean the competition
+02/08/2019, 08:55 - Stuart "Stew" Mesham: Yeah 👍🏻
+03/08/2019, 00:22 - Boyd Kane: @27722193705 is it too late to ask you to bring the kettle for tea tomorrow?
+03/08/2019, 00:23 - Stuart "Stew" Mesham: Yeah sorry I’m in Stellies so I’d have to steal Lloyd’s kettle
+03/08/2019, 07:54 - Luc Hayward: Stu you're awake right?
+03/08/2019, 07:55 - Stuart "Stew" Mesham: He is
+03/08/2019, 08:16 - Luc Hayward: Good cause I'm running late xD
+03/08/2019, 08:16 - Luc Hayward: But I'll be there no worries
+03/08/2019, 08:30 - Boyd Kane: This is happening in the CS building, right?
+03/08/2019, 08:47 - Luc Hayward: Yes
+03/08/2019, 08:47 - Luc Hayward: The lab
+03/08/2019, 15:48 - Luc Hayward: (lambda a,o:[o.write(''.join([('BMSX'[i]+'F'*15+'DRPA'[i]+'F'*14+'\n')*a[i]for i in range(4)])),o.close()])([int(x)for x in open(input(),'r').readline().split(',')],open('out.txt','w'))
+03/08/2019, 15:49 - Luc Hayward: <Media omitted>
+07/08/2019, 09:42 - Luc Hayward: <Media omitted>
+07/08/2019, 18:20 - Boyd Kane: https://www.reddit.com/r/ProgrammerHumor/comments/cn3m4n/a_front_end_developer_eats_alone_because_he/
+Have you guys seen this one?
+12/08/2019, 09:51 - Luc Hayward: Boyd, remind us what sort of content was in the online test? I remember it being super chilled but never hurts to check
+12/08/2019, 09:51 - Luc Hayward: Also this is great😂 favourite is still little Bobby tables meme
+12/08/2019, 09:52 - Stuart "Stew" Mesham: He already sent me some long voicenotes I’ll forward them 👍🏻
+12/08/2019, 10:03 - Luc Hayward: Lol feeling the love there @27673227353
+12/08/2019, 11:12 - Boyd Kane: Ask and you shall receive🤷🏻‍♂
+12/08/2019, 11:42 - Luc Hayward: <Media omitted>
+12/08/2019, 18:00 - Luc Hayward: <Media omitted>
+12/08/2019, 20:22 - Stuart "Stew" Mesham: <Media omitted>
+12/08/2019, 22:03 - Luc Hayward: Specifically the online test I was curious about actually 😂
+12/08/2019, 22:04 - Luc Hayward: Wasn't particularly memorable the first time just checking it hasn't changed much
+13/08/2019, 20:50 - Luc Hayward: <Media omitted>
+13/08/2019, 20:51 - Luc Hayward: When you want to show the interviewer you know your shit
+14/08/2019, 10:41 - Luc Hayward: @27673227353 are you coming to the ACM ICPC info session?
+14/08/2019, 12:10 - Boyd Kane: No I've been pretty I'll the past few days (and still am).
+14/08/2019, 12:11 - Boyd Kane: If one of you is going could you fill me in on the details later?
+14/08/2019, 12:21 - Luc Hayward: We shall
+14/08/2019, 13:11 - Luc Hayward: There's nothing much of value so far
+14/08/2019, 13:12 - Luc Hayward: Waiting to find out about training plans
+14/08/2019, 13:30 - Luc Hayward: <Media omitted>
+14/08/2019, 13:32 - Boyd Kane: Is this still going on?
+14/08/2019, 13:34 - Luc Hayward: It is but we've shared everything important
+14/08/2019, 13:34 - Stuart "Stew" Mesham: Boyd can you check for the pigeons at the pigeon braai on Jammy Plaza?
+14/08/2019, 13:34 - Boyd Kane: I'm actually on campus now for my CS prac test, is it worth coming through
+14/08/2019, 13:34 - Luc Hayward: There will be more details coming about what days are what topics (first two are on team composition and general problem solving)
+14/08/2019, 13:34 - Boyd Kane: Wait what?
+14/08/2019, 13:34 - Luc Hayward: No
+14/08/2019, 13:35 - Luc Hayward: It's nearly done
+14/08/2019, 13:35 - Stuart "Stew" Mesham: !!!
+14/08/2019, 13:35 - Stuart "Stew" Mesham: It’s today!
+14/08/2019, 13:35 - Luc Hayward: There's always tons of pizza for lunch too so it's not a total waste of the day
+14/08/2019, 13:35 - Stuart "Stew" Mesham: I can’t believe I’m missing it
+14/08/2019, 13:35 - Boyd Kane: I thought this was a joke
+14/08/2019, 13:36 - Stuart "Stew" Mesham: 😂
+14/08/2019, 13:36 - Stuart "Stew" Mesham: No it’s the coolest braai of the year
+14/08/2019, 13:36 - Boyd Kane: Do you mean for the ACM meetings?
+14/08/2019, 13:36 - Boyd Kane: Where even is that?
+14/08/2019, 13:37 - Luc Hayward: Yeah the weekend training sessions
+14/08/2019, 13:37 - Luc Hayward: They typically take the form 35% lecture 65% problem solving and discussion of the solutions/how you should have approached it
+14/08/2019, 18:24 - Stuart "Stew" Mesham: <Media omitted>
+14/08/2019, 18:25 - Stuart "Stew" Mesham: <Media omitted>
+14/08/2019, 18:27 - Luc Hayward: You started late 😂
+14/08/2019, 18:28 - Stuart "Stew" Mesham: Yes it was taking so long I thought I was going to miss supper 😂
+14/08/2019, 18:29 - Boyd Kane: What is this?
+14/08/2019, 18:29 - Stuart "Stew" Mesham: Amazon online assessment
+14/08/2019, 18:35 - Boyd Kane: 😂👌🏼👌🏼
+15/08/2019, 21:51 - Boyd Kane: <Media omitted>
+15/08/2019, 21:54 - Stuart "Stew" Mesham: 😂😂😂
+15/08/2019, 21:55 - Luc Hayward: wtf is this 😂
+15/08/2019, 21:58 - Boyd Kane: You drink water, I drink anarchy.
+15/08/2019, 23:58 - Stuart "Stew" Mesham: https://youtu.be/Nqk_nWAjBus
+16/08/2019, 12:40 - Luc Hayward: ok then hahaha
+17/08/2019, 09:24 - Luc Hayward: https://www.reddit.com/r/television/comments/crbfga/silicon_valley_season_6_the_final_season_official/?utm_medium=android_app&utm_source=share
+17/08/2019, 09:35 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/cradow/my_interviewer_and_me_at_my_top_4_whiteboard/?utm_medium=android_app&utm_source=share
+17/08/2019, 09:55 - Boyd Kane: I am _so_ keen for this
+17/08/2019, 10:03 - Stuart "Stew" Mesham: Yeeesss 😂
+17/08/2019, 11:10 - Stuart "Stew" Mesham: <Media omitted>
+17/08/2019, 12:26 - Boyd Kane: The weekend before test week? He'll Hell no🙈😅
+17/08/2019, 15:03 - Luc Hayward: Mainly @27722193705 but Boyd if you know then thats awesome
+17/08/2019, 15:04 - Luc Hayward: With jetbrains IDEs, is there a way to have some sort of derived field that only shows up in the debugger? I swear I've had it happen but don't rmemeber when or which language
+17/08/2019, 15:04 - Luc Hayward: So like all your fields for your objects can be inspected in the debugger right
+17/08/2019, 15:04 - Luc Hayward: But lets say I have some list of attributes
+17/08/2019, 15:05 - Luc Hayward: And I have a method getAttributesAsString() that is a member of my class
+17/08/2019, 15:05 - Luc Hayward: have you ever had it that you could tell the debugger "hey, always evaluate that method and show it to me as though it were a class variable" ?
+17/08/2019, 15:05 - Luc Hayward: Or am I talking shit
+17/08/2019, 15:06 - Stuart "Stew" Mesham: Can’t say I’ve ever done this
+17/08/2019, 15:06 - Luc Hayward: I'm sure its a pycharm thing
+17/08/2019, 15:26 - Boyd Kane: Yeah you can
+17/08/2019, 15:27 - Luc Hayward: Do you know what they call it?
+
+Wanted it for some c++ but the c++ debugger is horrible compared to python and java
+17/08/2019, 15:27 - Boyd Kane: https://www.jetbrains.com/help/pycharm/evaluating-expressions.html
+17/08/2019, 15:27 - Boyd Kane: It's like a little calculator button
+17/08/2019, 15:29 - Luc Hayward: Thanks, I think what I actually wanted was watches (pycharm lets you create watches for arbitrary expressions)
+17/08/2019, 15:29 - Luc Hayward: But thanks it pointed me where I was looking
+17/08/2019, 15:31 - Luc Hayward: Thanks Boyds xD
+17/08/2019, 15:31 - Luc Hayward: <Media omitted>
+17/08/2019, 15:56 - Boyd Kane: I love it when my weather is Strong and Warm, followed by Same with a small chance of Yes
+17/08/2019, 16:00 - Luc Hayward: <Media omitted>
+17/08/2019, 16:03 - Boyd Kane: Surely you mean: ☀🔥🆗💪🔥🔄✅
+17/08/2019, 16:03 - Luc Hayward: ....
+17/08/2019, 16:03 - Luc Hayward: Don't tempt me
+17/08/2019, 16:04 - Boyd Kane: Ctrl+Cmd+Spacebar
+17/08/2019, 16:04 - Luc Hayward: In python maybe
+17/08/2019, 16:04 - Luc Hayward: In c++ that's just a pain to do and the tutor definitely won't see the funny side xD
+17/08/2019, 16:56 - Boyd Kane: Ooh I'm sure he wouldn't😂
+17/08/2019, 16:58 - Luc Hayward: Like I have no assigned tutor 😂 else I would
+19/08/2019, 22:27 - Boyd Kane: https://www.reddit.com/r/AskReddit/comments/csf7j9/comment/exeji2c
+20/08/2019, 07:36 - Luc Hayward: Good read
+22/08/2019, 13:11 - Luc Hayward: Are we going on saturday to trinaing? "Problem solving paradigms"
+22/08/2019, 14:07 - Stuart "Stew" Mesham: I’m not feeling too motivated
+22/08/2019, 14:34 - Luc Hayward: I expected you wouldn't xD
+22/08/2019, 15:39 - Boyd Kane: What time is it? I'd be keen
+22/08/2019, 15:41 - Luc Hayward: It's 10-4 with pizza and drinks
+22/08/2019, 15:47 - Boyd Kane: In the senior lab I'm guessing?
+22/08/2019, 16:48 - Luc Hayward: No it's in 303
+24/08/2019, 23:59 - Boyd Kane: https://link.medium.com/6Qmh9vUmqZ
+25/08/2019, 00:28 - Luc Hayward: Ay thanks will look at this 👍😂
+25/08/2019, 00:28 - Luc Hayward: Thanks for having us man 🙏
+25/08/2019, 00:29 - Stuart "Stew" Mesham: Same and same 🙏🏻
+25/08/2019, 00:37 - Luc Hayward: That was super interesting, gonna see if they wrote any morrw
+27/08/2019, 11:48 - Boyd Kane: Hey, do you guys have your slides/notes/past papers from your second year CSC courses?
+27/08/2019, 11:51 - Stuart "Stew" Mesham: Yeah
+27/08/2019, 11:51 - Stuart "Stew" Mesham: Still got the Vula tabs and all
+27/08/2019, 11:52 - Boyd Kane: Could you send/share them with me? I wanna see what's what
+27/08/2019, 11:54 - Stuart "Stew" Mesham: I share my google drive folders, but I won’t download the whole Vula tab from home because I don’t want to cap our internet. Can do that when I go to campus if you like 😂
+27/08/2019, 11:55 - Stuart "Stew" Mesham: I do have (at least most of) the lecture slides in my google drive though
+27/08/2019, 11:56 - Boyd Kane: If you could share the drive folder that would be great😊
+27/08/2019, 11:56 - Boyd Kane: <Media omitted>
+27/08/2019, 11:57 - Stuart "Stew" Mesham: You’re welcome 👍🏻
+27/08/2019, 11:57 - Boyd Kane: <Media omitted>
+27/08/2019, 11:58 - Boyd Kane: I'm watching Aslam explain methods and I'm slowly going crazy
+27/08/2019, 11:58 - Stuart "Stew" Mesham: Wow I forgot just how boring those lectures were 😂😂😂
+27/08/2019, 12:00 - Stuart "Stew" Mesham: The only one of his lectures I attended was his intro lecture. I don’t think Luc attended a single one. 😂
+27/08/2019, 12:05 - Boyd Kane: Sounds appropriate
+28/08/2019, 21:15 - Boyd Kane: Hey guys, any idea what the going rate is for tutors? Specifically CSC tutors
+28/08/2019, 22:56 - Stuart "Stew" Mesham: Through UCT was R60/h last I heard. Not sure about privately.
+28/08/2019, 23:23 - Luc Hayward: I think it's higher now like 80?
+28/08/2019, 23:24 - Luc Hayward: It's not worth it though just tutor privately or I can send your number to a company I used to do some work through too
+30/08/2019, 17:31 - Boyd Kane: Okay cheers. I just had a friend ask and was wandering if it'd be worth it
+30/08/2019, 17:32 - Boyd Kane: Also, do you guys have any experience in converting 2D pixel locations to relative 3D real world space locations?
+30/08/2019, 17:33 - Luc Hayward: As in getting a screenspace coordinate in world space as though you were casting a ray out through the screen?
+30/08/2019, 17:33 - Boyd Kane: <Media omitted>
+30/08/2019, 17:38 - Stuart "Stew" Mesham: That’s the part that’s going to entail all the camera calibration stuff
+30/08/2019, 17:38 - Stuart "Stew" Mesham: https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
+30/08/2019, 17:40 - Stuart "Stew" Mesham: So once we’ve got these properties of the camera we should be able to work these out
+30/08/2019, 17:42 - Boyd Kane: But like, how? This seems like it should be a simple matrix multiplication so I tried to work out but I can't
+30/08/2019, 17:43 - Stuart "Stew" Mesham: Yeah read the link it is matrix multiplication
+30/08/2019, 17:43 - Boyd Kane: Okay. I'll see how I go
+30/08/2019, 17:44 - Luc Hayward: Stu as soon as your camera changes those matrices change hey? If its the same as computer graphics transforms
+30/08/2019, 17:44 - Stuart "Stew" Mesham: Luc knows because he openGLs 🤓
+30/08/2019, 17:44 - Stuart "Stew" Mesham: Yeah
+30/08/2019, 17:45 - Stuart "Stew" Mesham: Like there’s a transformation (matrix) for the camera position, a transformation for the lens distortion etc.
+30/08/2019, 17:45 - Luc Hayward: Fuck its asshole
+30/08/2019, 17:45 - Luc Hayward: but yes
+30/08/2019, 17:46 - Luc Hayward: But I have no idea how to do it backwards in your case
+30/08/2019, 17:46 - Luc Hayward: You have some knowledge about the orientation and tilt of the camera
+30/08/2019, 17:47 - Stuart "Stew" Mesham: Yeah this describes how to work them out though
+30/08/2019, 17:47 - Luc Hayward: Then yeah there is a way to do it
+30/08/2019, 17:47 - Luc Hayward: And it will be super common
+30/08/2019, 17:47 - Stuart "Stew" Mesham: Yeah
+30/08/2019, 17:48 - Boyd Kane: I gotta drive but I'll read it and get back to y'all
+01/09/2019, 11:55 - Luc Hayward: https://www.youtube.com/watch?v=4gibcRfp4zA
+
+This is so cool
+03/09/2019, 11:58 - Boyd Kane: Is there a way to scrape the resources tab in Vula?
+03/09/2019, 12:05 - Luc Hayward: No idea
+03/09/2019, 12:06 - Luc Hayward: In theory yes
+03/09/2019, 12:08 - Boyd Kane: I'm only hopeful because you've already shown how lackluster they are about security. And I'm sick and tired of manually downloading and sorting out past papers
+03/09/2019, 12:09 - Luc Hayward: ok no in that case its honestly faster to just open all the tabs and then cmd+s -> enter to save them all quickly
+03/09/2019, 12:09 - Luc Hayward: Cause you need to be signed in to vula
+03/09/2019, 12:10 - Boyd Kane: Ughh
+03/09/2019, 12:37 - Boyd Kane: But then I'll be manually downloading shirt _for the next 3 years_
+03/09/2019, 12:37 - Luc Hayward: yep
+03/09/2019, 12:37 - Luc Hayward: enjoy it
+03/09/2019, 12:39 - Boyd Kane: I can't believe humanity can manage to send moving pictures of Elon puffing a joint across the world but I can't automate my past papers
+03/09/2019, 14:25 - Stuart "Stew" Mesham: You can access the resources tab through SMB or something and download the whole folder
+03/09/2019, 14:26 - Stuart "Stew" Mesham: I downloaded the whole resources thing for one of my courses because o was worried they were doing to take past papers down 😂
+03/09/2019, 14:29 - Luc Hayward: What how???
+03/09/2019, 14:31 - Stuart "Stew" Mesham: Look in the menus it’s there somewhere 😂
+03/09/2019, 14:49 - Boyd Kane: Did you go to Resources>transfer files?
+03/09/2019, 14:49 - Stuart "Stew" Mesham: I think so
+03/09/2019, 14:49 - Stuart "Stew" Mesham: I don’t have my laptop out at the moment
+03/09/2019, 14:50 - Stuart "Stew" Mesham: Then there was something where I used connect to server on finder
+03/09/2019, 14:50 - Boyd Kane: And then used your UCT password? It seems hopeful but it keeps on rejecting my password
+03/09/2019, 14:50 - Stuart "Stew" Mesham: May have had to add smb:// to the start of the url
+03/09/2019, 14:50 - Stuart "Stew" Mesham: Yeah
+03/09/2019, 14:50 - Stuart "Stew" Mesham: Maybe your username with @wf.uct etc
+03/09/2019, 14:51 - Stuart "Stew" Mesham: MSHSTU001@wf.uct.ac.za
+03/09/2019, 14:51 - Stuart "Stew" Mesham: Try that if your normal username and normal UCT email don’t work
+03/09/2019, 14:54 - Boyd Kane: Bingo
+03/09/2019, 14:54 - Boyd Kane: KNXBOY001, UCT password, and then the URL is just straight up copied from the https one they give you
+03/09/2019, 14:57 - Boyd Kane: <Media omitted>
+03/09/2019, 15:03 - Stuart "Stew" Mesham: 😂
+03/09/2019, 22:43 - Boyd Kane: <Media omitted>
+03/09/2019, 22:58 - Stuart "Stew" Mesham: <Media omitted>
+03/09/2019, 23:05 - Boyd Kane: https://www.washingtonpost.com/politics/2018/11/23/trump-played-so-little-golf-last-month-that-he-tied-obama/
+
+Basically Donald plays _a lot_ of golf, most notably during potential crisis in the US
+03/09/2019, 23:10 - Boyd Kane: https://trumpgolfcount.com/
+Also this
+03/09/2019, 23:40 - Stuart "Stew" Mesham: That is one detailed analysis of his golfing habits
+04/09/2019, 11:06 - Boyd Kane: <Media omitted>
+04/09/2019, 11:07 - Stuart "Stew" Mesham: 😂
+04/09/2019, 11:17 - Luc Hayward: 😂 surely not
+04/09/2019, 12:45 - Boyd Kane: Yup
+04/09/2019, 12:46 - Boyd Kane: <Media omitted>
+06/09/2019, 15:25 - Luc Hayward: We should probably go in tomorrow, they're covering strings
+06/09/2019, 15:26 - Luc Hayward: We missed data structures last week
+06/09/2019, 15:26 - Luc Hayward: But @27722193705 remember strings maths and graphs were there ones we struggled most with
+06/09/2019, 15:59 - Stuart "Stew" Mesham: But but can’t we just get some practice problems and solutions?
+06/09/2019, 18:03 - Boyd Kane: <Media omitted>
+06/09/2019, 18:03 - Stuart "Stew" Mesham: 😂
+06/09/2019, 18:06 - Boyd Kane: <Media omitted>
+06/09/2019, 18:30 - Luc Hayward: That's the key
+11/09/2019, 07:20 - Boyd Kane: https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,bitch*
+11/09/2019, 07:32 - Luc Hayward: Just removed a whole load from my final project yesterday 😂
+11/09/2019, 10:19 - Stuart "Stew" Mesham: 😂
+19/09/2019, 23:34 - Stuart "Stew" Mesham: Anyone keen for the Allan Gray Hackathon? (12+13 October)
+20/09/2019, 07:04 - Luc Hayward: What's the rewards potential?
+20/09/2019, 08:49 - Boyd Kane: And the times?
+20/09/2019, 08:52 - Stuart "Stew" Mesham: Top three teams win “a cash prize” 🤦🏻‍♂😂
+20/09/2019, 08:53 - Stuart "Stew" Mesham: Haven’t given any times they say it’s a 24 hour thing though
+20/09/2019, 09:59 - Boyd Kane: Damn, I can't but I'd really like to, I've got a 21st
+20/09/2019, 12:46 - Boyd Kane: <Media omitted>
+20/09/2019, 12:55 - Luc Hayward: its awful
+22/09/2019, 19:56 - Stuart "Stew" Mesham: <Media omitted>
+24/09/2019, 12:22 - Luc Hayward: https://youtu.be/kopoLzvh5jY
+
+Pretty amazing
+25/09/2019, 11:37 - Luc Hayward: https://openai.com/blog/emergent-tool-use/
+25/09/2019, 11:50 - Boyd Kane: Honestly I love that someone spent time and energy to code in dynamic smiley faces onto them😂
+25/09/2019, 11:51 - Luc Hayward: Yeah I've been trying to find and understand how the visualisations are done but I'm really struggling
+25/09/2019, 11:52 - Luc Hayward: Cause they're using mujoco for the world generation which is a python library that OpenAI use a lot....but it doesn't produce anywhere near this level of quality
+25/09/2019, 11:52 - Luc Hayward: I mean that looks like unity to me
+25/09/2019, 11:52 - Luc Hayward: But they don't mention that anywhere in the write up
+25/09/2019, 12:03 - Luc Hayward: Got the paper to load finally
+25/09/2019, 12:20 - Luc Hayward: The environment is simulated in MUJOCO physics engine.
+Simulating the agents as speres with observations of position, velocity and size of objects and other agents.
+They can choose from 3 actions simultaneously at teach time step: move(apply force along x/y axis and torque on the z), grab/not grab an object which binds the agent to the closest object, lock/not lock an object in place which can then only be unlocked by the same team.
+25/09/2019, 12:26 - Luc Hayward: OK I give up, I can't find anything on how they're transferring the simulations from MUJOCO to presumably unity/unreal
+25/09/2019, 12:50 - Boyd Kane: Maybe the academics just used Mujoco and then they handed it over to a graphics team to make it all pretty for the public
+25/09/2019, 12:51 - Boyd Kane: So that people don't realise this is analogous to robots seek-and-destroy on the battlefield😂🙈
+25/09/2019, 13:03 - Luc Hayward: Maybe but like... The visualisations are in the actual paper? So they were done before the paper was published.
+25/09/2019, 15:40 - Boyd Kane: 🤷🏻‍♂
+25/09/2019, 21:05 - Luc Hayward: <Media omitted>
+25/09/2019, 21:05 - Boyd Kane: 😂
+25/09/2019, 21:07 - Stuart "Stew" Mesham: 😂😂👌🏻
+29/09/2019, 21:07 - Luc Hayward: Either of you watch today's smarter everyday episode on gun detection?
+29/09/2019, 21:08 - Stuart "Stew" Mesham: No?
+29/09/2019, 21:09 - Luc Hayward: Do you.... Know what I'm talking about Stu? 😂
+29/09/2019, 21:09 - Stuart "Stew" Mesham: His name is Destin? 😂
+29/09/2019, 21:11 - Luc Hayward: Yes😂😂
+29/09/2019, 21:11 - Luc Hayward: Tldr some friend of his made an image classifier that can be used (attached to a video feed) to monitor for guns and send an alert email/sms to whoever about it
+29/09/2019, 21:11 - Luc Hayward: But specifically designed only to detect guns being held ? So not if they're holstered
+29/09/2019, 21:11 - Luc Hayward: Something like 30k training samples most of which were hand labelled
+29/09/2019, 21:23 - Stuart "Stew" Mesham: Sounds... familiar 😂
+29/09/2019, 21:23 - Stuart "Stew" Mesham: That’s really cool though
+29/09/2019, 21:46 - Boyd Kane: Very cool video.
+02/10/2019, 16:30 - Luc Hayward: https://youtu.be/0OtZ8dUFxXA
+
+I rate I start submitting essays with this for first year english students
+02/10/2019, 16:30 - Luc Hayward: https://www.youtube.com/redirect?event=video_description&v=0OtZ8dUFxXA&redir_token=NSjDL3-w-Fy4kOzfcpISQ17duFd8MTU3MDExMjg2NEAxNTcwMDI2NDY0&q=https%3A%2F%2Ftalktotransformer.com%2F
+02/10/2019, 17:29 - Boyd Kane: <Media omitted>
+02/10/2019, 17:30 - Luc Hayward: Its perfect
+02/10/2019, 17:31 - Luc Hayward: https://talktotransformer.com/
+
+Because stu will complain about the weird link
+03/10/2019, 09:05 - Boyd Kane: Hey all, would you recommend doing INF in second year or in third year?
+03/10/2019, 09:06 - Stuart "Stew" Mesham: Well if you can, I’d recommend trying to fabricate a clash with stats in both 2nd and 3rd year and doing the concession test instead. 10/10 fantastic experience 👌🏻
+03/10/2019, 09:07 - Boyd Kane: 😂
+03/10/2019, 09:20 - Luc Hayward: You have to do info's for one semester
+03/10/2019, 09:20 - Luc Hayward: 1000000% this
+03/10/2019, 09:21 - Luc Hayward: But chat to Faith, she did infos the whole way through
+03/10/2019, 09:21 - Luc Hayward: .... actually wait you don't know faith do you 😂
+03/10/2019, 09:21 - Luc Hayward: Do your very best to not take infos more than is absolutely necessary
+03/10/2019, 09:23 - Boyd Kane: I think I bumped into her at a party about 3 years ago, so yeah😄🙈
+03/10/2019, 09:23 - Boyd Kane: What do you mean? Isn't it just a semester and then it's done?
+03/10/2019, 09:23 - Stuart "Stew" Mesham: 😂😂
+03/10/2019, 09:23 - Boyd Kane: Stu teach me your ways
+03/10/2019, 09:24 - Stuart "Stew" Mesham: I hear it was a long semester 😂
+03/10/2019, 10:05 - Luc Hayward: Yeah but you asked....oh I totally misread your question. Take infos in second year 100% I think. It's such a waste of your time in third year
+03/10/2019, 10:06 - Boyd Kane: Okay, so you don't think it's worth the risk to try and pull a Stuart?
+03/10/2019, 10:07 - Stuart "Stew" Mesham: Arrange it now though then there’s no risk 😂
+03/10/2019, 10:07 - Stuart "Stew" Mesham: Go tell them about how stats + Spanish clash with infos both years and ask them to sign the forms so they can’t go back on it 😆
+03/10/2019, 10:08 - Luc Hayward: Yeah no you have to arrange it in advance
+03/10/2019, 10:08 - Stuart "Stew" Mesham: I’ll send you the forms you need
+03/10/2019, 10:09 - Luc Hayward: You can't just not register and then in third year be like "woops my bad". In fact I don't even think they'll let you register without querying it 😂
+03/10/2019, 10:12 - Boyd Kane: I went to Aslam to talk about my Spanish, and he basically said to get good grades this year, register Spanish as a third major next year and if there's a clash with INF I should then tell them to make a plan😅
+03/10/2019, 10:12 - Boyd Kane: Thanks Stu
+04/10/2019, 22:33 - Luc Hayward: Eyyy ok mainly @27722193705  but boyd you'll like this
+04/10/2019, 22:33 - Luc Hayward: If I give you a syringe with a valve on the end
+04/10/2019, 22:34 - Luc Hayward: and I give you a scale (like a nice chemistry one)
+04/10/2019, 22:34 - Luc Hayward: You could give me the mass and it would be easy
+04/10/2019, 22:35 - Luc Hayward: Now what would you say the scale would read if I closed the valve on the syringe, pulled the plunger all the way back and then locked the plunger there (so that is stayed pulled up)
+04/10/2019, 22:36 - Luc Hayward: Would the scale read:
+A) lighter
+B) the same
+or C) heavier
+04/10/2019, 22:36 - Stuart "Stew" Mesham: Woah where did this question come from? 😂
+04/10/2019, 22:36 - Luc Hayward: Shhh just guess
+04/10/2019, 22:36 - Stuart "Stew" Mesham: Ok option A 😂
+04/10/2019, 22:36 - Luc Hayward: Ah but do you know why>
+04/10/2019, 22:37 - Stuart "Stew" Mesham: Buoyancy?
+04/10/2019, 22:37 - Luc Hayward: <Media omitted>
+04/10/2019, 22:37 - Luc Hayward: <Media omitted>
+04/10/2019, 22:37 - Luc Hayward: Yep
+04/10/2019, 22:38 - Stuart "Stew" Mesham: Heyyyyyyy 🎉 😎😂
+04/10/2019, 22:38 - Luc Hayward: the syringe is now slightly lighter than before because its like an ultra effective helium balloon
+04/10/2019, 22:38 - Stuart "Stew" Mesham: Trippy thought for today 😂
+04/10/2019, 22:40 - Luc Hayward: https://www.youtube.com/watch?v=TjiP8QIPews
+
+All from this video incase you're bored
+04/10/2019, 22:41 - Stuart "Stew" Mesham: I didn’t know they cheated at making tennis balls more bouncy 😆
+04/10/2019, 22:41 - Luc Hayward: They didn't
+04/10/2019, 22:41 - Luc Hayward: I think I'm halfway through haha
+04/10/2019, 22:42 - Luc Hayward: He couldn't find any real examples of balls that actually had sf6 in them beyond a patent for it
+04/10/2019, 22:42 - Stuart "Stew" Mesham: Oh nvm then 😂
+04/10/2019, 23:17 - Luc Hayward: https://twitter.com/jetbrains/status/1152182622103252992?s=08
+05/10/2019, 19:16 - Stuart "Stew" Mesham: https://www.reddit.com/r/dankmemes/comments/ddme77/the_rise_of_the_machines/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+05/10/2019, 23:04 - Boyd Kane: 😂 this sounds a bit like what happens to the helium balloon in the back of an accelerating van
+08/10/2019, 10:30 - Luc Hayward: <Media omitted>
+08/10/2019, 11:50 - Stuart "Stew" Mesham: Enthusiasm fading... I don’t think it’s worth it...
+08/10/2019, 11:50 - Luc Hayward: yeah its a super fucking weird date?
+08/10/2019, 11:52 - Boyd Kane: Agreed, I'm not keen
+08/10/2019, 12:00 - Luc Hayward: Do you also writ eon the monday?
+08/10/2019, 12:01 - Boyd Kane: Yup. Spanish oral exam
+08/10/2019, 12:02 - Luc Hayward: Lovely....
+08/10/2019, 18:36 - Luc Hayward: <Media omitted>
+08/10/2019, 18:36 - Luc Hayward: <Media omitted>
+08/10/2019, 18:38 - Boyd Kane: I'd like to but I can't make it😕
+08/10/2019, 18:38 - Luc Hayward: Shoh socialite here hey Stu?
+08/10/2019, 18:46 - Boyd Kane: <Media omitted>
+08/10/2019, 18:46 - Luc Hayward: 😂
+08/10/2019, 19:34 - Stuart "Stew" Mesham: 😂😂
+09/10/2019, 12:20 - Boyd Kane: <Media omitted>
+09/10/2019, 12:26 - Stuart "Stew" Mesham: Look cool! Will try it some time 🤓
+12/10/2019, 12:03 - Luc Hayward: https://youtu.be/JR4KHfqw-oE
+
+Interesting in a weird, time wasting kind of way?
+12/10/2019, 17:48 - Luc Hayward: https://education.github.com/pack/offers?sort=popularity
+
+Couple free domains again this year
+12/10/2019, 18:32 - Luc Hayward: @27673227353 I'm roping you into this traversty
+12/10/2019, 18:32 - Luc Hayward: Stu programs in a blinding white ide
+12/10/2019, 18:32 - Stuart "Stew" Mesham: No this is false 😂
+12/10/2019, 18:34 - Luc Hayward: Stu programs in a blinding white ide during the day *
+12/10/2019, 18:38 - Stuart "Stew" Mesham: Ok I’ll admit I do this
+12/10/2019, 22:45 - Boyd Kane: <Media omitted>
+12/10/2019, 22:49 - Luc Hayward: Exactly
+12/10/2019, 22:49 - Luc Hayward: So kipchoge (the marathon guy) broke the 2 hour marathon today
+12/10/2019, 22:49 - Luc Hayward: 5.84m/s on average
+12/10/2019, 22:49 - Luc Hayward: 100m in 17s 42 times in a row
+12/10/2019, 22:49 - Luc Hayward: Thought that may be of interest as you both run
+12/10/2019, 22:50 - Luc Hayward: I don't think I could keep that pace up for even 50m on a treadmill
+12/10/2019, 23:04 - Stuart "Stew" Mesham: I also saw that. It’s unbelievable 😂 he did a marathon at my sprinting speed
+12/10/2019, 23:05 - Luc Hayward: You sprint at 21km/h?
+12/10/2019, 23:08 - Stuart "Stew" Mesham: I think? How fast do you sprint? 😂
+12/10/2019, 23:08 - Luc Hayward: I dunno but that's fast as fuck
+12/10/2019, 23:09 - Stuart "Stew" Mesham: Then probably not 😂 it’s somewhere around 19/20 though
+12/10/2019, 23:10 - Luc Hayward: https://youtu.be/Ds21U7coQzI
+
+3 minutes into this
+12/10/2019, 23:11 - Luc Hayward: Ok so I forgot I watch everything at 2x speed
+12/10/2019, 23:11 - Luc Hayward: Still 21km/h for 2 hours is insane
+12/10/2019, 23:11 - Luc Hayward: Like that's proper fasr
+12/10/2019, 23:14 - Stuart "Stew" Mesham: Woah yeah that does look intense
+13/10/2019, 08:03 - Luc Hayward: Next time you go for a run try run at 21km/h.
+13/10/2019, 08:03 - Luc Hayward: That would be full sprint for me
+13/10/2019, 08:27 - Luc Hayward: https://www.reddit.com/r/ProgrammerHumor/comments/dgytka/the_future_is_now_mom/?utm_medium=android_app&utm_source=share
+13/10/2019, 09:22 - Stuart "Stew" Mesham: Yep 😂
+13/10/2019, 12:20 - Luc Hayward: https://github.com/beyarkay/EntellectChallenge2019
+
+Are we planning to clean this up and make it public
+13/10/2019, 12:50 - Boyd Kane: Yeah I think so, I had totally forgotten about it to be honest😂
+13/10/2019, 13:04 - Luc Hayward: Just needs a readme and then it's good enough I think
+13/10/2019, 17:27 - Luc Hayward: <Media omitted>
+13/10/2019, 17:28 - Stuart "Stew" Mesham: ok ok 😂😂😂
+13/10/2019, 18:35 - Boyd Kane: <Media omitted>
+13/10/2019, 18:43 - Luc Hayward: looks like Deep ocean material theme
+
+https://www.material-theme.com/
+13/10/2019, 18:43 - Luc Hayward: <Media omitted>
+13/10/2019, 18:55 - Stuart "Stew" Mesham: Ok I’m changing because I want to be like batman not because you said so
+13/10/2019, 19:00 - Boyd Kane: <Media omitted>
+13/10/2019, 20:01 - Luc Hayward: A question for you
+13/10/2019, 20:01 - Luc Hayward: Could you feasibly run a torrent box on a raspberry Pi (or similar)
+13/10/2019, 20:01 - Luc Hayward: Rather than having your main PC drawing a shit ton of power
+13/10/2019, 20:01 - Stuart "Stew" Mesham: Yeah 👍🏻
+13/10/2019, 20:02 - Stuart "Stew" Mesham: Now you want one?
+13/10/2019, 20:03 - Luc Hayward: It just feels wasteful to run a desktop overnight but no I don't really torrent enough to make it worthwhile 😂
+14/10/2019, 18:38 - Luc Hayward: This message was deleted
+14/10/2019, 18:57 - Luc Hayward: Added a super simple readme
+14/10/2019, 19:04 - Stuart "Stew" Mesham: Thanks! Can you make it public too please
+14/10/2019, 19:04 - Luc Hayward: its Boyds
+14/10/2019, 19:04 - Stuart "Stew" Mesham: Oh
+14/10/2019, 19:53 - Boyd Kane: Ah sorry, it's public now
+14/10/2019, 20:09 - Luc Hayward: 👌
+15/10/2019, 18:26 - Boyd Kane: <Media omitted>
+15/10/2019, 18:26 - Luc Hayward: 😂😂😂
+15/10/2019, 18:27 - Luc Hayward: Gotta be honest in your work
+15/10/2019, 19:02 - Boyd Kane: <Media omitted>
+15/10/2019, 19:03 - Luc Hayward: Oh so you do have a maximum size that your github account can use up I think
+15/10/2019, 19:03 - Luc Hayward: yeah you need to use LFS (its super simple)
+15/10/2019, 19:03 - Boyd Kane: So splitting them up isn't going to make it any better?
+15/10/2019, 19:03 - Boyd Kane: What's this?
+15/10/2019, 19:03 - Luc Hayward: it will here
+15/10/2019, 19:04 - Luc Hayward: it stands for git large file system
+15/10/2019, 19:04 - Luc Hayward: its actually intended for large binary files
+15/10/2019, 19:04 - Luc Hayward: But it will work fine for any large file
+15/10/2019, 19:04 - Luc Hayward: Basically instead of putting a massive file into the git history it stores a reference to that file (I believe)
+15/10/2019, 19:05 - Luc Hayward: And then stores the big file on its own
+15/10/2019, 19:05 - Luc Hayward: Really really easy to set up though
+15/10/2019, 19:05 - Luc Hayward: You do have a 1.5GB limit I think on github though?
+15/10/2019, 19:05 - Boyd Kane: No limit, just a limit on single files
+15/10/2019, 19:05 - Luc Hayward: https://help.github.com/en/articles/about-storage-and-bandwidth-usage
+
+everything you could want to know
+15/10/2019, 19:06 - Luc Hayward: there definitely is a limit with github tied to your account
+15/10/2019, 19:07 - Luc Hayward: <Media omitted>
+15/10/2019, 19:07 - Boyd Kane: That's for LFS, but I don't think there's a limit for normal
+15/10/2019, 19:07 - Luc Hayward: <Media omitted>
+15/10/2019, 19:07 - Luc Hayward: oh no I don't believe there is
+15/10/2019, 19:09 - Luc Hayward: <Media omitted>
+15/10/2019, 19:09 - Boyd Kane: WhatsApp*?
+15/10/2019, 19:14 - Luc Hayward: yeah
+15/10/2019, 19:15 - Luc Hayward: Like that 100% isn't helpful to you
+15/10/2019, 19:15 - Boyd Kane: Aww
+15/10/2019, 19:16 - Luc Hayward: I don't even think it runs
+15/10/2019, 19:16 - Luc Hayward: <Media omitted>
+15/10/2019, 19:17 - Boyd Kane: Okay, I'll figure something else out
